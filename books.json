@@ -1,5 +1,25 @@
 [
   {
+    "id": "mnyv2nifnytyq7qya5c",
+    "dateAdded": 1776185645703,
+    "loan": null,
+    "title": "De las conjuras",
+    "author": "Niccolò Machiavelli",
+    "publisher": "TAURUS",
+    "year": 2012,
+    "pages": 144,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788430609291",
+    "cover": "https://covers.openlibrary.org/b/id/13531575-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776185645703
+  },
+  {
     "id": "mnyv23sjchf85j9q53m",
     "dateAdded": 1776185620147,
     "loan": null,
