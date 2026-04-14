@@ -1,5 +1,25 @@
 [
   {
+    "id": "mnyvrorvixm5xxuwrv8",
+    "dateAdded": 1776186813739,
+    "loan": null,
+    "title": "Los orígenes del totalitarismo",
+    "author": "Hannah Arendt",
+    "publisher": "Taurus",
+    "year": 1999,
+    "pages": 619,
+    "language": "Español",
+    "genre": "Antisemitism",
+    "isbn": "9788430602889",
+    "cover": "https://covers.openlibrary.org/b/id/8230427-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776186813739
+  },
+  {
     "id": "mnyvrcf9lcvh5j25jn",
     "dateAdded": 1776186797733,
     "loan": null,
