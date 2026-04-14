@@ -1,5 +1,25 @@
 [
   {
+    "id": "mnyuz0ko4qpm5e3qrp8",
+    "dateAdded": 1776185476008,
+    "loan": null,
+    "title": "Discursos sobre la primera década de Tito Livio",
+    "author": "Niccolò Machiavelli, Sandra Chaparro Martínez",
+    "publisher": "Alianza",
+    "year": 1987,
+    "pages": 459,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788420635699",
+    "cover": "https://covers.openlibrary.org/b/id/5258379-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776185476008
+  },
+  {
     "id": "mnyuym6rviin9hwu9qi",
     "dateAdded": 1776185457363,
     "loan": null,
