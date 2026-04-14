@@ -1,5 +1,24 @@
 [
   {
+    "id": "mnyuvqt4nv24bzsbsnc",
+    "dateAdded": 1776185323384,
+    "loan": null,
+    "title": "Sociologia de La Religion",
+    "author": "M. Weber",
+    "publisher": "Istmo",
+    "year": 1997,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788470903076",
+    "cover": "https://covers.openlibrary.org/b/id/7913631-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mnyuuy0j69795uorusr",
     "dateAdded": 1776185286067,
     "loan": null,
