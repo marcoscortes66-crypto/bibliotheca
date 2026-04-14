@@ -1,5 +1,25 @@
 [
   {
+    "id": "mnyvl26roinrpqyztn",
+    "dateAdded": 1776186504531,
+    "loan": null,
+    "title": "Obediencia a la Autoridad",
+    "author": "S. Milgram",
+    "publisher": "Desclee de Brouwer",
+    "year": 1992,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788433004413",
+    "cover": "https://m.media-amazon.com/images/I/51HHKbXazrL._AC_UF1000,1000_QL80_.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776186504531
+  },
+  {
     "id": "mnyviy6h71qn8gc7yzk",
     "dateAdded": 1776186406025,
     "loan": null,
