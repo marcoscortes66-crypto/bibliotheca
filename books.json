@@ -1,5 +1,25 @@
 [
   {
+    "id": "mnyvmzt0k1o8yzfkrto",
+    "dateAdded": 1776186594756,
+    "loan": null,
+    "title": "El refugio de la memoria",
+    "author": "Tony Judt",
+    "publisher": "TAURUS",
+    "year": 2011,
+    "pages": 248,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788430608171",
+    "cover": "https://covers.openlibrary.org/b/id/13951721-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776186594756
+  },
+  {
     "id": "mnyvm59au1bh7xsyuk8",
     "dateAdded": 1776186555166,
     "loan": null,
