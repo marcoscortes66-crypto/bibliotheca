@@ -619,44 +619,17 @@ let lastRoom = '';
 let lastShelf = '';
 let scannerActive = false;
 let serverMode = false;
-let dropboxMode = false;
+let githubMode = false;
 let syncInterval = null;
 let lastSyncTime = 0;
 
 const API = window.location.origin + '/api';
-
-// ─── NETLIFY ───
-const NETLIFY_SITE_ID = 'c69f063c-35e6-4672-8587-3190055f2ca9';
-const NETLIFY_TOKEN   = 'nfp_rsd9PGFM8UWjzXCTFzn9wN4DsRVY8msN8b77';
-const NETLIFY_URL     = 'https://marcoscortes66-crypto.github.io/bibliotheca/books.json';
-
-async function netlifyLoad() {
-  const r = await fetch(NETLIFY_URL + '?t=' + Date.now());
-  if (!r.ok) return null;
-  return await r.json();
-}
-
-async function netlifySave(data) {
-  // Subir books.json a Netlify via API
-  const formData = new FormData();
-  const blob = new Blob([JSON.stringify(data)], { type: 'application/json' });
-  formData.append('file', blob, 'books.json');
-
-  const r = await fetch(`https://api.netlify.com/api/v1/sites/${NETLIFY_SITE_ID}/files/books.json`, {
-    method: 'PUT',
-    headers: {
-      'Authorization': 'Bearer ' + NETLIFY_TOKEN,
-      'Content-Type': 'application/octet-stream'
-    },
-    body: JSON.stringify(data)
-  });
-  if (!r.ok) throw new Error('Netlify save error ' + r.status);
-}
+const GITHUB_URL = 'https://marcoscortes66-crypto.github.io/bibliotheca/books.json';
 
 // ─── ARRANQUE ───
 async function detectServer() {
-  let localOk   = false;
-  let netlifyOk = false;
+  let localOk  = false;
+  let githubOk = false;
 
   try {
     const r = await fetch(API + '/ping', { signal: AbortSignal.timeout(1500) });
@@ -665,24 +638,20 @@ async function detectServer() {
   } catch(e) {}
 
   try {
-    const r = await fetch('https://heroic-croissant-1a7ed0.netlify.app/books.json?t=' + Date.now());
-    if (r.ok) netlifyOk = true;
+    const r = await fetch(GITHUB_URL + '?t=' + Date.now());
+    if (r.ok) githubOk = true;
   } catch(e) {}
 
-  serverMode  = localOk;
-  dropboxMode = netlifyOk;
+  serverMode = localOk;
+  githubMode = githubOk;
 
-  if (localOk && netlifyOk) {
-    await loadBestSource();
-    updateSyncLabel();
-    syncInterval = setInterval(pollServer, 15000);
-  } else if (localOk) {
+  if (localOk) {
     updateSyncLabel();
     await loadFromServer();
     syncInterval = setInterval(pollServer, 15000);
-  } else if (netlifyOk) {
+  } else if (githubOk) {
     updateSyncLabel();
-    await loadFromDropbox();
+    await loadFromGithub();
   } else {
     updateSyncLabel();
     loadFromLocalStorage();
@@ -692,56 +661,19 @@ async function detectServer() {
 function updateSyncLabel() {
   const label  = document.getElementById('sync-mode-label');
   const detail = document.getElementById('sync-detail');
-  if (serverMode && dropboxMode) {
-    label.textContent  = '🔄 PC + Netlify';
-    detail.textContent = 'Réplica activa en ambos sitios';
+  if (serverMode) {
+    label.textContent  = '🔄 PC activo';
+    detail.textContent = 'Sincronizado con GitHub';
     setSyncStatus('ok');
-  } else if (serverMode) {
-    label.textContent  = '🌐 Servidor local';
-    detail.textContent = 'Sin conexión a Netlify';
-    setSyncStatus('ok');
-  } else if (dropboxMode) {
-    label.textContent  = '☁️ Solo Netlify';
-    detail.textContent = 'PC apagado — usando la nube';
+  } else if (githubMode) {
+    label.textContent  = '☁️ Solo GitHub';
+    detail.textContent = 'PC apagado — última versión guardada';
     setSyncStatus('ok');
   } else {
     label.textContent  = '💾 Modo local';
-    detail.textContent = 'Sin servidor ni nube';
+    detail.textContent = 'Sin servidor ni GitHub';
     setSyncStatus('err');
   }
-}
-
-async function loadBestSource() {
-  const [localRes, netlifyRes] = await Promise.allSettled([
-    fetch(API + '/books').then(r => r.json()),
-    netlifyLoad()
-  ]);
-
-  const localBooks   = localRes.status === 'fulfilled'   ? localRes.value   : null;
-  const netlifyBooks = netlifyRes.status === 'fulfilled' ? netlifyRes.value : null;
-
-  if (!localBooks && !netlifyBooks) { loadFromLocalStorage(); return; }
-  if (!netlifyBooks) { books = normalizeBooks(localBooks);   renderBooks(); return; }
-  if (!localBooks)   { books = normalizeBooks(netlifyBooks); renderBooks(); return; }
-
-  const tsOf = arr => Math.max(...arr.map(b => b.dateAdded || 0));
-  const localTs   = tsOf(localBooks);
-  const netlifyTs = tsOf(netlifyBooks);
-
-  if (netlifyTs > localTs) {
-    books = normalizeBooks(netlifyBooks);
-    renderBooks();
-    showNotif('☁️ Datos más recientes cargados desde Netlify');
-    try { await fetch(API + '/books', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(books) }); } catch(e) {}
-  } else {
-    books = normalizeBooks(localBooks);
-    renderBooks();
-    if (localTs > netlifyTs) {
-      showNotif('🔄 Netlify actualizado con datos locales');
-      try { await netlifySave(books); } catch(e) {}
-    }
-  }
-  lastSyncTime = Date.now();
 }
 
 async function loadFromServer() {
@@ -749,39 +681,24 @@ async function loadFromServer() {
     const r = await fetch(API + '/books');
     books = normalizeBooks(await r.json());
     lastSyncTime = Date.now();
-    // Guardar copia offline en localStorage
     localStorage.setItem('bibliotheca_books', JSON.stringify(books));
     renderBooks();
   } catch(e) {
-    // Sin servidor: usar última copia guardada
-    const cached = localStorage.getItem('bibliotheca_books');
-    if (cached) {
-      try {
-        books = normalizeBooks(JSON.parse(cached));
-        renderBooks();
-        showNotif('📴 Sin conexión — mostrando última actualización');
-        document.getElementById('sync-mode-label').textContent = '📴 Sin conexión';
-        document.getElementById('sync-detail').textContent = 'Última actualización guardada';
-        setSyncStatus('err');
-        return;
-      } catch(e2) {}
-    }
-    loadFromLocalStorage();
+    if (githubMode) await loadFromGithub();
+    else loadFromLocalStorage();
   }
 }
 
-async function loadFromDropbox() {
+async function loadFromGithub() {
   try {
-    const data = await netlifyLoad();
-    if (data) {
-      books = normalizeBooks(data);
-      lastSyncTime = Date.now();
-      renderBooks();
-    } else {
-      loadFromLocalStorage();
-    }
+    const r = await fetch(GITHUB_URL + '?t=' + Date.now());
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    books = normalizeBooks(data);
+    lastSyncTime = Date.now();
+    renderBooks();
   } catch(e) {
-    showNotif('⚠️ Error cargando desde Netlify');
+    showNotif('⚠️ Error cargando desde GitHub');
     loadFromLocalStorage();
   }
 }
@@ -805,21 +722,18 @@ async function pollServer() {
 async function save() {
   setSyncStatus('sync');
   localStorage.setItem('bibliotheca_books', JSON.stringify(books));
-
-  const ops = [];
-  if (serverMode)  ops.push(fetch(API + '/books', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(books) }));
-  if (dropboxMode) ops.push(netlifySave(books));
-
-  if (ops.length === 0) { setSyncStatus('ok'); return; }
-
-  const results = await Promise.allSettled(ops);
-  const anyErr  = results.some(r => r.status === 'rejected');
-  if (anyErr) {
-    setSyncStatus('err');
-    showNotif('⚠️ Error al guardar en uno de los destinos');
-  } else {
+  if (!serverMode) { setSyncStatus('ok'); return; }
+  try {
+    await fetch(API + '/books', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(books)
+    });
     setSyncStatus('ok');
     lastSyncTime = Date.now();
+  } catch(e) {
+    setSyncStatus('err');
+    showNotif('⚠️ Error de sincronización');
   }
 }
 
@@ -1791,5 +1705,4 @@ if ('serviceWorker' in navigator) {
 }
 </script>
 </body>
-<!-- v5 -->
 </html>
