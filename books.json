@@ -1,5 +1,25 @@
 [
   {
+    "id": "mnyvb9vqu7492g8q0lo",
+    "dateAdded": 1776186047942,
+    "loan": null,
+    "title": "Política",
+    "author": "David Runciman",
+    "publisher": "Turner Publicaciones",
+    "year": 2014,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788416142156",
+    "cover": "https://covers.openlibrary.org/b/id/8072941-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776186047942
+  },
+  {
     "id": "mnyv9p78wuz8q1xjh1l",
     "dateAdded": 1776185974484,
     "loan": null,
