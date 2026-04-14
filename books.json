@@ -1,5 +1,24 @@
 [
   {
+    "id": "mnyv9p78wuz8q1xjh1l",
+    "dateAdded": 1776185974484,
+    "loan": null,
+    "title": "Discursos políticos",
+    "author": "José Ortega y Gasset",
+    "publisher": "Alianza",
+    "year": 1974,
+    "pages": 285,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "8420615005",
+    "cover": "https://covers.openlibrary.org/b/id/4446498-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mnyv8sqjwftg7xv9q39",
     "dateAdded": 1776185932411,
     "loan": null,
