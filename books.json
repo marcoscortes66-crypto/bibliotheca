@@ -1,5 +1,25 @@
 [
   {
+    "id": "mnyvnj5cqemxz0szhwc",
+    "dateAdded": 1776186619824,
+    "loan": null,
+    "title": "Una herencia incómoda",
+    "author": "Nicholas Wade",
+    "publisher": "Ariel",
+    "year": 2015,
+    "pages": 304,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788434419254",
+    "cover": "https://covers.openlibrary.org/b/id/7354842-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776186619824
+  },
+  {
     "id": "mnyvmzt0k1o8yzfkrto",
     "dateAdded": 1776186594756,
     "loan": null,
