@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo0a47whxrz8pwfnha9",
+    "dateAdded": 1776271379201,
+    "loan": null,
+    "title": "El diario de Hamlet García",
+    "author": "Paulino Masip",
+    "publisher": "Comunidad de Madrid, Consejería de Educación",
+    "year": 2000,
+    "pages": 279,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788475228051",
+    "cover": "https://covers.openlibrary.org/b/id/12655822-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776271379201
+  },
+  {
     "id": "mo0a3hzu90i9ce958c7",
     "dateAdded": 1776271345626,
     "loan": null,
