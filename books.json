@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo09hpl4gzan0pwd0n",
+    "dateAdded": 1776270329033,
+    "loan": null,
+    "title": "Historia Economica de La Poblacion Mundial",
+    "author": "Carlos M. Cipolla",
+    "publisher": "Critica (Grijalbo Mondadori)",
+    "year": 2003,
+    "pages": 184,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788484321460",
+    "cover": "https://covers.openlibrary.org/b/id/1048400-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776270329033
+  },
+  {
     "id": "mo09gntztp3v4ne1w9",
     "dateAdded": 1776270280103,
     "loan": null,
