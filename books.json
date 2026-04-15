@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo09i3zum7sna0qlrfa",
+    "dateAdded": 1776270347706,
+    "loan": null,
+    "title": "Entre La Historia y La Economia",
+    "author": "Carlos M. Cipolla",
+    "publisher": "Planeta",
+    "year": 1992,
+    "pages": 280,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788474235036",
+    "cover": "https://covers.openlibrary.org/b/id/3329307-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776270347706
+  },
+  {
     "id": "mo09hpl4gzan0pwd0n",
     "dateAdded": 1776270329033,
     "loan": null,
