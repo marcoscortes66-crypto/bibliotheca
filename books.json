@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo0aij6npmqabfodvyp",
+    "dateAdded": 1776272047007,
+    "loan": null,
+    "title": "Las paradojas de Mr. Pond",
+    "author": "",
+    "publisher": "Valdemar",
+    "year": 1998,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788477022411",
+    "cover": "https://covers.openlibrary.org/b/id/7295172-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776272047007
+  },
+  {
     "id": "mo0ahsmq9e9nl3bawgl",
     "dateAdded": 1776272012594,
     "loan": null,
