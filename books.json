@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo0a6fuwzycdzuvsz28",
+    "dateAdded": 1776271482824,
+    "loan": null,
+    "title": "El Unicornio",
+    "author": "Manuel Mujica Láinez",
+    "publisher": "Planeta Pub Corp",
+    "year": 1995,
+    "pages": 385,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788432204876",
+    "cover": "https://covers.openlibrary.org/b/id/5264535-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo0a5nj7u89qx9gnij",
     "dateAdded": 1776271446115,
     "loan": null,
