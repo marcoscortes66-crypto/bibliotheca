@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo09xdfavbdhxkvu5o9",
+    "dateAdded": 1776271059766,
+    "loan": null,
+    "title": "Propaganda",
+    "author": "Edward L. Bernays",
+    "publisher": "Melusina",
+    "year": 2008,
+    "pages": 200,
+    "language": "Español",
+    "genre": "Brainwash",
+    "isbn": "9788496614420",
+    "cover": "https://covers.openlibrary.org/b/id/13448412-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776271059766
+  },
+  {
     "id": "mo09x18vmrg7pgban8o",
     "dateAdded": 1776271043983,
     "loan": null,
