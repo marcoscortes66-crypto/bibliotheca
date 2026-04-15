@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo0a3hzu90i9ce958c7",
+    "dateAdded": 1776271345626,
+    "loan": null,
+    "title": "Masa y poder",
+    "author": "Elias Canetti",
+    "publisher": "",
+    "year": 2002,
+    "pages": 950,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788481093582",
+    "cover": "https://books.google.com/books/content?id=37YiPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo09xdfavbdhxkvu5o9",
     "dateAdded": 1776271059766,
     "loan": null,
