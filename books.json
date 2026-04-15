@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo0abzwdhg9ukx4u6u",
+    "dateAdded": 1776271742077,
+    "loan": null,
+    "title": "El Hombre Que Fue Jueves",
+    "author": "Gilbert Keith Chesterton",
+    "publisher": "",
+    "year": 2000,
+    "pages": 311,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788477023043",
+    "cover": "https://books.google.com/books/content?id=PHBcPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776271742077
+  },
+  {
     "id": "mo0abby4yiaif2as36q",
     "dateAdded": 1776271711036,
     "loan": null,
