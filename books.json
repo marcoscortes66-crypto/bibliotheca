@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo09b2wvrp4x74597yc",
+    "dateAdded": 1776270019711,
+    "loan": null,
+    "title": "Matar un ruiseñor",
+    "author": "Harper Lee",
+    "publisher": "Ediciones B",
+    "year": 2011,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788498722734",
+    "cover": "https://covers.openlibrary.org/b/id/12907441-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo09ak3680oo9ch5w9l",
     "dateAdded": 1776269995314,
     "loan": null,
