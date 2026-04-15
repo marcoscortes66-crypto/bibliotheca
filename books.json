@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo09x18vmrg7pgban8o",
+    "dateAdded": 1776271043983,
+    "loan": null,
+    "title": "Las consecuencias económicas de la paz",
+    "author": "John Maynard Keynes, Juan Uña Gómez",
+    "publisher": "Austral",
+    "year": 2013,
+    "pages": 208,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788408041382",
+    "cover": "https://covers.openlibrary.org/b/id/10724719-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776271043983
+  },
+  {
     "id": "mo09wp64xzi5d3tvdm",
     "dateAdded": 1776271028332,
     "loan": null,
