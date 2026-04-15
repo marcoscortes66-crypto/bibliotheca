@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo0apyk5ye70oa4vk8r",
+    "dateAdded": 1776272393525,
+    "loan": null,
+    "title": "La velocidad de la luz",
+    "author": "Javier Cercas",
+    "publisher": "Tusquets Editores",
+    "year": 2005,
+    "pages": 305,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788483102985",
+    "cover": "https://covers.openlibrary.org/b/id/1048294-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776272393525
+  },
+  {
     "id": "mo0apbqme1wpjj26zf",
     "dateAdded": 1776272363950,
     "loan": null,
