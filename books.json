@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo0ambuvbd6vg07w3ce",
+    "dateAdded": 1776272224135,
+    "loan": null,
+    "title": "Las Chorradas De Mi Padre",
+    "author": "Justin Halpern",
+    "publisher": "Rba Libros",
+    "year": 2011,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo, Humor",
+    "isbn": "9788498678970",
+    "cover": "https://covers.openlibrary.org/b/id/7843141-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776272224135
+  },
+  {
     "id": "mo0ala3ud8l0o2t15r",
     "dateAdded": 1776272175210,
     "loan": null,
