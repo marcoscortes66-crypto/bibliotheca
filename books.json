@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo0apbqme1wpjj26zf",
+    "dateAdded": 1776272363950,
+    "loan": null,
+    "title": "El Da De La Lechuza",
+    "author": "Leonardo Sciascia",
+    "publisher": "TusQuets",
+    "year": 2008,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788483830765",
+    "cover": "https://covers.openlibrary.org/b/id/7740124-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo0aosq8ruvf5tghtft",
     "dateAdded": 1776272339312,
     "loan": null,
