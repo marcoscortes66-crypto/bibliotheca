@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo0ahsmq9e9nl3bawgl",
+    "dateAdded": 1776272012594,
+    "loan": null,
+    "title": "El Juego De Ojos / The Play of the Eyes",
+    "author": "Elias Canetti",
+    "publisher": "Debolsillo",
+    "year": 2005,
+    "pages": 409,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788497937696",
+    "cover": "https://covers.openlibrary.org/b/id/5277936-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776272012594
+  },
+  {
     "id": "mo0ahafevq01fwuwsd8",
     "dateAdded": 1776271989002,
     "loan": null,
