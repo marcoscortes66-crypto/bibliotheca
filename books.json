@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo09wp64xzi5d3tvdm",
+    "dateAdded": 1776271028332,
+    "loan": null,
+    "title": "Escritos Politicos",
+    "author": "Max Weber",
+    "publisher": "Alianza",
+    "year": 1992,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788420605319",
+    "cover": "https://covers.openlibrary.org/b/id/5258844-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo09vw5kpw5f6obar18",
     "dateAdded": 1776270990728,
     "loan": null,
