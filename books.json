@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo0aswk89z2r5zgxpjj",
+    "dateAdded": 1776272530904,
+    "loan": null,
+    "title": "Soldados de Salamina",
+    "author": "Javier Cercas, Elisabeth Beyer, Aleksandar Grujicic, José Pablo García",
+    "publisher": "Tusquets",
+    "year": 2001,
+    "pages": 209,
+    "language": "Español",
+    "genre": "History of Spain",
+    "isbn": "9788483101612",
+    "cover": "https://covers.openlibrary.org/b/id/12856695-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776272530904
+  },
+  {
     "id": "mo0aschltrpghczrfa",
     "dateAdded": 1776272504889,
     "loan": null,
