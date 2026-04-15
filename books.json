@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo09fhk5y1f92uu7ili",
+    "dateAdded": 1776270225317,
+    "loan": null,
+    "title": "De Vidas Ajenas",
+    "author": "Emmanuel Carrère",
+    "publisher": "Anagrama",
+    "year": 2013,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788433977106",
+    "cover": "https://books.google.com/books/content?id=oak9lAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776270225317
+  },
+  {
     "id": "mo09e2618lf8vwy0f3s",
     "dateAdded": 1776270158713,
     "loan": null,
