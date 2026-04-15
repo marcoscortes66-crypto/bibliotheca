@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo09vw5kpw5f6obar18",
+    "dateAdded": 1776270990728,
+    "loan": null,
+    "title": "Las Constituciones Griegas",
+    "author": "Aristotle",
+    "publisher": "Akal Ediciones",
+    "year": 2006,
+    "pages": 160,
+    "language": "Español",
+    "genre": "",
+    "isbn": "8476001665",
+    "cover": "https://covers.openlibrary.org/b/id/3329745-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo09urqfluaz3wvs9ad",
     "dateAdded": 1776270938343,
     "loan": null,
