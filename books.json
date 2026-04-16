@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1rwuwpngwtjays228",
+    "dateAdded": 1776361735033,
+    "loan": null,
+    "title": "Berlin Alexanderplatz",
+    "author": "Alfred Döblin",
+    "publisher": "Destino Ediciones",
+    "year": 2003,
+    "pages": 536,
+    "language": "Español",
+    "genre": "German fiction",
+    "isbn": "9788423335077",
+    "cover": "https://covers.openlibrary.org/b/id/2269742-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776361735033
+  },
+  {
     "id": "mo1rwew82upwtf5dh7k",
     "dateAdded": 1776361714280,
     "loan": null,
