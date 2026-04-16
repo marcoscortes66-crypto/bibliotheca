@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1t6em642qahurkfnv",
+    "dateAdded": 1776363860094,
+    "loan": null,
+    "title": "El extranjero",
+    "author": "Albert Camus",
+    "publisher": "Alianza",
+    "year": 1984,
+    "pages": 143,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8420613126",
+    "cover": "https://covers.openlibrary.org/b/id/12722844-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776363860094
+  },
+  {
     "id": "mo1t3d3pqfz1ngl7e2",
     "dateAdded": 1776363718165,
     "loan": null,
