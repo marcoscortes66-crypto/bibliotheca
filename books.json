@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1rf3j8100bady8j9fa",
+    "dateAdded": 1776360906404,
+    "loan": null,
+    "title": "El director",
+    "author": "David Jiménez",
+    "publisher": "Libros del K.O",
+    "year": 2019,
+    "pages": 295,
+    "language": "Español",
+    "genre": "Nonfiction",
+    "isbn": "9788417678081",
+    "cover": "https://covers.openlibrary.org/b/id/10511916-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776360906404
+  },
+  {
     "id": "mo1rehu3od8lt6ykqjq",
     "dateAdded": 1776360878283,
     "loan": null,
