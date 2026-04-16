@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1l6vdk41w2g2wbham",
+    "dateAdded": 1776350444888,
+    "loan": null,
+    "title": "Yo, Claudio",
+    "author": "Robert Graves",
+    "publisher": "Alianza Editorial",
+    "year": 1998,
+    "pages": 568,
+    "language": "Español",
+    "genre": "Literature",
+    "isbn": "9788420635125",
+    "cover": "https://covers.openlibrary.org/b/id/15110476-L.jpg",
+    "notes": "El nombre de Livia",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776350444888
+  },
+  {
     "id": "mo1l6828usdboqg05r",
     "dateAdded": 1776350414672,
     "loan": null,
