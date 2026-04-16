@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1kscxgsuizy56c7s",
+    "dateAdded": 1776349767796,
+    "loan": null,
+    "title": "Don Quijote de la Mancha",
+    "author": "Andrés Trapiello",
+    "publisher": "Austral",
+    "year": 2019,
+    "pages": 1040,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788423355235",
+    "cover": "https://covers.openlibrary.org/b/id/11725068-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776349767796
+  },
+  {
     "id": "mo1kr9x2u6tjmtzzd1",
     "dateAdded": 1776349717238,
     "loan": null,
