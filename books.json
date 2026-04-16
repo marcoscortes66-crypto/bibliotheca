@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1ma9ki55t3gexmb0u",
+    "dateAdded": 1776352282866,
+    "loan": null,
+    "title": "Memoria de mis putas tristes",
+    "author": "Gabriel García Márquez",
+    "publisher": "Grupo Editorial Random House Mondadori, S.L.",
+    "year": 2004,
+    "pages": 109,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788439711650",
+    "cover": "https://covers.openlibrary.org/b/id/8170132-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776352282866
+  },
+  {
     "id": "mo1m9fpf1yiqjip07ok",
     "dateAdded": 1776352244163,
     "loan": null,
