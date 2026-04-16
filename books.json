@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1le2hauhij1irij5",
+    "dateAdded": 1776350780686,
+    "loan": null,
+    "title": "El general en su laberinto",
+    "author": "Gabriel García Márquez",
+    "publisher": "Editorial Oveja Negra",
+    "year": 1989,
+    "pages": 284,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9580600066",
+    "cover": "https://covers.openlibrary.org/b/id/8065292-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 1,
+    "dateRead": 1776350780686
+  },
+  {
     "id": "mo1lcn3mn03y9ea41cp",
     "dateAdded": 1776350714098,
     "loan": null,
