@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1n9mviul564e6wdqq",
+    "dateAdded": 1776353933070,
+    "loan": null,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "publisher": "RBA Ediciones S.A.",
+    "year": 1994,
+    "pages": 315,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8447306194",
+    "cover": "https://covers.openlibrary.org/b/id/7393266-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776353933070
+  },
+  {
     "id": "mo1n8c0230pcl51r8f7",
     "dateAdded": 1776353872322,
     "loan": null,
