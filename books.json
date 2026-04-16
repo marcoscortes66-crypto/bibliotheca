@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1r4pqxv51yv6ealcp",
+    "dateAdded": 1776360421977,
+    "loan": null,
+    "title": "La ciudad y los perros",
+    "author": "Mario Vargas Llosa",
+    "publisher": "Planeta-De Agostini",
+    "year": 1985,
+    "pages": 351,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8475513824",
+    "cover": "https://covers.openlibrary.org/b/id/12518831-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1r3upz1slz34yb4t4j",
     "dateAdded": 1776360381767,
     "loan": null,
