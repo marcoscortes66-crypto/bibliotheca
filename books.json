@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1qwyzn8xajfmgcdia",
+    "dateAdded": 1776360060707,
+    "loan": null,
+    "title": "Gran Sol",
+    "author": "Ignacio Aldecoa",
+    "publisher": "El País",
+    "year": 2003,
+    "pages": 294,
+    "language": "Español",
+    "genre": "Spanish imprints",
+    "isbn": "9788496246058",
+    "cover": "https://covers.openlibrary.org/b/id/14577767-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1q3kjy1ogtn6xf3brj",
     "dateAdded": 1776358688974,
     "loan": null,
