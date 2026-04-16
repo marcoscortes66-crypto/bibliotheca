@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1m675hmem07d9x1no",
+    "dateAdded": 1776352093109,
+    "loan": null,
+    "title": "La hojarasca",
+    "author": "Gabriel García Márquez",
+    "publisher": "Plaza & Janés",
+    "year": 1979,
+    "pages": 140,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8401441064",
+    "cover": "https://covers.openlibrary.org/b/id/13741838-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776352093109
+  },
+  {
     "id": "mo1m4ho60nlickz5q9uo",
     "dateAdded": 1776352013430,
     "loan": null,
