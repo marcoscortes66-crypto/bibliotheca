@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1wmdrqbayccqkygr",
+    "dateAdded": 1776369644342,
+    "loan": null,
+    "title": "Veinticinco agosto 1983",
+    "author": "Jorge Luis Borges",
+    "publisher": "Ediciones Siruela",
+    "year": 1983,
+    "pages": 151,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788485876099",
+    "cover": "https://covers.openlibrary.org/b/id/10115294-M.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776369644342
+  },
+  {
     "id": "mo1wjrkkepem807y6en",
     "dateAdded": 1776369522260,
     "loan": null,
