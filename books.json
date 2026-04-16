@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1r3662mmvl9yisp2",
+    "dateAdded": 1776360349946,
+    "loan": null,
+    "title": "Carta de una desconocida ; Leporella",
+    "author": "Stefan Zweig",
+    "publisher": "Diario El País",
+    "year": 2003,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788489669758",
+    "cover": "https://covers.openlibrary.org/b/id/7897449-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776360349946
+  },
+  {
     "id": "mo1r28ybd61x8ju5ksn",
     "dateAdded": 1776360306899,
     "loan": null,
