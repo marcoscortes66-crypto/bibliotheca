@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1rsuvjmx01ryhxv1b",
+    "dateAdded": 1776361548367,
+    "loan": null,
+    "title": "El Corazon De Las Tinieblas",
+    "author": "Joseph Conrad",
+    "publisher": "Alianza",
+    "year": 2005,
+    "pages": 176,
+    "language": "Español",
+    "genre": "Fiction",
+    "isbn": "9788420634296",
+    "cover": "https://covers.openlibrary.org/b/id/4902307-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776361548367
+  },
+  {
     "id": "mo1rsc0hiwk56axfyp",
     "dateAdded": 1776361523921,
     "loan": null,
