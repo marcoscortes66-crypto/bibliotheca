@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1piwis3pe5gmrtx6k",
+    "dateAdded": 1776357724708,
+    "loan": null,
+    "title": "Extraños en un tren",
+    "author": "Patricia Highsmith",
+    "publisher": "Seix Barral",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8432220008",
+    "cover": "",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1pfbimjijjwyonbo",
     "dateAdded": 1776357557518,
     "loan": null,
