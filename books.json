@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1lm7l3iawk6udeo1",
+    "dateAdded": 1776351160551,
+    "loan": null,
+    "title": "Matadero Cinco",
+    "author": "Kurt Vonnegut",
+    "publisher": "Anagrama",
+    "year": 1991,
+    "pages": 188,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788433920317",
+    "cover": "https://covers.openlibrary.org/b/id/15133823-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1le2hauhij1irij5",
     "dateAdded": 1776350780686,
     "loan": null,
