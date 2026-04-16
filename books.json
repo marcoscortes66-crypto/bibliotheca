@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1n0ksnukmz3ofqy2",
+    "dateAdded": 1776353510471,
+    "loan": null,
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "publisher": "Editorial Sudamericana",
+    "year": 1970,
+    "pages": 432,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRBgwNwuAliXZXHLDxRHDXNiDyrt4Ul-nhg&s",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776353510471
+  },
+  {
     "id": "mo1mwq2v8ojw5auti7a",
     "dateAdded": 1776353330695,
     "loan": null,
