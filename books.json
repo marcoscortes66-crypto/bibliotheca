@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1kr9x2u6tjmtzzd1",
+    "dateAdded": 1776349717238,
+    "loan": null,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "publisher": "Anagrama",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8041105001280",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVhkQ62YjRfEjz2Yvr6M69MtVBPpZLfBQSJA&s",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1km5rsir9i7g6ay4p",
     "dateAdded": 1776349478584,
     "loan": null,
