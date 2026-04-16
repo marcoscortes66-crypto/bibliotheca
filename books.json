@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1r8k2xurhdryyyox",
+    "dateAdded": 1776360601257,
+    "loan": null,
+    "title": "Memorias de Adriano",
+    "author": "Marguerite Yourcenar",
+    "publisher": "Orbis",
+    "year": 1988,
+    "pages": 272,
+    "language": "Español",
+    "genre": "Love",
+    "isbn": "8440202180",
+    "cover": "https://covers.openlibrary.org/b/id/12458018-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776360601257
+  },
+  {
     "id": "mo1r7qgzb1p8zii4ks7",
     "dateAdded": 1776360562883,
     "loan": null,
