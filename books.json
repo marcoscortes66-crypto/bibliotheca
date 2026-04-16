@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1t3d3pqfz1ngl7e2",
+    "dateAdded": 1776363718165,
+    "loan": null,
+    "title": "Los Idus de Marzo",
+    "author": "Thornton Wilder",
+    "publisher": "Alianza",
+    "year": 1998,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8420615013",
+    "cover": "https://covers.openlibrary.org/b/id/13862120-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776363718165
+  },
+  {
     "id": "mo1t28mqicbi4dfrfd",
     "dateAdded": 1776363665714,
     "loan": null,
