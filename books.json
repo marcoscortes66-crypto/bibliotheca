@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1l94xe6d3qiva0d2",
+    "dateAdded": 1776350550578,
+    "loan": null,
+    "title": "Crónica de una Muerte Anunciada",
+    "author": "Gabriel García Márquez",
+    "publisher": "Seix Barral",
+    "year": 1983,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8432221627",
+    "cover": "https://covers.openlibrary.org/b/id/7259447-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776350550578
+  },
+  {
     "id": "mo1l81m5hbmgmjetg8l",
     "dateAdded": 1776350499629,
     "loan": null,
