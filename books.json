@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1wnm01f6ln3r8qj24",
+    "dateAdded": 1776369701665,
+    "loan": null,
+    "title": "Los girasoles ciegos",
+    "author": "Alberto Méndez Borra",
+    "publisher": "Editorial Anagrama",
+    "year": 2004,
+    "pages": 155,
+    "language": "Español",
+    "genre": "Spain, history, civil war, 1936-1939, fiction",
+    "isbn": "9788433968555",
+    "cover": "https://covers.openlibrary.org/b/id/1047308-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776369701665
+  },
+  {
     "id": "mo1wmdrqbayccqkygr",
     "dateAdded": 1776369644342,
     "loan": null,
