@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1nfvj7nnojgkcmpq",
+    "dateAdded": 1776354224227,
+    "loan": null,
+    "title": "Cent´anni di solitudine",
+    "author": "Gabriel García Márquez",
+    "publisher": "La Repubblica",
+    "year": 2002,
+    "pages": 348,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9770390107900",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x0Ca60VYYAXfzpOv0QG6CQfcC5v4rT756g&s",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1nat1u2uenr51zepa",
     "dateAdded": 1776353987730,
     "loan": null,
