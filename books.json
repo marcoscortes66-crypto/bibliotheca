@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1kfijsvg9i5ilwt2",
+    "dateAdded": 1776349168552,
+    "loan": null,
+    "title": "Crimen y castigo",
+    "author": "Fiodor Mijaïlovich Dostoevskiï",
+    "publisher": "",
+    "year": 1975,
+    "pages": 512,
+    "language": "Español",
+    "genre": "",
+    "isbn": "843710226x",
+    "cover": "",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1kbgz0ipcy8vp16j",
     "dateAdded": 1776348979884,
     "loan": null,
