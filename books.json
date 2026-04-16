@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1wieksltkeqdzi9i",
+    "dateAdded": 1776369458764,
+    "loan": null,
+    "title": "Mi visión del mundo",
+    "author": "Albert Einstein, Sara Gallardo, Marianne Bübeck",
+    "publisher": "Tusquets",
+    "year": 1991,
+    "pages": "",
+    "language": "Español",
+    "genre": "Biografías",
+    "isbn": "8472235912",
+    "cover": "https://covers.openlibrary.org/b/id/10659138-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776369458764
+  },
+  {
     "id": "mo1wh77f2ocjh99yg3y",
     "dateAdded": 1776369402555,
     "loan": null,
