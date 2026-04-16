@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1rn2kj0wcfe8dn1uuh",
+    "dateAdded": 1776361278403,
+    "loan": null,
+    "title": "Un hipster en la España vacía",
+    "author": "Daniel Gascón Rodríguez",
+    "publisher": "Literatura Random House",
+    "year": 2020,
+    "pages": 160,
+    "language": "Español",
+    "genre": "Men",
+    "isbn": "9788439737575",
+    "cover": "https://covers.openlibrary.org/b/id/10482957-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776361278403
+  },
+  {
     "id": "mo1rmghpdkx33h6aqcu",
     "dateAdded": 1776361249789,
     "loan": null,
