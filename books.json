@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1q0cvx2ka6iu9bvlw",
+    "dateAdded": 1776358539069,
+    "loan": null,
+    "title": "Sin noticias de Gurb",
+    "author": "Eduardo Mendoza",
+    "publisher": "Seix Barral",
+    "year": 2008,
+    "pages": 139,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788432207822",
+    "cover": "https://covers.openlibrary.org/b/id/15162943-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1pzjjb9yvdfa28bno",
     "dateAdded": 1776358501031,
     "loan": null,
