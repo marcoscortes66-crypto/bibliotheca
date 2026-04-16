@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1lv7sbwz6vbdjowr",
+    "dateAdded": 1776351580715,
+    "loan": null,
+    "title": "Los funerales de la Mama Grande",
+    "author": "Gabriel García Márquez",
+    "publisher": "Plaza & Janes",
+    "year": 1997,
+    "pages": 165,
+    "language": "Español",
+    "genre": "Spanish literature",
+    "isbn": "9788401427558",
+    "cover": "https://covers.openlibrary.org/b/id/10097333-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776351580715
+  },
+  {
     "id": "mo1lqc9nr5ri7fy7m7",
     "dateAdded": 1776351353243,
     "loan": null,
