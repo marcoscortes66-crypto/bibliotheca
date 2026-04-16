@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1kw14wpmyrcaonxhb",
+    "dateAdded": 1776349939136,
+    "loan": null,
+    "title": "La Fiesta del Chivo",
+    "author": "Mario Vargas Llosa",
+    "publisher": "Suma de Letras",
+    "year": 2001,
+    "pages": 568,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788466303316",
+    "cover": "https://covers.openlibrary.org/b/id/12563036-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776349939136
+  },
+  {
     "id": "mo1ktij0m95p0p3uz9",
     "dateAdded": 1776349821708,
     "loan": null,
