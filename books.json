@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1ptqdubhi12i8ai38",
+    "dateAdded": 1776358229970,
+    "loan": null,
+    "title": "Reflexiones, máximas y aforismos",
+    "author": "Friedrich Nietzsche, Luis Fernando Moreno Claros",
+    "publisher": "Valdemar",
+    "year": 2006,
+    "pages": 352,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788477023425",
+    "cover": "https://covers.openlibrary.org/b/id/13720983-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1pp0fgi8zytkp3pa",
     "dateAdded": 1776358009708,
     "loan": null,
