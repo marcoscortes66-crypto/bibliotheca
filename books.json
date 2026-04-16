@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo1pjru96rtjbmv9fb",
+    "dateAdded": 1776357765297,
+    "loan": null,
+    "title": "El invierno en Lisboa",
+    "author": "Antonio Muñoz Molina",
+    "publisher": "Seix Barral",
+    "year": 1989,
+    "pages": 187,
+    "language": "Español",
+    "genre": "Crime",
+    "isbn": "9788432245930",
+    "cover": "https://covers.openlibrary.org/b/id/4905003-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776357765297
+  },
+  {
     "id": "mo1piwis3pe5gmrtx6k",
     "dateAdded": 1776357724708,
     "loan": null,
