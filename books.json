@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1r5es2nzl5axfm9i",
+    "dateAdded": 1776360454418,
+    "loan": null,
+    "title": "Tumbas de Saint-Denis y Otros Relatos de Terror",
+    "author": "Alexandre Dumas",
+    "publisher": "El Pais",
+    "year": 2007,
+    "pages": "",
+    "language": "Español",
+    "genre": "Relatos",
+    "isbn": "9788498156850",
+    "cover": "https://covers.openlibrary.org/b/id/6391591-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1r4pqxv51yv6ealcp",
     "dateAdded": 1776360421977,
     "loan": null,
