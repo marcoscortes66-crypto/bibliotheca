@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1wo80w6hpylq79epe",
+    "dateAdded": 1776369730208,
+    "loan": null,
+    "title": "Yo, Otro. Cronica del Cambio",
+    "author": "Imre Kertész",
+    "publisher": "El Acantilado",
+    "year": 2004,
+    "pages": 143,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788495359902",
+    "cover": "https://covers.openlibrary.org/b/id/13172688-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1wnm01f6ln3r8qj24",
     "dateAdded": 1776369701665,
     "loan": null,
