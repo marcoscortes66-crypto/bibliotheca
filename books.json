@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo1l328biu28c3qu3iq",
+    "dateAdded": 1776350267147,
+    "loan": null,
+    "title": "Ensayo sobre la ceguera",
+    "author": "José Saramago",
+    "publisher": "",
+    "year": 2003,
+    "pages": 366,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8420400408",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHc7ShQ_UFILO0SJOa8cEBJ0mCPf6-wcd9sQ&s",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 3",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo1l1jf5evbihfh592v",
     "dateAdded": 1776350196113,
     "loan": null,
