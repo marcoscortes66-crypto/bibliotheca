@@ -8349,15 +8349,16 @@
     "publisher": "ALIANZA EDITORIAL",
     "year": 2020,
     "pages": "",
-    "language": "",
+    "language": "Español",
     "genre": "",
     "isbn": "9788491819950",
     "cover": "https://covers.openlibrary.org/b/id/10228583-L.jpg",
     "notes": "",
     "room": "Salón",
     "shelf": "sobre la tele",
-    "status": "pendiente",
-    "rating": 4
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776452345534
   },
   {
     "id": "mn91wum97ke9gxl8itn",
