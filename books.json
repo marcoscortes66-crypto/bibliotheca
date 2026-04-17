@@ -840,8 +840,9 @@
     "notes": "De los primero que me regalaron",
     "room": "Salón",
     "shelf": "Televisión 4",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776452039299
   },
   {
     "id": "mo1rwuwpngwtjays228",
