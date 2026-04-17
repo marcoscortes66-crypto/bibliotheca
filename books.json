@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo3bogtcz4o2uasyi7",
+    "dateAdded": 1776455402016,
+    "loan": null,
+    "title": "Juegos reunidos",
+    "author": "Marcos Ordóñez",
+    "publisher": "Libros del Asteroide",
+    "year": 2016,
+    "pages": 308,
+    "language": "Español",
+    "genre": "Relatos",
+    "isbn": "9788416213658",
+    "cover": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQzOTTbR1NVQhUo7OeOQ511M4Fl9oB4JsW-Y9yrfjcz3NG4Y2X1zgyqRlwZwx7TtuAvm1se1wM7YxxRt9Ia2shKhVHoT1ZrboXjfV312qEoVgHF4ysNxN6k",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776455402016
+  },
+  {
     "id": "mo3bmr9zr0r7p6xwivh",
     "dateAdded": 1776455322263,
     "loan": null,
