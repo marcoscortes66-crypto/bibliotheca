@@ -8270,15 +8270,16 @@
     "publisher": "Editorial Juventud, S.A.",
     "year": 2012,
     "pages": 776,
-    "language": "",
+    "language": "Español",
     "genre": "Novela",
     "isbn": "9788426139283",
     "cover": "https://covers.openlibrary.org/b/id/13620745-L.jpg",
     "notes": "",
     "room": "",
     "shelf": "",
-    "status": "pendiente",
-    "rating": 2
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776452321991
   },
   {
     "id": "mn93c8si15hjp4nsz04",
