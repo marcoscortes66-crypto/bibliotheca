@@ -8290,15 +8290,16 @@
     "publisher": "Gallo Nero Ediciones",
     "year": 2014,
     "pages": 184,
-    "language": "",
+    "language": "Español",
     "genre": "",
     "isbn": "9788494235719",
     "cover": "https://covers.openlibrary.org/b/id/13579970-L.jpg",
     "notes": "",
     "room": "",
     "shelf": "",
-    "status": "pendiente",
-    "rating": 2
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776452329600
   },
   {
     "id": "mn93bo6ykd1gomnlun",
