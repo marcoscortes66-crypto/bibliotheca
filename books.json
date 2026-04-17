@@ -8310,15 +8310,16 @@
     "publisher": "",
     "year": 2025,
     "pages": "",
-    "language": "",
+    "language": "Español",
     "genre": "Ensayo",
     "isbn": "9788433929488",
     "cover": "https://cms.anagrama-ed.es/uploads/media/portadas/0001/29/67dd4970b1023c4aac0453910122f6516bf80e24.jpeg",
     "notes": "",
     "room": "Salón",
     "shelf": "1",
-    "status": "pendiente",
-    "rating": 2
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776452338205
   },
   {
     "id": "mn93awku4uxesz8rxn3",
