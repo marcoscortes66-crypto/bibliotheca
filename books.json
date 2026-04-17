@@ -6068,15 +6068,16 @@
     "publisher": "Planeta",
     "year": 1985,
     "pages": "",
-    "language": "",
+    "language": "Español",
     "genre": "Novela",
     "isbn": "8432086401",
     "cover": "https://covers.openlibrary.org/b/id/12818259-L.jpg",
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 1",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776452235199
   },
   {
     "id": "mnhonwjhms4ea78vyam",
