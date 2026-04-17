@@ -6404,15 +6404,16 @@
     "publisher": "Plaza & Janés",
     "year": 1990,
     "pages": 252,
-    "language": "",
+    "language": "Español",
     "genre": "",
     "isbn": "9788401443084",
     "cover": "https://covers.openlibrary.org/b/id/10884243-L.jpg",
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 1",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776452254278
   },
   {
     "id": "mnhddk9zer94m1c7qil",
