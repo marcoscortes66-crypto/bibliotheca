@@ -3619,8 +3619,9 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 3",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776452147095
   },
   {
     "id": "mnyv4hkntsoy50tga",
