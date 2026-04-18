@@ -9024,8 +9024,9 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Estantería 2",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 0,
+    "dateRead": 1776546077772
   },
   {
     "id": "mmgn99fimcly878725",
