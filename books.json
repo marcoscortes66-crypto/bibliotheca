@@ -8418,14 +8418,15 @@
     "year": 2023,
     "pages": "",
     "language": "Español",
-    "genre": "",
+    "genre": "Tebeo",
     "isbn": "9788469640401",
     "cover": "https://covers.openlibrary.org/b/id/14556750-L.jpg",
     "notes": "",
     "room": "Salón",
     "shelf": "Estantería 4",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776549244174
   },
   {
     "id": "mn95avwyq7q70g93pq",
