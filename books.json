@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo4wur33kp4h59ko5j",
+    "dateAdded": 1776551433375,
+    "loan": null,
+    "title": "Regimiento de navegación",
+    "author": "Andres García de Céspedes",
+    "publisher": "",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "",
+    "cover": "https://covers.openlibrary.org/b/id/12908954-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Estantería 1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo48oyhw9nltx69alru",
     "dateAdded": 1776510852260,
     "loan": null,
