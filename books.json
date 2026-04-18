@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo483c6aa8fwo8p6eul",
+    "dateAdded": 1776509843554,
+    "loan": null,
+    "title": "Una noche de perros",
+    "author": "Hugh Laurie",
+    "publisher": "Planeta",
+    "year": 2008,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela policíaca",
+    "isbn": "9788408074922",
+    "cover": "https://covers.openlibrary.org/b/id/11547825-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776509843554
+  },
+  {
     "id": "mo482cp4ukcs9bod7pd",
     "dateAdded": 1776509797576,
     "loan": null,
