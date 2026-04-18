@@ -1,5 +1,24 @@
 [
   {
+    "id": "mo48go5apx59xjz48rg",
+    "dateAdded": 1776510465598,
+    "loan": null,
+    "title": "La hora 25",
+    "author": "Constant V Gheorghiu",
+    "publisher": "Plaza y Janes",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "",
+    "cover": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_whmjpN4tZqtAByKH3D1mlqF7ZHBd-aHuzYIrAcj-lF7EDxId1v-HseIwlrk6LBtRZ0j1p9jgDN463ClhiKcJbqti1uTI",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mo48b8cydral3re0n3s",
     "dateAdded": 1776510211858,
     "loan": null,
