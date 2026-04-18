@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo48h7fnqwqh3wklne",
+    "dateAdded": 1776510490595,
+    "loan": null,
+    "title": "Kaddish Por el Hijo No Nacido",
+    "author": "Imre Kertész",
+    "publisher": "Quaderns Crema",
+    "year": 2002,
+    "pages": 147,
+    "language": "Español",
+    "genre": "Holocaust survivors",
+    "isbn": "9788495359377",
+    "cover": "https://covers.openlibrary.org/b/id/14021412-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776510490595
+  },
+  {
     "id": "mo48go5apx59xjz48rg",
     "dateAdded": 1776510465598,
     "loan": null,
