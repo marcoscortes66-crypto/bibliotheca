@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo47z99b6ytao0vvqnk",
+    "dateAdded": 1776509653151,
+    "loan": null,
+    "title": "Las 48 leyes del poder",
+    "author": "Robert Greene",
+    "publisher": "Espasa",
+    "year": 1999,
+    "pages": 2,
+    "language": "Español",
+    "genre": "Business",
+    "isbn": "9788467028904",
+    "cover": "https://covers.openlibrary.org/b/id/14047636-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776509653151
+  },
+  {
     "id": "mo47y57ewudn2fjgwlc",
     "dateAdded": 1776509601242,
     "loan": null,
