@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo481jpsvo330k0seu",
+    "dateAdded": 1776509760016,
+    "loan": null,
+    "title": "Enterrar a los muertos",
+    "author": "Ignacio Martínez de Pisón",
+    "publisher": "Seix Barral",
+    "year": 2005,
+    "pages": 269,
+    "language": "Español",
+    "genre": "Friends and associates",
+    "isbn": "9788432212055",
+    "cover": "https://covers.openlibrary.org/b/id/7285441-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1776509760016
+  },
+  {
     "id": "mo481130ukk5mstt0bc",
     "dateAdded": 1776509735868,
     "loan": null,
