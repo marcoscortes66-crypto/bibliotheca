@@ -8455,15 +8455,16 @@
     "publisher": "Planeta",
     "year": 1997,
     "pages": "",
-    "language": "",
+    "language": "Español",
     "genre": "Tebeo",
     "isbn": "9788408018445",
     "cover": "https://covers.openlibrary.org/b/id/10886230-L.jpg",
     "notes": "",
     "room": "Salón",
     "shelf": "1",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776544745593
   },
   {
     "id": "mn959f3pujkunzm889a",
