@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo487knvi1ykvizn0lm",
+    "dateAdded": 1776510041179,
+    "loan": null,
+    "title": "La Busca",
+    "author": "Pío Baroja",
+    "publisher": "Editorial Caro Raggio",
+    "year": 1991,
+    "pages": 302,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8470350145",
+    "cover": "https://covers.openlibrary.org/b/id/7281862-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776510041179
+  },
+  {
     "id": "mo486pazdxfflsw8zec",
     "dateAdded": 1776510000539,
     "loan": null,
