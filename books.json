@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo486pazdxfflsw8zec",
+    "dateAdded": 1776510000539,
+    "loan": null,
+    "title": "Un otoño romano",
+    "author": "Javier Reverte",
+    "publisher": "Debolsillo",
+    "year": 2015,
+    "pages": 320,
+    "language": "Español",
+    "genre": "Guías viajes",
+    "isbn": "9788490627730",
+    "cover": "https://covers.openlibrary.org/b/id/13556574-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776510000539
+  },
+  {
     "id": "mo484aabt8i0e3x0fbq",
     "dateAdded": 1776509887763,
     "loan": null,
