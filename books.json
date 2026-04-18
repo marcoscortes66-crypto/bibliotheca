@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo47s90is3ym66vtho",
+    "dateAdded": 1776509326242,
+    "loan": null,
+    "title": "Por Que Leer Los Clasicos?",
+    "author": "Italo Calvino",
+    "publisher": "Tusquets",
+    "year": 2002,
+    "pages": 150,
+    "language": "Español",
+    "genre": "Literature",
+    "isbn": "9788472234994",
+    "cover": "https://covers.openlibrary.org/b/id/5014342-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776509326242
+  },
+  {
     "id": "mo47rtqjyfyzn90t9mq",
     "dateAdded": 1776509306443,
     "loan": null,
