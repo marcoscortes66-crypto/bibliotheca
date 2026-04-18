@@ -8494,15 +8494,16 @@
     "publisher": "EYROLLES",
     "year": 2011,
     "pages": 128,
-    "language": "",
+    "language": "Español",
     "genre": "",
     "isbn": "9782212132007",
     "cover": "https://covers.openlibrary.org/b/id/10841006-L.jpg",
     "notes": "",
     "room": "Salón",
     "shelf": "1",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1776544733810
   },
   {
     "id": "mn94zha8es3630cjkho",
