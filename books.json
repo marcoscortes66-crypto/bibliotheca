@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo484aabt8i0e3x0fbq",
+    "dateAdded": 1776509887763,
+    "loan": null,
+    "title": "El nombre de la rosa",
+    "author": "Umberto Eco",
+    "publisher": "Círculo de Lectores",
+    "year": 1983,
+    "pages": 461,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8422616467",
+    "cover": "https://covers.openlibrary.org/b/id/12446665-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776509887763
+  },
+  {
     "id": "mo483c6aa8fwo8p6eul",
     "dateAdded": 1776509843554,
     "loan": null,
