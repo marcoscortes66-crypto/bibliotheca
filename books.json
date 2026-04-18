@@ -1,5 +1,25 @@
 [
   {
+    "id": "mo482cp4ukcs9bod7pd",
+    "dateAdded": 1776509797576,
+    "loan": null,
+    "title": "Pedro Páramo",
+    "author": "Juan Rulfo",
+    "publisher": "Cátedra",
+    "year": 1983,
+    "pages": 198,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788437604183",
+    "cover": "https://covers.openlibrary.org/b/id/4909497-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776509797576
+  },
+  {
     "id": "mo481jpsvo330k0seu",
     "dateAdded": 1776509760016,
     "loan": null,
