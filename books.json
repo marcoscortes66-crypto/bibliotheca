@@ -410,8 +410,9 @@
     "notes": "Junto con \"Liquidad París\", fue mi primera compra de libros.",
     "room": "Salón",
     "shelf": "Televisión 4",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1776544249692
   },
   {
     "id": "mo3bjdq62qc3kswcuvq",
