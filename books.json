@@ -2056,8 +2056,9 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 4",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1776559081303
   },
   {
     "id": "mo1pfbimjijjwyonbo",
