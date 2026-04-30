@@ -1,5 +1,25 @@
 [
   {
+    "id": "molak4v039t1x07b8r",
+    "dateAdded": 1777541911453,
+    "loan": null,
+    "title": "Heart of Darkness (Penguin Popular Classics)",
+    "author": "Joseph Conrad",
+    "publisher": "Penguin Books Ltd",
+    "year": 1994,
+    "pages": 112,
+    "language": "Inglés",
+    "genre": "Fiction",
+    "isbn": "9780140620481",
+    "cover": "https://covers.openlibrary.org/b/isbn/9780140620481-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1777541911453
+  },
+  {
     "id": "molajka01mo6rn4dzyk",
     "dateAdded": 1777541884776,
     "loan": null,
