@@ -1,5 +1,24 @@
 [
   {
+    "id": "molabv9gi11reewrxyq",
+    "dateAdded": 1777541525764,
+    "loan": null,
+    "title": "Hacking Darwin",
+    "author": "Jamie Metzl",
+    "publisher": "Sourcebooks",
+    "year": 2019,
+    "pages": 352,
+    "language": "Inglés",
+    "genre": "Ensayo",
+    "isbn": "9781492670094",
+    "cover": "https://covers.openlibrary.org/b/id/8807926-L.jpg",
+    "notes": "Regalo de Livia en Tampa",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molab2t82r0wzutqc6s",
     "dateAdded": 1777541488892,
     "loan": null,
