@@ -1,5 +1,24 @@
 [
   {
+    "id": "molajka01mo6rn4dzyk",
+    "dateAdded": 1777541884776,
+    "loan": null,
+    "title": "Story of Art, The",
+    "author": "E. H. Gombrich",
+    "publisher": "Phaidon Press",
+    "year": 2006,
+    "pages": 1044,
+    "language": "Inglés",
+    "genre": "Art",
+    "isbn": "9780714847030",
+    "cover": "https://covers.openlibrary.org/b/id/454183-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molaj1l5i79gpw1sz4",
     "dateAdded": 1777541860553,
     "loan": null,
