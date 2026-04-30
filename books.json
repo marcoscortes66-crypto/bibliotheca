@@ -1,5 +1,25 @@
 [
   {
+    "id": "molb1ycem6amdnmnswa",
+    "dateAdded": 1777542742814,
+    "loan": null,
+    "title": "Slightly Out of Focus (Modern Library War)",
+    "author": "Robert Capa",
+    "publisher": "Modern Library",
+    "year": 2001,
+    "pages": 272,
+    "language": "Inglés",
+    "genre": "Photography",
+    "isbn": "9780375753961",
+    "cover": "https://covers.openlibrary.org/b/id/230082-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1777542742814
+  },
+  {
     "id": "molb1l6hrbq54aftq8j",
     "dateAdded": 1777542725753,
     "loan": null,
