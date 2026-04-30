@@ -1,5 +1,24 @@
 [
   {
+    "id": "mol9uxl6oqwwlhu9zyr",
+    "dateAdded": 1777540735626,
+    "loan": null,
+    "title": "The General of the dead army",
+    "author": "Ismail Kadare, Derek Coltman",
+    "publisher": "Quartet",
+    "year": 1986,
+    "pages": 255,
+    "language": "Inglés",
+    "genre": "Novela",
+    "isbn": "9780704334977",
+    "cover": "https://covers.openlibrary.org/b/id/9709418-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mol9uaanp5c8sp9np9n",
     "dateAdded": 1777540705439,
     "loan": null,
