@@ -1,5 +1,24 @@
 [
   {
+    "id": "mol9vyyjnlnc4dm98x",
+    "dateAdded": 1777540784059,
+    "loan": null,
+    "title": "The Old Man and the Sea (A Scribner Classic)",
+    "author": "Ernest Hemingway",
+    "publisher": "Collier Books",
+    "year": 1987,
+    "pages": "",
+    "language": "Inglés",
+    "genre": "Novela",
+    "isbn": "9780020519102",
+    "cover": "https://covers.openlibrary.org/b/id/6546825-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mol9uxl6oqwwlhu9zyr",
     "dateAdded": 1777540735626,
     "loan": null,
