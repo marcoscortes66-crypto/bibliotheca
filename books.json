@@ -1,5 +1,24 @@
 [
   {
+    "id": "mol8zrkyl63i1p114pp",
+    "dateAdded": 1777539281506,
+    "loan": null,
+    "title": "The Snapper",
+    "author": "Roddy Doyle",
+    "publisher": "Minerva",
+    "year": 1994,
+    "pages": 160,
+    "language": "Inglés",
+    "genre": "Fiction",
+    "isbn": "9780749336141",
+    "cover": "https://covers.openlibrary.org/b/id/9266388-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mol8z51u38lrodzq5b",
     "dateAdded": 1777539252306,
     "loan": null,
