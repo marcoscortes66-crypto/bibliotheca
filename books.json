@@ -1,5 +1,24 @@
 [
   {
+    "id": "molbtzr7pgbc0svm68",
+    "dateAdded": 1777544051011,
+    "loan": null,
+    "title": "Nosotros, los asesinos",
+    "author": "Eduardo de Guzmán",
+    "publisher": "G. del Toro : distribuye, Servicio Comerical del Libro",
+    "year": 1976,
+    "pages": 430,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8431202092",
+    "cover": "",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Estantería 2",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molbs5nguruct2jy92",
     "dateAdded": 1777543965340,
     "loan": null,
