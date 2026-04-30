@@ -1,5 +1,24 @@
 [
   {
+    "id": "mol9ts3jdip1h17w1xb",
+    "dateAdded": 1777540681855,
+    "loan": null,
+    "title": "Gospel of the Flying Spaghetti Monster",
+    "author": "Bobby Henderson",
+    "publisher": "HarperCollins Entertainment",
+    "year": 2006,
+    "pages": 240,
+    "language": "Inglés",
+    "genre": "Fiction",
+    "isbn": "9780007231607",
+    "cover": "https://covers.openlibrary.org/b/id/10190969-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mol9tc9cqwmxu0lv468",
     "dateAdded": 1777540661328,
     "loan": null,
