@@ -1,5 +1,25 @@
 [
   {
+    "id": "molb1l6hrbq54aftq8j",
+    "dateAdded": 1777542725753,
+    "loan": null,
+    "title": "The Joy Luck Club",
+    "author": "Amy Tan",
+    "publisher": "OUP Oxford",
+    "year": 2008,
+    "pages": "",
+    "language": "Inglés",
+    "genre": "Chinese americans, fiction",
+    "isbn": "9780194792639",
+    "cover": "https://covers.openlibrary.org/b/id/7350925-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1777542725753
+  },
+  {
     "id": "molb16xz7mdi2dy1d6x",
     "dateAdded": 1777542707303,
     "loan": null,
