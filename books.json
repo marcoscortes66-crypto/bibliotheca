@@ -1,5 +1,25 @@
 [
   {
+    "id": "molayc7dvtcdibto38",
+    "dateAdded": 1777542574153,
+    "loan": null,
+    "title": "Sweet science",
+    "author": "A. J. Liebling",
+    "publisher": "Simon & Schuster",
+    "year": 1987,
+    "pages": 306,
+    "language": "Inglés",
+    "genre": "Addresses, essays, lectures",
+    "isbn": "9780671655167",
+    "cover": "https://covers.openlibrary.org/b/id/223495-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1777542574153
+  },
+  {
     "id": "molatnf51ecq0u7vt4r",
     "dateAdded": 1777542355409,
     "loan": null,
