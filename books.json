@@ -1,5 +1,24 @@
 [
   {
+    "id": "molai88mh9s90kyysow",
+    "dateAdded": 1777541822518,
+    "loan": null,
+    "title": "L'amore è un cane che viene dall'inferno. Testo inglese a fronte",
+    "author": "Charles Bukowski",
+    "publisher": "",
+    "year": 2018,
+    "pages": "",
+    "language": "Italiano",
+    "genre": "Poesia",
+    "isbn": "9788823520141",
+    "cover": "https://books.google.com/books/content?id=ZsPdtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molahl3yguzi6gti8rt",
     "dateAdded": 1777541792543,
     "loan": null,
