@@ -1,5 +1,24 @@
 [
   {
+    "id": "molbfwlr8pxhpgy2ykj",
+    "dateAdded": 1777543393743,
+    "loan": null,
+    "title": "A Higher Call",
+    "author": "Adam Makos, Larry Alexander",
+    "publisher": "Dutton Caliber",
+    "year": 2014,
+    "pages": 400,
+    "language": "Inglés",
+    "genre": "Historia",
+    "isbn": "9780425255735",
+    "cover": "https://covers.openlibrary.org/b/id/11556876-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molbfeb332oe0oc9w9u",
     "dateAdded": 1777543370031,
     "loan": null,
