@@ -1,5 +1,24 @@
 [
   {
+    "id": "molf1jp64legi30r91d",
+    "dateAdded": 1777549442298,
+    "loan": null,
+    "title": "Por qué no soy cristiano",
+    "author": "Bertrand Russell",
+    "publisher": "",
+    "year": 1977,
+    "pages": 261,
+    "language": "Español",
+    "genre": "ensayo",
+    "isbn": "8435001733",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxR-ik4zPjI0rh_vexF6pNqpiL7B4crhG3SLyMVoNJhn2fUnuIgOv7NZDDp19nWD4MTMOekSKPA5LDe784faKLkQvlOM3KN62UGn68sA&s=10",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Estantería 4",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molbzuve8eaexbcwgki",
     "dateAdded": 1777544324618,
     "loan": null,
