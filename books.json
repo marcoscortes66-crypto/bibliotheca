@@ -1,5 +1,25 @@
 [
   {
+    "id": "mol9uaanp5c8sp9np9n",
+    "dateAdded": 1777540705439,
+    "loan": null,
+    "title": "Winning ugly",
+    "author": "Brad Gilbert",
+    "publisher": "Simon & Schuster",
+    "year": 1994,
+    "pages": 211,
+    "language": "Inglés",
+    "genre": "Ensayo",
+    "isbn": "9780671884000",
+    "cover": "https://covers.openlibrary.org/b/id/409782-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1777540705439
+  },
+  {
     "id": "mol9ts3jdip1h17w1xb",
     "dateAdded": 1777540681855,
     "loan": null,
