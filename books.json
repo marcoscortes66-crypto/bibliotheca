@@ -1,5 +1,24 @@
 [
   {
+    "id": "molatnf51ecq0u7vt4r",
+    "dateAdded": 1777542355409,
+    "loan": null,
+    "title": "The Pearl",
+    "author": "John Steinbeck",
+    "publisher": "",
+    "year": 1993,
+    "pages": 132,
+    "language": "Español",
+    "genre": "Avarice",
+    "isbn": "9780140232608",
+    "cover": "https://books.google.com/books/content?id=CR7YAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molat403rn5xjd844lk",
     "dateAdded": 1777542330243,
     "loan": null,
