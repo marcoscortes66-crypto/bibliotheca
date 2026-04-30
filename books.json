@@ -1,5 +1,25 @@
 [
   {
+    "id": "mola32globil14y9ija",
+    "dateAdded": 1777541115189,
+    "loan": null,
+    "title": "Selling Hitler",
+    "author": "Robert Harris",
+    "publisher": "Arrow Books",
+    "year": 2009,
+    "pages": 402,
+    "language": "Inglés",
+    "genre": "Diaries",
+    "isbn": "9780099562344",
+    "cover": "https://covers.openlibrary.org/b/id/10604004-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1777541115189
+  },
+  {
     "id": "mola2eb6emoq8pz15i9",
     "dateAdded": 1777541083890,
     "loan": null,
