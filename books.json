@@ -1,5 +1,24 @@
 [
   {
+    "id": "molb16xz7mdi2dy1d6x",
+    "dateAdded": 1777542707303,
+    "loan": null,
+    "title": "Aforisme",
+    "author": "Oscar Wilde",
+    "publisher": "",
+    "year": "",
+    "pages": "",
+    "language": "Italiano",
+    "genre": "",
+    "isbn": "",
+    "cover": "https://books.google.com/books/content?id=jhB6P0Pz0RQC&printsec=frontcover&img=1&zoom=3&source=gbs_api",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molaymun60asv0ecqa5",
     "dateAdded": 1777542587951,
     "loan": null,
