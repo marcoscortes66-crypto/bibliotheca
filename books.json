@@ -1,5 +1,24 @@
 [
   {
+    "id": "molb3qu22o30aluxois",
+    "dateAdded": 1777542826394,
+    "loan": null,
+    "title": "The Third Reich Day By Day",
+    "author": "Christopher Ailsby",
+    "publisher": "Zenith Press",
+    "year": 2005,
+    "pages": 192,
+    "language": "Inglés",
+    "genre": "Historia",
+    "isbn": "9780760322055",
+    "cover": "https://covers.openlibrary.org/b/id/507204-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molb2x2wy6ctvlqzcsr",
     "dateAdded": 1777542787832,
     "loan": null,
