@@ -1,5 +1,24 @@
 [
   {
+    "id": "molb7dj63rqhelwxama",
+    "dateAdded": 1777542995778,
+    "loan": null,
+    "title": "President's Murderer",
+    "author": "Jennifer Bassett",
+    "publisher": "Oxford University Press",
+    "year": 1992,
+    "pages": 48,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9780194226776",
+    "cover": "https://covers.openlibrary.org/b/id/2328244-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molb6zli71rvnxjcwrj",
     "dateAdded": 1777542977718,
     "loan": null,
