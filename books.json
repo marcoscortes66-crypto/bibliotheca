@@ -1,5 +1,25 @@
 [
   {
+    "id": "molbfeb332oe0oc9w9u",
+    "dateAdded": 1777543370031,
+    "loan": null,
+    "title": "Stupid wars",
+    "author": "Ed Strosser, Michael Prince",
+    "publisher": "HarperCollins",
+    "year": 2008,
+    "pages": 320,
+    "language": "Inglés",
+    "genre": "Historia",
+    "isbn": "9780061258473",
+    "cover": "https://covers.openlibrary.org/b/id/9443052-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1777543370031
+  },
+  {
     "id": "molbe1z9q4iut58l6p",
     "dateAdded": 1777543307397,
     "loan": null,
