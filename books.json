@@ -1,5 +1,25 @@
 [
   {
+    "id": "mola3ymdpcjqyja4py",
+    "dateAdded": 1777541156869,
+    "loan": null,
+    "title": "Il cavaliere inesistente",
+    "author": "Italo Calvino",
+    "publisher": "A. Mondadori",
+    "year": 1993,
+    "pages": 126,
+    "language": "Italiano",
+    "genre": "Novela",
+    "isbn": "9788804370864",
+    "cover": "https://covers.openlibrary.org/b/id/1048991-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1777541156869
+  },
+  {
     "id": "mola32globil14y9ija",
     "dateAdded": 1777541115189,
     "loan": null,
