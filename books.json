@@ -15,8 +15,9 @@
     "notes": "",
     "room": "Habitación",
     "shelf": "Estantería 1 -1",
-    "status": "pendiente",
-    "rating": 0
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1777542339028
   },
   {
     "id": "molanp7fcgme2ou7sp",
