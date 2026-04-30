@@ -1,5 +1,24 @@
 [
   {
+    "id": "molakwpnxzprt9r8u6",
+    "dateAdded": 1777541947547,
+    "loan": null,
+    "title": "The curious case of Benjamin Button",
+    "author": "",
+    "publisher": "Batiscafo",
+    "year": 2016,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788416774463",
+    "cover": "https://covers.openlibrary.org/b/id/11201239-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molakgehnkxmu80d1xo",
     "dateAdded": 1777541926409,
     "loan": null,
