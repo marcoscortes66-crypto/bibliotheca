@@ -1,5 +1,24 @@
 [
   {
+    "id": "mola9htk40dedtb40p5",
+    "dateAdded": 1777541415032,
+    "loan": null,
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman, Alex Goody, Eva Kumar, Evelynn D. Smith, Chavdar Georgiev, Booking, Aurora Irvine",
+    "publisher": "Penguin Random House",
+    "year": 2015,
+    "pages": 240,
+    "language": "Inglés",
+    "genre": "Utopias",
+    "isbn": "9781784870522",
+    "cover": "https://syndetics.com/index.aspx?isbn=9781784870522/LC.JPG",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mola8uf3sekf3zxzcm",
     "dateAdded": 1777541384703,
     "loan": null,
