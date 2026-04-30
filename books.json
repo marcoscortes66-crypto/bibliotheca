@@ -1,5 +1,24 @@
 [
   {
+    "id": "mola8uf3sekf3zxzcm",
+    "dateAdded": 1777541384703,
+    "loan": null,
+    "title": "Six Centuries of great Poetry",
+    "author": "",
+    "publisher": "",
+    "year": "",
+    "pages": "",
+    "language": "Inglés",
+    "genre": "",
+    "isbn": "0440213835",
+    "cover": "https://covers.openlibrary.org/b/isbn/0440213835-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "mola6dhrgxtih6wgc7f",
     "dateAdded": 1777541269455,
     "loan": null,
