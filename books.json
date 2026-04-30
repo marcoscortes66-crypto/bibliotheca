@@ -1,5 +1,24 @@
 [
   {
+    "id": "molb2x2wy6ctvlqzcsr",
+    "dateAdded": 1777542787832,
+    "loan": null,
+    "title": "Bomben und Legenden",
+    "author": "Gerd R. Ueberschär",
+    "publisher": "Rombach",
+    "year": 1981,
+    "pages": 210,
+    "language": "Alemán",
+    "genre": "Historia",
+    "isbn": "3793002926",
+    "cover": "https://covers.openlibrary.org/b/id/4240288-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -1",
+    "status": "pendiente",
+    "rating": 0
+  },
+  {
     "id": "molb1ycem6amdnmnswa",
     "dateAdded": 1777542742814,
     "loan": null,
