@@ -10642,9 +10642,10 @@
     "isbn": "9788430627431",
     "cover": "https://covers.openlibrary.org/b/id/15112595-L.jpg",
     "notes": "",
-    "status": "leyendo",
-    "rating": 0,
+    "status": "leido",
+    "rating": 4,
     "room": "Salón",
-    "shelf": "Televisión 2"
+    "shelf": "Televisión 2",
+    "dateRead": 1778785427820
   }
 ]
