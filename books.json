@@ -3,7 +3,7 @@
     "id": "mp5ubavzu003ot35wgd",
     "dateAdded": 1778784415199,
     "loan": null,
-    "title": "tiempos recios",
+    "title": "Tiempos recios",
     "author": "Mario Vargas Llosa",
     "publisher": "alfaguara",
     "year": 2019,
@@ -9872,7 +9872,7 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Estantería 3",
-    "status": "pendiente",
+    "status": "noleido",
     "rating": 0
   },
   {
@@ -10010,7 +10010,7 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 1",
-    "status": "pendiente",
+    "status": "noleido",
     "rating": 0
   },
   {
@@ -10430,7 +10430,7 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Estantería 2",
-    "status": "pendiente",
+    "status": "noleido",
     "rating": 0
   },
   {
@@ -10487,7 +10487,7 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Estantería 2",
-    "status": "pendiente",
+    "status": "noleido",
     "rating": 0
   },
   {
