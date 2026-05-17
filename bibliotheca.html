@@ -36,14 +36,14 @@ body { background: var(--bg); color: var(--text); font-family: 'Crimson Pro', Ge
 #menu-btn { display: none; background: none; border: none; color: var(--text2); font-size: 22px; cursor: pointer; padding: 4px 6px; }
 #topbar-logo { font-family: 'Playfair Display', serif; font-size: 18px; color: var(--gold); letter-spacing: 2px; font-weight: 700; white-space: nowrap; }
 #search-box {
-  flex: 1; background: var(--bg3); border: 1px solid var(--border);
-  color: var(--text); padding: 8px 12px; border-radius: 8px;
+  flex: 1; background: #ffffff; border: 1px solid var(--border);
+  color: #1a1814; padding: 8px 12px; border-radius: 8px;
   font-family: 'Crimson Pro', serif; font-size: 15px; outline: none;
   transition: border .15s; min-width: 0;
 }
 #search-box:focus { border-color: var(--gold); }
-#search-box::placeholder { color: var(--text2); }
-.filter-select { background: var(--bg3); border: 1px solid var(--border); color: var(--text2); padding: 8px 8px; border-radius: 8px; font-family: 'Crimson Pro', serif; font-size: 13px; cursor: pointer; outline: none; max-width: 120px; }
+#search-box::placeholder { color: #888; }
+.filter-select { background: #ffffff; border: 1px solid var(--border); color: #1a1814; padding: 8px 8px; border-radius: 8px; font-family: 'Crimson Pro', serif; font-size: 13px; cursor: pointer; outline: none; max-width: 120px; }
 /* ── FILTER PANEL ── */
 #filter-panel { display: none; position: absolute; top: calc(100% + 4px); right: 0; background: var(--bg2); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; z-index: 200; min-width: 320px; max-width: 95vw; box-shadow: 0 8px 32px rgba(0,0,0,.5); }
 #filter-panel.open { display: block; }
@@ -53,7 +53,7 @@ body { background: var(--bg); color: var(--text); font-family: 'Crimson Pro', Ge
 .fp-group { display: flex; flex-direction: column; gap: 4px; }
 .fp-group.full { grid-column: 1 / -1; }
 .fp-group label { font-size: 11px; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; }
-.fp-group select, .fp-group input { background: var(--bg3); border: 1px solid var(--border); color: var(--text); padding: 7px 10px; border-radius: 7px; font-family: 'Crimson Pro', serif; font-size: 14px; outline: none; width: 100%; }
+.fp-group select, .fp-group input { background: #ffffff; border: 1px solid var(--border); color: #1a1814; padding: 7px 10px; border-radius: 7px; font-family: 'Crimson Pro', serif; font-size: 14px; outline: none; width: 100%; }
 .fp-group select:focus, .fp-group input:focus { border-color: var(--gold); }
 .fp-year-range { display: flex; gap: 6px; align-items: center; }
 .fp-year-range input { flex: 1; }
@@ -128,7 +128,8 @@ body { background: var(--bg); color: var(--text); font-family: 'Crimson Pro', Ge
 .status-badge { position: absolute; top: 5px; right: 5px; font-size: 10px; padding: 2px 5px; border-radius: 8px; text-transform: uppercase; letter-spacing: .4px; font-weight: 600; }
 .status-leido { background: var(--green); color: #fff; }
 .status-leyendo { background: var(--blue); color: #fff; }
-.status-pendiente { background: var(--bg3); color: var(--text2); border: 1px solid var(--border); }
+.status-noleido { background: var(--bg3); color: var(--text2); border: 1px solid var(--border); }
+.status-pendiente { background: #fff3cd; color: #856404; border: 1px solid #ffc107; }
 .loan-badge { position: absolute; top: 5px; left: 5px; background: var(--gold); color: #1a1400; font-size: 10px; padding: 2px 5px; border-radius: 8px; font-weight: 700; }
 
 /* List view */
@@ -187,21 +188,22 @@ body { background: var(--bg); color: var(--text); font-family: 'Crimson Pro', Ge
 .form-group.full { grid-column: 1 / -1; }
 label { font-size: 11px; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; }
 input[type=text], input[type=number], textarea, select {
-  background: var(--bg3); border: 1px solid var(--border);
-  color: var(--text); padding: 9px 12px; border-radius: 8px;
+  background: #ffffff; border: 1px solid var(--border);
+  color: #1a1814; padding: 9px 12px; border-radius: 8px;
   font-family: 'Crimson Pro', serif; font-size: 15px;
   outline: none; transition: border .15s; width: 100%;
   -webkit-appearance: none;
 }
 input:focus, textarea:focus, select:focus { border-color: var(--gold); }
 textarea { resize: vertical; min-height: 70px; }
-select option { background: var(--bg2); }
+select option { background: #ffffff; color: #1a1814; }
 
 .status-select { display: flex; gap: 6px; }
 .status-btn { flex: 1; padding: 8px 4px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg3); color: var(--text2); cursor: pointer; font-family: 'Crimson Pro', serif; font-size: 12px; text-align: center; transition: all .15s; }
 .status-btn.active-leido { background: var(--green); color: #fff; border-color: var(--green); }
 .status-btn.active-leyendo { background: var(--blue); color: #fff; border-color: var(--blue); }
-.status-btn.active-pendiente { background: var(--bg); color: var(--cream); border-color: var(--gold); }
+.status-btn.active-noleido { background: var(--bg); color: var(--cream); border-color: var(--gold); }
+.status-btn.active-pendiente { background: #ffc107; color: #000; border-color: #ffc107; }
 
 .stars { display: flex; gap: 4px; cursor: pointer; }
 .star { font-size: 22px; color: var(--border); transition: color .1s; }
@@ -355,6 +357,9 @@ select option { background: var(--bg2); }
       <div class="nav-item" onclick="setFilter('leyendo',this);closeSidebar()">
         <span class="icon">📖</span> Leyendo <span class="nav-badge" id="badge-leyendo">0</span>
       </div>
+      <div class="nav-item" onclick="setFilter('noleido',this);closeSidebar()">
+        <span class="icon">📚</span> No leídos <span class="nav-badge" id="badge-noleido">0</span>
+      </div>
       <div class="nav-item" onclick="setFilter('pendiente',this);closeSidebar()">
         <span class="icon">🔖</span> Pendientes <span class="nav-badge" id="badge-pendiente">0</span>
       </div>
@@ -455,6 +460,7 @@ select option { background: var(--bg2); }
           <div class="form-group" style="margin-bottom:10px">
             <label>Estado</label>
             <div class="status-select">
+              <button class="status-btn active-noleido" data-s="noleido" onclick="setStatus('noleido')">📚 No leído</button>
               <button class="status-btn active-pendiente" data-s="pendiente" onclick="setStatus('pendiente')">🔖 Pendiente</button>
               <button class="status-btn" data-s="leyendo" onclick="setStatus('leyendo')">📖 Leyendo</button>
               <button class="status-btn" data-s="leido" onclick="setStatus('leido')">✅ Leído</button>
@@ -597,7 +603,7 @@ select option { background: var(--bg2); }
   </div>
   <div id="scan-bar-inner" style="padding:8px 16px;display:flex;align-items:center;gap:10px">
     <span style="font-size:18px">📷</span>
-    <input type="text" id="scan-always-input" placeholder="Escáner aquí — apunta y escanea" autocomplete="off"
+    <input type="text" id="scan-always-input" placeholder="Escáner aquí — apunta y escanea" autocomplete="off" style="background:#ffffff;color:#1a1814;"
       style="flex:1;background:transparent;border:none;color:#e8dfc8;font-family:'Crimson Pro',serif;font-size:15px;outline:none;letter-spacing:1px">
     <button class="btn btn-outline" style="padding:6px 12px;font-size:13px" onclick="openTitleSearch()">🔎 Título</button>
     <button class="btn btn-gold" style="padding:6px 12px;font-size:13px" onclick="manualScan()">Buscar ISBN</button>
@@ -614,22 +620,49 @@ let currentView = 'grid';
 let editingId = null;
 let currentDetailId = null;
 let currentRating = 0;
-let currentStatus = 'pendiente';
+let currentStatus = 'noleido';
 let lastRoom = '';
 let lastShelf = '';
 let scannerActive = false;
 let serverMode = false;
-let githubMode = false;
+let dropboxMode = false;
 let syncInterval = null;
 let lastSyncTime = 0;
 
 const API = window.location.origin + '/api';
-const GITHUB_URL = 'https://marcoscortes66-crypto.github.io/bibliotheca/books.json';
+
+// ─── NETLIFY ───
+const NETLIFY_SITE_ID = 'c69f063c-35e6-4672-8587-3190055f2ca9';
+const NETLIFY_TOKEN   = 'nfp_rsd9PGFM8UWjzXCTFzn9wN4DsRVY8msN8b77';
+const NETLIFY_URL     = 'https://marcoscortes66-crypto.github.io/bibliotheca/books.json';
+
+async function netlifyLoad() {
+  const r = await fetch(NETLIFY_URL + '?t=' + Date.now());
+  if (!r.ok) return null;
+  return await r.json();
+}
+
+async function netlifySave(data) {
+  // Subir books.json a Netlify via API
+  const formData = new FormData();
+  const blob = new Blob([JSON.stringify(data)], { type: 'application/json' });
+  formData.append('file', blob, 'books.json');
+
+  const r = await fetch(`https://api.netlify.com/api/v1/sites/${NETLIFY_SITE_ID}/files/books.json`, {
+    method: 'PUT',
+    headers: {
+      'Authorization': 'Bearer ' + NETLIFY_TOKEN,
+      'Content-Type': 'application/octet-stream'
+    },
+    body: JSON.stringify(data)
+  });
+  if (!r.ok) throw new Error('Netlify save error ' + r.status);
+}
 
 // ─── ARRANQUE ───
 async function detectServer() {
-  let localOk  = false;
-  let githubOk = false;
+  let localOk   = false;
+  let netlifyOk = false;
 
   try {
     const r = await fetch(API + '/ping', { signal: AbortSignal.timeout(1500) });
@@ -638,20 +671,24 @@ async function detectServer() {
   } catch(e) {}
 
   try {
-    const r = await fetch(GITHUB_URL + '?t=' + Date.now());
-    if (r.ok) githubOk = true;
+    const r = await fetch('https://heroic-croissant-1a7ed0.netlify.app/books.json?t=' + Date.now());
+    if (r.ok) netlifyOk = true;
   } catch(e) {}
 
-  serverMode = localOk;
-  githubMode = githubOk;
+  serverMode  = localOk;
+  dropboxMode = netlifyOk;
 
-  if (localOk) {
+  if (localOk && netlifyOk) {
+    await loadBestSource();
+    updateSyncLabel();
+    syncInterval = setInterval(pollServer, 15000);
+  } else if (localOk) {
     updateSyncLabel();
     await loadFromServer();
     syncInterval = setInterval(pollServer, 15000);
-  } else if (githubOk) {
+  } else if (netlifyOk) {
     updateSyncLabel();
-    await loadFromGithub();
+    await loadFromDropbox();
   } else {
     updateSyncLabel();
     loadFromLocalStorage();
@@ -661,19 +698,56 @@ async function detectServer() {
 function updateSyncLabel() {
   const label  = document.getElementById('sync-mode-label');
   const detail = document.getElementById('sync-detail');
-  if (serverMode) {
-    label.textContent  = '🔄 PC activo';
-    detail.textContent = 'Sincronizado con GitHub';
+  if (serverMode && dropboxMode) {
+    label.textContent  = '🔄 PC + Netlify';
+    detail.textContent = 'Réplica activa en ambos sitios';
     setSyncStatus('ok');
-  } else if (githubMode) {
-    label.textContent  = '☁️ Solo GitHub';
-    detail.textContent = 'PC apagado — última versión guardada';
+  } else if (serverMode) {
+    label.textContent  = '🌐 Servidor local';
+    detail.textContent = 'Sin conexión a Netlify';
+    setSyncStatus('ok');
+  } else if (dropboxMode) {
+    label.textContent  = '☁️ Solo Netlify';
+    detail.textContent = 'PC apagado — usando la nube';
     setSyncStatus('ok');
   } else {
     label.textContent  = '💾 Modo local';
-    detail.textContent = 'Sin servidor ni GitHub';
+    detail.textContent = 'Sin servidor ni nube';
     setSyncStatus('err');
   }
+}
+
+async function loadBestSource() {
+  const [localRes, netlifyRes] = await Promise.allSettled([
+    fetch(API + '/books').then(r => r.json()),
+    netlifyLoad()
+  ]);
+
+  const localBooks   = localRes.status === 'fulfilled'   ? localRes.value   : null;
+  const netlifyBooks = netlifyRes.status === 'fulfilled' ? netlifyRes.value : null;
+
+  if (!localBooks && !netlifyBooks) { loadFromLocalStorage(); return; }
+  if (!netlifyBooks) { books = normalizeBooks(localBooks);   renderBooks(); return; }
+  if (!localBooks)   { books = normalizeBooks(netlifyBooks); renderBooks(); return; }
+
+  const tsOf = arr => Math.max(...arr.map(b => b.dateAdded || 0));
+  const localTs   = tsOf(localBooks);
+  const netlifyTs = tsOf(netlifyBooks);
+
+  if (netlifyTs > localTs) {
+    books = normalizeBooks(netlifyBooks);
+    renderBooks();
+    showNotif('☁️ Datos más recientes cargados desde Netlify');
+    try { await fetch(API + '/books', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(books) }); } catch(e) {}
+  } else {
+    books = normalizeBooks(localBooks);
+    renderBooks();
+    if (localTs > netlifyTs) {
+      showNotif('🔄 Netlify actualizado con datos locales');
+      try { await netlifySave(books); } catch(e) {}
+    }
+  }
+  lastSyncTime = Date.now();
 }
 
 async function loadFromServer() {
@@ -681,24 +755,39 @@ async function loadFromServer() {
     const r = await fetch(API + '/books');
     books = normalizeBooks(await r.json());
     lastSyncTime = Date.now();
+    // Guardar copia offline en localStorage
     localStorage.setItem('bibliotheca_books', JSON.stringify(books));
     renderBooks();
   } catch(e) {
-    if (githubMode) await loadFromGithub();
-    else loadFromLocalStorage();
+    // Sin servidor: usar última copia guardada
+    const cached = localStorage.getItem('bibliotheca_books');
+    if (cached) {
+      try {
+        books = normalizeBooks(JSON.parse(cached));
+        renderBooks();
+        showNotif('📴 Sin conexión — mostrando última actualización');
+        document.getElementById('sync-mode-label').textContent = '📴 Sin conexión';
+        document.getElementById('sync-detail').textContent = 'Última actualización guardada';
+        setSyncStatus('err');
+        return;
+      } catch(e2) {}
+    }
+    loadFromLocalStorage();
   }
 }
 
-async function loadFromGithub() {
+async function loadFromDropbox() {
   try {
-    const r = await fetch(GITHUB_URL + '?t=' + Date.now());
-    if (!r.ok) throw new Error('HTTP ' + r.status);
-    const data = await r.json();
-    books = normalizeBooks(data);
-    lastSyncTime = Date.now();
-    renderBooks();
+    const data = await netlifyLoad();
+    if (data) {
+      books = normalizeBooks(data);
+      lastSyncTime = Date.now();
+      renderBooks();
+    } else {
+      loadFromLocalStorage();
+    }
   } catch(e) {
-    showNotif('⚠️ Error cargando desde GitHub');
+    showNotif('⚠️ Error cargando desde Netlify');
     loadFromLocalStorage();
   }
 }
@@ -722,18 +811,21 @@ async function pollServer() {
 async function save() {
   setSyncStatus('sync');
   localStorage.setItem('bibliotheca_books', JSON.stringify(books));
-  if (!serverMode) { setSyncStatus('ok'); return; }
-  try {
-    await fetch(API + '/books', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(books)
-    });
+
+  const ops = [];
+  if (serverMode)  ops.push(fetch(API + '/books', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(books) }));
+  if (dropboxMode) ops.push(netlifySave(books));
+
+  if (ops.length === 0) { setSyncStatus('ok'); return; }
+
+  const results = await Promise.allSettled(ops);
+  const anyErr  = results.some(r => r.status === 'rejected');
+  if (anyErr) {
+    setSyncStatus('err');
+    showNotif('⚠️ Error al guardar en uno de los destinos');
+  } else {
     setSyncStatus('ok');
     lastSyncTime = Date.now();
-  } catch(e) {
-    setSyncStatus('err');
-    showNotif('⚠️ Error de sincronización');
   }
 }
 
@@ -808,7 +900,13 @@ function normalizeLang(lang) {
   return LANG_MAP[key] || (lang.trim().charAt(0).toUpperCase() + lang.trim().slice(1).toLowerCase());
 }
 function normalizeBooks(arr) {
-  return arr.map(b => b.language ? {...b, language: normalizeLang(b.language)} : b);
+  if (!Array.isArray(arr)) return [];
+  // Migrar status 'pendiente' antiguo a 'noleido'
+  return arr.map(b => ({
+    ...b,
+    language: b.language ? normalizeLang(b.language) : b.language,
+    status: b.status === 'pendiente' ? 'noleido' : (b.status || 'noleido')
+  }));
 }
 
 async function searchCoverOnline() {
@@ -1062,6 +1160,7 @@ function getFiltered() {
   return books.filter(b => {
     if (currentFilter === 'leido' && b.status !== 'leido') return false;
     if (currentFilter === 'leyendo' && b.status !== 'leyendo') return false;
+    if (currentFilter === 'noleido' && b.status !== 'noleido') return false;
     if (currentFilter === 'pendiente' && b.status !== 'pendiente') return false;
     if (currentFilter === 'prestados' && (!b.loan || b.loan.returned)) return false;
     if (currentFilter.startsWith('room:') && b.room !== currentFilter.slice(5)) return false;
@@ -1169,13 +1268,14 @@ function renderLoans(loanBooks) {
 }
 
 function statusShort(s) { return s === 'leido' ? '✓' : s === 'leyendo' ? '▶' : '○'; }
-function statusLabel(s) { return s === 'leido' ? '✓ Leído' : s === 'leyendo' ? '▶ Leyendo' : '○ Pendiente'; }
+function statusLabel(s) { return s === 'leido' ? '✓ Leído' : s === 'leyendo' ? '▶ Leyendo' : s === 'pendiente' ? '🔖 Pendiente' : '○ No leído'; }
 function esc(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
 function updateBadges() {
   document.getElementById('badge-todos').textContent = books.length;
   document.getElementById('badge-leido').textContent = books.filter(b=>b.status==='leido').length;
   document.getElementById('badge-leyendo').textContent = books.filter(b=>b.status==='leyendo').length;
+  const badgeNL = document.getElementById('badge-noleido'); if(badgeNL) badgeNL.textContent = books.filter(b=>b.status==='noleido'||b.status==='pendiente'||!b.status).length;
   document.getElementById('badge-pendiente').textContent = books.filter(b=>b.status==='pendiente').length;
   const prestados = books.filter(b=>b.loan&&!b.loan.returned).length;
   document.getElementById('badge-prestados').textContent = prestados;
@@ -1320,7 +1420,7 @@ function openAddBook(prefill) {
   editingId = null;
   document.getElementById('form-title').textContent = 'Añadir libro';
   document.getElementById('delete-btn').style.display = 'none';
-  currentRating = 0; currentStatus = 'pendiente';
+  currentRating = 0; currentStatus = 'noleido';
   clearForm();
   if (prefill) fillForm(prefill);
   // Recordar última habitación y estantería usadas
@@ -1449,7 +1549,7 @@ function editFromDetail() {
   editingId=b.id;
   document.getElementById('form-title').textContent='Editar libro';
   document.getElementById('delete-btn').style.display='inline-flex';
-  currentRating=b.rating||0; currentStatus=b.status||'pendiente';
+  currentRating=b.rating||0; currentStatus=b.status||'noleido';
   clearForm(); fillForm(b);
   document.getElementById('book-form-modal').classList.add('open');
 }
@@ -1478,7 +1578,7 @@ function exportCSV() {
   const esc2=v=>{const s=(v===null||v===undefined)?'':String(v);return s.includes(',')||s.includes('"')||s.includes('\n')?`"${s.replace(/"/g,'""')}"`:(s||'');};
   const rows=[headers.join(','),...books.map(b=>cols.map(c=>{
     if(c==='dateAdded')return esc2(b.dateAdded?new Date(b.dateAdded).toLocaleDateString('es'):'');
-    if(c==='status')return esc2({leido:'Leído',leyendo:'Leyendo',pendiente:'Pendiente'}[b[c]]||b[c]);
+    if(c==='status')return esc2({leido:'Leído',leyendo:'Leyendo',pendiente:'Pendiente',noleido:'No leído'}[b[c]]||b[c]);
     return esc2(b[c]);
   }).join(','))];
   const blob=new Blob(['\uFEFF'+rows.join('\r\n')],{type:'text/csv;charset=utf-8;'});
@@ -1691,7 +1791,7 @@ function addSampleBooks() {
   books=[
     {id:uid(),title:'Cien años de soledad',author:'García Márquez, Gabriel',publisher:'Cátedra',year:1967,pages:432,genre:'Novela',language:'Español',isbn:'9788437604947',cover:'https://covers.openlibrary.org/b/isbn/9788437604947-M.jpg',status:'leido',rating:5,notes:'Una obra maestra.',dateAdded:Date.now(),dateRead:Date.now(),loan:null},
     {id:uid(),title:'Sapiens',author:'Harari, Yuval Noah',publisher:'Debate',year:2011,pages:496,genre:'Historia',language:'Español',isbn:'9788499926223',cover:'https://covers.openlibrary.org/b/isbn/9788499926223-M.jpg',status:'leyendo',rating:4,notes:'',dateAdded:Date.now(),dateRead:null,loan:null},
-    {id:uid(),title:'La sombra del viento',author:'Ruiz Zafón, Carlos',publisher:'Planeta',year:2001,pages:544,genre:'Novela',language:'Español',isbn:'9788408043645',cover:'https://covers.openlibrary.org/b/isbn/9788408043645-M.jpg',status:'pendiente',rating:0,notes:'',dateAdded:Date.now(),dateRead:null,loan:null},
+    {id:uid(),title:'La sombra del viento',author:'Ruiz Zafón, Carlos',publisher:'Planeta',year:2001,pages:544,genre:'Novela',language:'Español',isbn:'9788408043645',cover:'https://covers.openlibrary.org/b/isbn/9788408043645-M.jpg',status:'noleido',rating:0,notes:'',dateAdded:Date.now(),dateRead:null,loan:null},
   ];
   save().then(()=>renderBooks());
 }
@@ -1705,4 +1805,5 @@ if ('serviceWorker' in navigator) {
 }
 </script>
 </body>
+<!-- v5 -->
 </html>
