@@ -1,5 +1,24 @@
 [
   {
+    "id": "mpeg4lkf6bio1l8otmu",
+    "dateAdded": 1779304783407,
+    "loan": null,
+    "title": "La familia de Pascual Duarte",
+    "author": "Miguel de Unamuno",
+    "publisher": "Seix Barral",
+    "year": 1983,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8432221619",
+    "cover": "https://covers.openlibrary.org/b/id/9346469-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mpeg3izcondqbui66ur",
     "dateAdded": 1779304733400,
     "loan": null,
