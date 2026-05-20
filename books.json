@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpegkb8oyp1fru89zp",
+    "dateAdded": 1779305516520,
+    "loan": null,
+    "title": "Mi familia y otros animales",
+    "author": "Gerald Malcolm Durrell",
+    "publisher": "Alianza Editorial",
+    "year": 2010,
+    "pages": 416,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788420674155",
+    "cover": "https://covers.openlibrary.org/b/id/10501836-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1779305516520
+  },
+  {
     "id": "mpegjv3s8c23hxck9ri",
     "dateAdded": 1779305495608,
     "loan": null,
