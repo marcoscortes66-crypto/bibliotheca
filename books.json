@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpefrnpl7jk41ri8c5q",
+    "dateAdded": 1779304179657,
+    "loan": null,
+    "title": "Woke",
+    "author": "Titania McGrath",
+    "publisher": "Alianza Editorial",
+    "year": 2020,
+    "pages": 160,
+    "language": "Español",
+    "genre": "Social justice",
+    "isbn": "9788491819707",
+    "cover": "https://covers.openlibrary.org/b/id/10708264-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779304179657
+  },
+  {
     "id": "mpefrbfp7dc90nqwtuu",
     "dateAdded": 1779304163749,
     "loan": null,
