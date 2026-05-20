@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpegcbtf3bvehu83nve",
+    "dateAdded": 1779305144019,
+    "loan": null,
+    "title": "HHhH",
+    "author": "Laurent Binet",
+    "publisher": "Booket",
+    "year": 2013,
+    "pages": 400,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788432214868",
+    "cover": "https://covers.openlibrary.org/b/id/14287439-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779305144019
+  },
+  {
     "id": "mpegb2vn5igvuhoio45",
     "dateAdded": 1779305085779,
     "loan": null,
