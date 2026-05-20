@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpeggeu1ddzmu059ob9",
+    "dateAdded": 1779305334553,
+    "loan": null,
+    "title": "Anatomía de un instante",
+    "author": "Javier Cercas",
+    "publisher": "Mondadori",
+    "year": 2009,
+    "pages": 463,
+    "language": "Español",
+    "genre": "History",
+    "isbn": "9788439722137",
+    "cover": "https://covers.openlibrary.org/b/isbn/9788439722137-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779305334553
+  },
+  {
     "id": "mpegfmauo0e9i58fpw9",
     "dateAdded": 1779305297574,
     "loan": null,
