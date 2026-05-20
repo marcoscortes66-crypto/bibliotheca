@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpefrbfp7dc90nqwtuu",
+    "dateAdded": 1779304163749,
+    "loan": null,
+    "title": "El péndulo de Foucault",
+    "author": "Umberto Eco",
+    "publisher": "Editorial Lumen",
+    "year": 1989,
+    "pages": 585,
+    "language": "Español",
+    "genre": "Verschwo rung",
+    "isbn": "8426411886",
+    "cover": "https://covers.openlibrary.org/b/id/6713069-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1779304163749
+  },
+  {
     "id": "mpefqiswf3lyridruws",
     "dateAdded": 1779304126640,
     "loan": null,
