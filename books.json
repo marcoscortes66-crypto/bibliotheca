@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpeenqa2uqyrbsx1qq",
+    "dateAdded": 1779302316746,
+    "loan": null,
+    "title": "Las benévolas",
+    "author": "Jonathan Littell",
+    "publisher": "RBA",
+    "year": 2007,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788489662520",
+    "cover": "https://covers.openlibrary.org/b/id/8205329-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1779302316746
+  },
+  {
     "id": "mpeemv4ccm3uxh8bdyi",
     "dateAdded": 1779302276364,
     "loan": null,
