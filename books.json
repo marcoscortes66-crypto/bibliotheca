@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpef1s9uljmhz3mgb7",
+    "dateAdded": 1779302972514,
+    "loan": null,
+    "title": "Hannibal",
+    "author": "Thomas Harris",
+    "publisher": "Random House Mondadori",
+    "year": 1999,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788425334115",
+    "cover": "https://covers.openlibrary.org/b/id/8098431-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779302972514
+  },
+  {
     "id": "mpef0oqia7s42k0rwbo",
     "dateAdded": 1779302921274,
     "loan": null,
