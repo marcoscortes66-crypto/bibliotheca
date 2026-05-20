@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpedjdag9sbr1nqjkn6",
+    "dateAdded": 1779300433672,
+    "loan": null,
+    "title": "Un guijarro en el cielo",
+    "author": "",
+    "publisher": "Martínez Roca",
+    "year": 1992,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788427016460",
+    "cover": "https://covers.openlibrary.org/b/id/10528478-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779300433672
+  },
+  {
     "id": "mpedj0kzujcckf9lryh",
     "dateAdded": 1779300417203,
     "loan": null,
