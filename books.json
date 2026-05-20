@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpedqsbgl5ttmdsl3i",
+    "dateAdded": 1779300779740,
+    "loan": null,
+    "title": "Segunda fundación",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janés",
+    "year": 1986,
+    "pages": 250,
+    "language": "Español",
+    "genre": "Fiction",
+    "isbn": "9788401929236",
+    "cover": "https://covers.openlibrary.org/b/id/14549168-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1779300779740
+  },
+  {
     "id": "mpedqhdzmjalxl5l1zk",
     "dateAdded": 1779300765575,
     "loan": null,
