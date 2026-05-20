@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpefbsuxinn0er5q8m",
+    "dateAdded": 1779303439833,
+    "loan": null,
+    "title": "El Padrino. El Regreso.",
+    "author": "Mark Winegardner",
+    "publisher": "Planeta",
+    "year": 2005,
+    "pages": 488,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788408059035",
+    "cover": "https://covers.openlibrary.org/b/id/5017582-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1779303439833
+  },
+  {
     "id": "mpefbfw8yghw6d95f5a",
     "dateAdded": 1779303423032,
     "loan": null,
