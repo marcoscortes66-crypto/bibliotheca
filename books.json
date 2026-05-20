@@ -1,5 +1,25 @@
 [
   {
+    "id": "mped5rswdrqee3np4u",
+    "dateAdded": 1779299799296,
+    "loan": null,
+    "title": "Yo, Robot",
+    "author": "Isaac Asimov",
+    "publisher": "Edhasa",
+    "year": 1984,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8435020010",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4r2YU9mHGCgrw7ApcwwBBf3YDgoWXpzcdKeV88R3Ypw&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1779299799296
+  },
+  {
     "id": "mped4aj70kjqaagkr8y",
     "dateAdded": 1779299730259,
     "loan": null,
