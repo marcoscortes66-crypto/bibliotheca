@@ -1,5 +1,25 @@
 [
   {
+    "id": "mped2ccrt7xki56tzb",
+    "dateAdded": 1779299639307,
+    "loan": null,
+    "title": "Azazel",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janes",
+    "year": 1992,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788401496684",
+    "cover": "https://covers.openlibrary.org/b/id/7887287-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1779299639307
+  },
+  {
     "id": "mped1uf01oghizkepuu",
     "dateAdded": 1779299616060,
     "loan": null,
