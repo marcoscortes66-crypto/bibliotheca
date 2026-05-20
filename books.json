@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpectuyzl8nyxhf7fg",
+    "dateAdded": 1779299243531,
+    "loan": null,
+    "title": "Los propios dioses",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janes",
+    "year": 1993,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788401496608",
+    "cover": "https://covers.openlibrary.org/b/id/7887534-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779299243531
+  },
+  {
     "id": "mp5ubavzu003ot35wgd",
     "dateAdded": 1778784415199,
     "loan": null,
