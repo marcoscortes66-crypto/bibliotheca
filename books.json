@@ -1,5 +1,24 @@
 [
   {
+    "id": "mped1uf01oghizkepuu",
+    "dateAdded": 1779299616060,
+    "loan": null,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publisher": "Plaza y Janes",
+    "year": 1985,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8476340958",
+    "cover": "https://covers.openlibrary.org/b/id/12993656-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mpecxe7p2h4mxsqinz1",
     "dateAdded": 1779299408437,
     "loan": null,
