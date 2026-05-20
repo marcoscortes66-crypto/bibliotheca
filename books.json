@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpecxe7p2h4mxsqinz1",
+    "dateAdded": 1779299408437,
+    "loan": null,
+    "title": "Fundación",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janes",
+    "year": 1986,
+    "pages": 254,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788401929212",
+    "cover": "https://covers.openlibrary.org/b/id/14560069-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1779299408438
+  },
+  {
     "id": "mpecwpfxctivzz3a1b5",
     "dateAdded": 1779299376333,
     "loan": null,
