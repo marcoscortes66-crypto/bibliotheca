@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpef8ahl5rkx73isbgq",
+    "dateAdded": 1779303276057,
+    "loan": null,
+    "title": "La metamorfosis",
+    "author": "Kafka",
+    "publisher": "Akal Ediciones",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "847600060x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwyyEzTECqpfCjhc9a0pgrndBENpaU5hySyg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1779303276057
+  },
+  {
     "id": "mpef5zulqk1gjx6lbjr",
     "dateAdded": 1779303168957,
     "loan": null,
