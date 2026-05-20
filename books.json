@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpedb7wtbf7yju5dtxm",
+    "dateAdded": 1779300053453,
+    "loan": null,
+    "title": "Sueños de robot",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza Janés",
+    "year": 1989,
+    "pages": "",
+    "language": "Español",
+    "genre": "American Science fiction",
+    "isbn": "9788401322587",
+    "cover": "https://covers.openlibrary.org/b/id/8281584-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1779300053453
+  },
+  {
     "id": "mpeda1fqf09kpz20ehv",
     "dateAdded": 1779299998406,
     "loan": null,
