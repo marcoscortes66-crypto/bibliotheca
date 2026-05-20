@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpee0zokr4zjv5eenr",
+    "dateAdded": 1779301255844,
+    "loan": null,
+    "title": "El dardo en la palabra",
+    "author": "Fernando Lázaro Carreter",
+    "publisher": "Galaxia Gutenberg",
+    "year": 1998,
+    "pages": "",
+    "language": "Español",
+    "genre": "Spanish language",
+    "isbn": "9788481091830",
+    "cover": "https://covers.openlibrary.org/b/id/9149441-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1779301255844
+  },
+  {
     "id": "mpedzveyogu6mtg50c",
     "dateAdded": 1779301203658,
     "loan": null,
