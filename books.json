@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpedenunw4pdk9lg6jl",
+    "dateAdded": 1779300214079,
+    "loan": null,
+    "title": "Bóvedas de acero",
+    "author": "Isaac Asimov",
+    "publisher": "Martínez Roca",
+    "year": 1979,
+    "pages": "",
+    "language": "Español",
+    "genre": "Robots",
+    "isbn": "9788427014060",
+    "cover": "https://covers.openlibrary.org/b/id/10553243-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779300214079
+  },
+  {
     "id": "mpede4m737do8pl6w8u",
     "dateAdded": 1779300189152,
     "loan": null,
