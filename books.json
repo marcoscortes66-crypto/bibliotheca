@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpefwcfnphfoyij9kj9",
+    "dateAdded": 1779304398323,
+    "loan": null,
+    "title": "San Manuel Bueno, mártir, y tres historias más",
+    "author": "Miguel de Unamuno",
+    "publisher": "Espasa-Calpe",
+    "year": 1933,
+    "pages": 168,
+    "language": "Español",
+    "genre": "Spain; cultural history in general, literature, literary works",
+    "isbn": "9788476400975",
+    "cover": "https://covers.openlibrary.org/b/id/11323425-M.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1779304398323
+  },
+  {
     "id": "mpefva1cc6fm36oa0u9",
     "dateAdded": 1779304348560,
     "loan": null,
