@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpedkpma9ppjjerwmt9",
+    "dateAdded": 1779300496306,
+    "loan": null,
+    "title": "Los límites de La Fundación",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janés",
+    "year": 1986,
+    "pages": 476,
+    "language": "Español",
+    "genre": "Fiction",
+    "isbn": "9788401929243",
+    "cover": "https://covers.openlibrary.org/b/id/14549603-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779300496306
+  },
+  {
     "id": "mpedkd7rtj317ytz42s",
     "dateAdded": 1779300480231,
     "loan": null,
