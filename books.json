@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpefha4vzyd6vmbzdm",
+    "dateAdded": 1779303695503,
+    "loan": null,
+    "title": "Nieve roja",
+    "author": "Fernando Garrido Polonio, Miguel A. Garrido Polonio",
+    "publisher": "Oberón",
+    "year": 2002,
+    "pages": 236,
+    "language": "Español",
+    "genre": "Campaigns",
+    "isbn": "9788496052055",
+    "cover": "https://covers.openlibrary.org/b/id/4917780-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1779303695503
+  },
+  {
     "id": "mpefgnudnmcy0bevqd",
     "dateAdded": 1779303666613,
     "loan": null,
