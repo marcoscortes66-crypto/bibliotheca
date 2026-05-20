@@ -1,5 +1,24 @@
 [
   {
+    "id": "mpefcaia725mzajh19s",
+    "dateAdded": 1779303462706,
+    "loan": null,
+    "title": "Vida y destino",
+    "author": "Василий Семёнович Гроссман",
+    "publisher": "Debolsillo",
+    "year": 2009,
+    "pages": 1111,
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788483468708",
+    "cover": "https://covers.openlibrary.org/b/id/15169154-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mpefbsuxinn0er5q8m",
     "dateAdded": 1779303439833,
     "loan": null,
