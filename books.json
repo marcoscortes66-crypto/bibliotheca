@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpecwpfxctivzz3a1b5",
+    "dateAdded": 1779299376333,
+    "loan": null,
+    "title": "Relatos de diez mundos",
+    "author": "Arthur C. Clarke",
+    "publisher": "Edhasa",
+    "year": 1986,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8435020037",
+    "cover": "https://covers.openlibrary.org/b/id/14549155-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1779299376333
+  },
+  {
     "id": "mpectuyzl8nyxhf7fg",
     "dateAdded": 1779299243531,
     "loan": null,
