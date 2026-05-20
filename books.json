@@ -1,5 +1,25 @@
 [
   {
+    "id": "mpeg6w4lzijmmdf1h68",
+    "dateAdded": 1779304890405,
+    "loan": null,
+    "title": "El Mundo de Sofia/ Sophie's World",
+    "author": "Jostein Gaarder",
+    "publisher": "Siruela",
+    "year": 2004,
+    "pages": 638,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788478442515",
+    "cover": "https://covers.openlibrary.org/b/id/4914184-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 5",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1779304890405
+  },
+  {
     "id": "mpeg6f0qv16lp9v66f7",
     "dateAdded": 1779304868234,
     "loan": null,
