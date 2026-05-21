@@ -631,6 +631,8 @@ let lastSyncTime = 0;
 const API = window.location.origin + '/api';
 
 // ─── ARRANQUE ───
+const GH_RAW = 'https://raw.githubusercontent.com/marcoscortes66-crypto/bibliotheca/main/books.json';
+
 async function detectServer() {
   let localOk = false;
 
@@ -647,8 +649,27 @@ async function detectServer() {
     await loadFromServer();
     syncInterval = setInterval(pollServer, 15000);
   } else {
-    loadFromLocalStorage();
+    await loadFromGitHubReadOnly();
   }
+}
+
+async function loadFromGitHubReadOnly() {
+  try {
+    const r = await fetch(GH_RAW + '?t=' + Date.now());
+    if (r.ok) {
+      const data = await r.json();
+      if (Array.isArray(data) && data.length > 0) {
+        books = normalizeBooks(data);
+        localStorage.setItem('bibliotheca_books', JSON.stringify(books));
+        renderBooks();
+        document.getElementById('sync-mode-label').textContent = '👁️ Solo lectura';
+        document.getElementById('sync-detail').textContent = 'Consultando desde GitHub';
+        setSyncStatus('ok');
+        return;
+      }
+    }
+  } catch(e) {}
+  loadFromLocalStorage();
 }
 
 function updateSyncLabel() {
