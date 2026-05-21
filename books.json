@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "mpelzsdhbfkdb8f942p",
+    "title": "Cien años de soledad",
+    "author": "García Márquez, Gabriel",
+    "publisher": "Cátedra",
+    "year": 1967,
+    "pages": 432,
+    "genre": "Novela",
+    "language": "Español",
+    "isbn": "9788437604947",
+    "cover": "https://covers.openlibrary.org/b/isbn/9788437604947-M.jpg",
+    "status": "leido",
+    "rating": 5,
+    "notes": "Una obra maestra.",
+    "dateAdded": 1779314636645,
+    "dateRead": 1779314636645,
+    "loan": null
+  },
+  {
+    "id": "mpelzsdh57fnsj77i3c",
+    "title": "Sapiens",
+    "author": "Harari, Yuval Noah",
+    "publisher": "Debate",
+    "year": 2011,
+    "pages": 496,
+    "genre": "Historia",
+    "language": "Español",
+    "isbn": "9788499926223",
+    "cover": "https://covers.openlibrary.org/b/isbn/9788499926223-M.jpg",
+    "status": "leyendo",
+    "rating": 4,
+    "notes": "",
+    "dateAdded": 1779314636645,
+    "dateRead": null,
+    "loan": null
+  },
+  {
+    "id": "mpelzsdhdz8y7wufqak",
+    "title": "La sombra del viento",
+    "author": "Ruiz Zafón, Carlos",
+    "publisher": "Planeta",
+    "year": 2001,
+    "pages": 544,
+    "genre": "Novela",
+    "language": "Español",
+    "isbn": "9788408043645",
+    "cover": "https://covers.openlibrary.org/b/isbn/9788408043645-M.jpg",
+    "status": "noleido",
+    "rating": 0,
+    "notes": "",
+    "dateAdded": 1779314636645,
+    "dateRead": null,
+    "loan": null
+  }
+]
