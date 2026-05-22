@@ -1,5 +1,24 @@
 [
   {
+    "id": "mphasmyc5trsj22k3sj",
+    "dateAdded": 1779477225780,
+    "loan": null,
+    "title": "El lobo estepario",
+    "author": "Hermann Hesse",
+    "publisher": "Alianza",
+    "year": 1984,
+    "pages": 235,
+    "language": "Español",
+    "genre": "Fiction",
+    "isbn": "8420692026",
+    "cover": "https://covers.openlibrary.org/b/id/14592683-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mpha7lkb1sceqg6znjp",
     "dateAdded": 1779476244203,
     "loan": null,
