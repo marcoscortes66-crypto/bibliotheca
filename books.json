@@ -1,5 +1,24 @@
 [
   {
+    "id": "mpha7lkb1sceqg6znjp",
+    "dateAdded": 1779476244203,
+    "loan": null,
+    "title": "Tractatus logico-philosophicus",
+    "author": "Ludwig Wittgenstein, Isidoro Reguera Pérez, Ivo Hernández, Spanish, Charles Ogden, David Francis Pears, Brian McGuinness, Luis Manuel Valdés Villanueva, Bertrand Russell",
+    "publisher": "Alianza Editorial",
+    "year": 2012,
+    "pages": 192,
+    "language": "Español",
+    "genre": "Analysis (Philosophy)",
+    "isbn": "9788420671819",
+    "cover": "https://covers.openlibrary.org/b/id/8083789-L.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mpha5n4hdvphi42tn1w",
     "dateAdded": 1779476152913,
     "loan": null,
