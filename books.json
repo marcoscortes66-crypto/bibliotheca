@@ -1,5 +1,24 @@
 [
   {
+    "id": "mphb2bi6fu4zniu7uij",
+    "dateAdded": 1779477677502,
+    "loan": null,
+    "title": "La vuelta al dia en ochenta mundos tomo II",
+    "author": "Julio Cortazar",
+    "publisher": "Siglo XX1 de Espan a",
+    "year": 1970,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "",
+    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1779477675/r4kxoxcpvwg0cqgreymh.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Televisión 4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mphasmyc5trsj22k3sj",
     "dateAdded": 1779477225780,
     "loan": null,
