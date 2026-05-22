@@ -1,5 +1,24 @@
 [
   {
+    "id": "mphbx7t0u5wxtoq783k",
+    "dateAdded": 1779479119045,
+    "loan": null,
+    "title": "El Otro Arbol De Guernica",
+    "author": "José Luis de Castresana Martínez",
+    "publisher": "Circulo de Lectores",
+    "year": 2005,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "",
+    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1779479119/ogp9ghebn8qmekty7hkt.jpg",
+    "notes": "",
+    "room": "",
+    "shelf": "",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mphb2bi6fu4zniu7uij",
     "dateAdded": 1779477677502,
     "loan": null,
