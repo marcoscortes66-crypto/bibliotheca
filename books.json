@@ -1,5 +1,24 @@
 [
   {
+    "id": "mphccruxpg9q74y2uv",
+    "dateAdded": 1779479844873,
+    "loan": null,
+    "title": "Manual de Tarconi",
+    "author": "Walt Disney",
+    "publisher": "MONTENA",
+    "year": 1977,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "84852970088485297008",
+    "cover": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkuDedhrX_jTrW3beZ7neDKGW3-jlj4WuEZg8-Y4UwDiFL3fVMPIufEGjzSq4Z0LtNWSEkQzL7ajLm7Wqvj0UtDwh-VneNLHotUV0t3sE",
+    "notes": "",
+    "room": "",
+    "shelf": "",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mphbx7t0u5wxtoq783k",
     "dateAdded": 1779479119045,
     "loan": null,
