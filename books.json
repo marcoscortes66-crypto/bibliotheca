@@ -1,5 +1,24 @@
 [
   {
+    "id": "mpin6u1mgflmdtusyyk",
+    "dateAdded": 1779558509722,
+    "loan": null,
+    "title": "Introducción a la ciencia II Ciencias Biológicas",
+    "author": "Isaac Asimov",
+    "publisher": "Orbis",
+    "year": 1985,
+    "pages": 836,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "8476341180",
+    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1779558508/gkpdqmdggbizq2b2kdgi.jpg",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Estantería 4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mphccruxpg9q74y2uv",
     "dateAdded": 1779479844873,
     "loan": null,
