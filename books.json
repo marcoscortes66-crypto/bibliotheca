@@ -11,12 +11,13 @@
     "language": "Español",
     "genre": "Ensayo",
     "isbn": "8476341180",
-    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1779558508/gkpdqmdggbizq2b2kdgi.jpg",
+    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1779558523/kru5xbtjz9jk9jofa8ag.jpg",
     "notes": "",
     "room": "Salón",
     "shelf": "Estantería 4",
-    "status": "noleido",
-    "rating": 0
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1779558523974
   },
   {
     "id": "mphccruxpg9q74y2uv",
