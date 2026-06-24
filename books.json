@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsb7aytui0mjyn43d",
+    "dateAdded": 1782319820357,
+    "loan": null,
+    "title": "Kaputt",
+    "author": "Curzio Malapaarte",
+    "publisher": "Círculo de Lectores",
+    "year": 1990,
+    "pages": 541,
+    "language": "Español",
+    "genre": "",
+    "isbn": "8422629763",
+    "cover": "https://covers.openlibrary.org/b/isbn/8422629763-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782319820357
+  },
+  {
     "id": "mqsb693wgs4g327s35",
     "dateAdded": 1782319771292,
     "loan": null,
