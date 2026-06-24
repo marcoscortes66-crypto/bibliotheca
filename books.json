@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsca15pnlw8vv0wtgn",
+    "dateAdded": 1782321627229,
+    "loan": null,
+    "title": "El montacargas",
+    "author": "Frederic Dard",
+    "publisher": "Siruela",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788417624330",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBUe584huKZdbmCtlhrdkuhRCnyh-nlGncCG8vlQ91fg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsc7cgtdtfc5sk7j6a",
     "dateAdded": 1782321501917,
     "loan": null,
