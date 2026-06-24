@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsc0uj5dt289xzwvrh",
+    "dateAdded": 1782321198737,
+    "loan": null,
+    "title": "Niebla",
+    "author": "Miguel de Unamuno",
+    "publisher": "RBA",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8447311074",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5DAYwpy4eeDjE7gvaxVDk24pJw0MEdY-d7eOMhLeYtg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsbzaubp7v0gft2vnl",
     "dateAdded": 1782321126563,
     "loan": null,
