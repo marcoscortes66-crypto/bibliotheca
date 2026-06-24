@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsduhmb1jvkeu8pqyo",
+    "dateAdded": 1782324261299,
+    "loan": null,
+    "title": "Relatos de diez mundos",
+    "author": "Arthur C. Clarke",
+    "publisher": "Nebulae",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8435020037",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRehrP_mGcuSSERr_IOg4uykr07VyMW8VXurU7V66fWPQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsdsam91ux74camqv1",
     "dateAdded": 1782324158913,
     "loan": null,
