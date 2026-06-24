@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsem19unkwwqcm0oeh",
+    "dateAdded": 1782325546482,
+    "loan": null,
+    "title": "La religión política",
+    "author": "Antonio Elorza",
+    "publisher": "Haranburu",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "8478488947254",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JFYHTv7a29yYc3lmCw6111fmgdxWeOdpIHYGo-Ic4w&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsej9bb5ce76feold2",
     "dateAdded": 1782325416935,
     "loan": null,
