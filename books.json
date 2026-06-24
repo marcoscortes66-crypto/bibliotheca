@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqse1j5uecyxzcciuxp",
+    "dateAdded": 1782324589890,
+    "loan": null,
+    "title": "Crónicas marcianas",
+    "author": "Arthur C. Clarke",
+    "publisher": "Minotauro",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "844507010x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-l3UAhLBUeSLbp5l5_44s3_x6ZG6rxDmrYuSyTyimlA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782324589890
+  },
+  {
     "id": "mqsdyut34mcgazms1hm",
     "dateAdded": 1782324465015,
     "loan": null,
