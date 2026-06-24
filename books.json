@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsdyut34mcgazms1hm",
+    "dateAdded": 1782324465015,
+    "loan": null,
+    "title": "Cita con rama",
+    "author": "Arthur C. Clarke",
+    "publisher": "Ultramar",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8480002009874",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQGFqdKTihSqlMh4FipBBEAogr2LuHSGGToOv87Bc5g&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsdw4gqfsx4chdfe4",
     "dateAdded": 1782324337562,
     "loan": null,
