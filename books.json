@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsbneupw1ex58jql0k",
+    "dateAdded": 1782320571889,
+    "loan": null,
+    "title": "Siddharta",
+    "author": "Hermann Hesse",
+    "publisher": "Bruguera",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8402005284",
+    "cover": "https://cloud10.todocoleccion.online/libros-segunda-mano-literatura/tc/2022/08/22/23/357160005.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsblb8hiyb62bcava",
     "dateAdded": 1782320473889,
     "loan": null,
