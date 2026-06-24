@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsbjwcbnxg97ln8c58",
+    "dateAdded": 1782320407931,
+    "loan": null,
+    "title": "Manhattan Transfer",
+    "author": "John Dos Passos",
+    "publisher": "Circulo de Lectores",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8422627507",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrUSgaiQH-fweJdrDijfq4fe1_Kvbg2CeJlXsS2exgzA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsbi81uqhlhqizulh",
     "dateAdded": 1782320329794,
     "loan": null,
