@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqseegb76oziyahuqkj",
+    "dateAdded": 1782325192723,
+    "loan": null,
+    "title": "La Forja De Un Rebelde",
+    "author": "Arturo Barea",
+    "publisher": "CELESA (Centro de exportacion de Libros Espanoles)",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Social life and customs",
+    "isbn": "9788483062906",
+    "cover": "https://syndetics.com/index.aspx?isbn=9788483062906/LC.JPG",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1782325192723
+  },
+  {
     "id": "mqsea7l1382ejcbjrd",
     "dateAdded": 1782324994789,
     "loan": null,
