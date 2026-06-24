@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsbbos5pft0z5ddqtd",
+    "dateAdded": 1782320024885,
+    "loan": null,
+    "title": "Viaje a la Alcarria",
+    "author": "Camilo José Cela",
+    "publisher": "Espasa Calpe",
+    "year": 1961,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvgnCUw_LAMwtu8m32PlwoSPStZf0RDb9L5kBM1mQl6w&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsb9scngnvpbfj9alo",
     "dateAdded": 1782319936199,
     "loan": null,
