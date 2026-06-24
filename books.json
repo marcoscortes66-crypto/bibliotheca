@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqse3s8c5zw758satq",
+    "dateAdded": 1782324694956,
+    "loan": null,
+    "title": "El rayo verde",
+    "author": "Arthur C. Clarke",
+    "publisher": "Orbis",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8476347553",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8DrBAUW_VCEfp0ShPBxJEkgNIdsWD2YBbCNF8a9i8AQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqse1j5uecyxzcciuxp",
     "dateAdded": 1782324589890,
     "loan": null,
