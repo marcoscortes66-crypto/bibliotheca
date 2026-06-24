@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsej9bb5ce76feold2",
+    "dateAdded": 1782325416935,
+    "loan": null,
+    "title": "El capital",
+    "author": "Karl Marx",
+    "publisher": "Distribuciones Mateo",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "8436516656",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJj8fgwjLiT9Q3Dhoeur9OKJlp5kByz0ScKxCIEj0z-g&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsefwj6aoshlg2oo0c",
     "dateAdded": 1782325260402,
     "loan": null,
