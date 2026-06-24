@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsb693wgs4g327s35",
+    "dateAdded": 1782319771292,
+    "loan": null,
+    "title": "Los Buddenbrook",
+    "author": "Thomas Mann",
+    "publisher": "Edhasa",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788435017923",
+    "cover": "https://m.media-amazon.com/images/I/71ULem1A78L._AC_UF1000,1000_QL80_.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsb3vnfvnk528ayeqj",
     "dateAdded": 1782319660539,
     "loan": null,
