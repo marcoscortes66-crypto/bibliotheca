@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsevmeb7dzi3zdvr38",
+    "dateAdded": 1782325993763,
+    "loan": null,
+    "title": "Crónica Del Alba 3",
+    "author": "Ramón J. Sender",
+    "publisher": "Alianza",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjBPrHjM6qOS1R3WKkNbBF6mX3MrASXuqBAjRRD42FA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsetyb0je6q0estzd",
     "dateAdded": 1782325915884,
     "loan": null,
