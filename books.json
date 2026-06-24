@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsddfm33f7dtfxop9t",
+    "dateAdded": 1782323465547,
+    "loan": null,
+    "title": "Preludio a la Fundación",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janes",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788401322648",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmG1fV6YCiJz3r8m5GxyT5SeQK3vMAj_FA2VeXfG28PQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsdb5cf0tql67jyu04",
     "dateAdded": 1782323358927,
     "loan": null,
