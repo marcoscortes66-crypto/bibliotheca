@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsdmv1gx7evyl9wnw",
+    "dateAdded": 1782323905444,
+    "loan": null,
+    "title": "Fundación",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janes",
+    "year": 1986,
+    "pages": 254,
+    "language": "Español",
+    "genre": "Psychohistory",
+    "isbn": "9788401929212",
+    "cover": "https://covers.openlibrary.org/b/id/14560069-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1782323905444
+  },
+  {
     "id": "mqsdlpt4sd13m8ocn6q",
     "dateAdded": 1782323852008,
     "loan": null,
