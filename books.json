@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqse5w0li65do21j13",
+    "dateAdded": 1782324793173,
+    "loan": null,
+    "title": "La Guerra de Los Mercaderes",
+    "author": "Frederik Pohl",
+    "publisher": "Ultramar",
+    "year": 1995,
+    "pages": "",
+    "language": "Español",
+    "genre": "Science fiction",
+    "isbn": "9788473866446",
+    "cover": "https://covers.openlibrary.org/b/id/13886460-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqse5fpr0wjjpxwhb4d",
     "dateAdded": 1782324772047,
     "loan": null,
