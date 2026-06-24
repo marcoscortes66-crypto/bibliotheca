@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqscj8os8cff24js4ix",
+    "dateAdded": 1782322056892,
+    "loan": null,
+    "title": "Los hechos del rey Arturo",
+    "author": "John Steinbeck",
+    "publisher": "Salvat",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "843459042x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhiGDi_osL-ksGn96csvYVjlna5icDgJsZaAD-gn5Xg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqscgwq72lbppc0899r",
     "dateAdded": 1782321948079,
     "loan": null,
