@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsepxf4yh7fzloz9hl",
+    "dateAdded": 1782325728112,
+    "loan": null,
+    "title": "El capitalismo del siglo XX",
+    "author": "Robert Heilbroner",
+    "publisher": "Península",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788483072073",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR5Zf1hNFvHAUFnyBP46pt6JdEjOX--mRPqQl-qIvPkw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsen8410mjtgmjf4hm",
     "dateAdded": 1782325602001,
     "loan": null,
