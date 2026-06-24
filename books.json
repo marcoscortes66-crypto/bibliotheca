@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsdgfnjkc67c71tta",
+    "dateAdded": 1782323605567,
+    "loan": null,
+    "title": "Robots e imperio",
+    "author": "Isaac Asimov, Carlos Gardini",
+    "publisher": "Plaza & Janés",
+    "year": 1987,
+    "pages": 368,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788401321696",
+    "cover": "https://covers.openlibrary.org/b/id/14549166-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1782323605567
+  },
+  {
     "id": "mqsddfm33f7dtfxop9t",
     "dateAdded": 1782323465547,
     "loan": null,
