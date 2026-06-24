@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqseygdqsko7kcb8bo",
+    "dateAdded": 1782326125934,
+    "loan": null,
+    "title": "Diario 1942-43",
+    "author": "Joseph Goebbels",
+    "publisher": "Arca de Papel",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Diario",
+    "isbn": "8401410576",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFXzSobdL-u3EKFu5bMx36TLBC0JZA1mAx-1KJseioHA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsevmeb7dzi3zdvr38",
     "dateAdded": 1782325993763,
     "loan": null,
