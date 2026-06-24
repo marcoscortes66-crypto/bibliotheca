@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsea7l1382ejcbjrd",
+    "dateAdded": 1782324994789,
+    "loan": null,
+    "title": "Cyteen II",
+    "author": "C J Cherryh",
+    "publisher": "Nova",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788440617613",
+    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1782324994/moqr1hsy79hrw9cbqxjq.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqse5w0li65do21j13",
     "dateAdded": 1782324793173,
     "loan": null,
