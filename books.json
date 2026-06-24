@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsdb5cf0tql67jyu04",
+    "dateAdded": 1782323358927,
+    "loan": null,
+    "title": "Fundación y Tierra",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janés",
+    "year": 1988,
+    "pages": 395,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788401322174",
+    "cover": "https://covers.openlibrary.org/b/id/14550951-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782323358927
+  },
+  {
     "id": "mqsda9daauwer4fyzx9",
     "dateAdded": 1782323317486,
     "loan": null,
