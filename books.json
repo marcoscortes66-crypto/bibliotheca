@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsbult8ctp6u5xvmzt",
+    "dateAdded": 1782320907500,
+    "loan": null,
+    "title": "Historia mínima de Madrid",
+    "author": "Montserrat del Amo",
+    "publisher": "Avapiés",
+    "year": 1985,
+    "pages": 160,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8486280141",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtqeLnRGf-GJzBIj57AllhDWe1GKC87nirBKa01kPerQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsbt52x52b4j796oio",
     "dateAdded": 1782320839161,
     "loan": null,
