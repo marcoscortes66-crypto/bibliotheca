@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsc3459veaf4z7prhe",
+    "dateAdded": 1782321304509,
+    "loan": null,
+    "title": "El Gran Gatsby",
+    "author": "Francis Scott Fitzgerald",
+    "publisher": "Editorial Alfaguara",
+    "year": 1998,
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788420478333",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFLdp9QpmNKe7ff-qZWe3NojBchueZlp8TVFxt5NwNw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782321304509
+  },
+  {
     "id": "mqsc0uj5dt289xzwvrh",
     "dateAdded": 1782321198737,
     "loan": null,
