@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqscetwsff5rbobbcgi",
+    "dateAdded": 1782321851116,
+    "loan": null,
+    "title": "La metamorfosis",
+    "author": "Frank Kafka",
+    "publisher": "Akal",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "84760060x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ14Xvnirq_5lhAu3wwnI4kZwoRi5p8O20WgzzCJ1w5g&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782321851116
+  },
+  {
     "id": "mqsca15pnlw8vv0wtgn",
     "dateAdded": 1782321627229,
     "loan": null,
