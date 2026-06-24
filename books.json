@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqscgwq72lbppc0899r",
+    "dateAdded": 1782321948079,
+    "loan": null,
+    "title": "El Rey Lear",
+    "author": "William Shakespeare",
+    "publisher": "Espasa-Calpe",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Teatro",
+    "isbn": "8423900541",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgK_4Xzb_8w7HU6FAdka-1I1VwS76Km50HYzUtM-Efw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqscetwsff5rbobbcgi",
     "dateAdded": 1782321851116,
     "loan": null,
