@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsetyb0je6q0estzd",
+    "dateAdded": 1782325915884,
+    "loan": null,
+    "title": "Cronica Del Alba 2",
+    "author": "Ramón J. Sender",
+    "publisher": "Alianza",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2maaODnRrI0-PtkpzG_KEkQhkArr4x5quBZ2BtY56lg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqserkuvutfibabnhls",
     "dateAdded": 1782325805143,
     "loan": null,
