@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqse5fpr0wjjpxwhb4d",
+    "dateAdded": 1782324772047,
+    "loan": null,
+    "title": "2001",
+    "author": "Arthur C. Clarke",
+    "publisher": "Orbis",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8476340532",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwe3mWvkVybco5Xfr0vCnZTJEPz3XEINfahAE-To5TQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782324772047
+  },
+  {
     "id": "mqse3s8c5zw758satq",
     "dateAdded": 1782324694956,
     "loan": null,
