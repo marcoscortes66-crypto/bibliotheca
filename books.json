@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsd6mxxfuxwuj3wurg",
+    "dateAdded": 1782323148453,
+    "loan": null,
+    "title": "Los robots del amanecer",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janes",
+    "year": 1994,
+    "pages": "",
+    "language": "Español",
+    "genre": "American Science fiction",
+    "isbn": "9788401496615",
+    "cover": "https://covers.openlibrary.org/b/id/7887537-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782323148453
+  },
+  {
     "id": "mqscn3krug0818dlcua",
     "dateAdded": 1782322236891,
     "loan": null,
