@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqscn3krug0818dlcua",
+    "dateAdded": 1782322236891,
+    "loan": null,
+    "title": "Así hablaba Zaratustra",
+    "author": "Friedrich Nietzsche",
+    "publisher": "Edaf",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8471660571",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgVLkMrBB2VvMEEBjIo39_ulhiUNezdr4h_OrloVxEjQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqscl7yqq4ei0f8xfh",
     "dateAdded": 1782322149266,
     "loan": null,
