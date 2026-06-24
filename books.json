@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsdgv2ylnvuttrnh9t",
+    "dateAdded": 1782323625562,
+    "loan": null,
+    "title": "Hacia La Fundacion",
+    "author": "Isaac Asimov",
+    "publisher": "Plaza & Janes Editores, S.A.",
+    "year": 1993,
+    "pages": "",
+    "language": "Español",
+    "genre": "Fiction",
+    "isbn": "9788401325069",
+    "cover": "",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "leido",
+    "rating": 2,
+    "dateRead": 1782323625562
+  },
+  {
     "id": "mqsdgfnjkc67c71tta",
     "dateAdded": 1782323605567,
     "loan": null,
