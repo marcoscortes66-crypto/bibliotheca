@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqsdsam91ux74camqv1",
+    "dateAdded": 1782324158913,
+    "loan": null,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publisher": "Orbis",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "8476340958",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfPqf2UvO6qQkADx7HAbfnRBx-fp3dXvV7Hql36Wkhxg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqsdnwe6go08abufmb5",
     "dateAdded": 1782323953854,
     "loan": null,
