@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqsbsjlmymgotns8vv",
+    "dateAdded": 1782320811322,
+    "loan": null,
+    "title": "Las cuatro plumas",
+    "author": "AEW Mason",
+    "publisher": "Cisne",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNi7njKpG0-Z4Q17UwLsmrlI4ABcIFueNEzkC3e1JXvA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 1 -5",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782320811322
+  },
+  {
     "id": "mqsbqwr4k0wfl30bkr",
     "dateAdded": 1782320735056,
     "loan": null,
