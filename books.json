@@ -1549,8 +1549,9 @@
     "notes": "",
     "room": "",
     "shelf": "",
-    "status": "noleido",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782372815245
   },
   {
     "id": "mphbx7t0u5wxtoq783k",
