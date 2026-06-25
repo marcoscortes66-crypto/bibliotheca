@@ -1956,8 +1956,9 @@
     "notes": "",
     "room": "Habitación",
     "shelf": "",
-    "status": "noleido",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782372924432
   },
   {
     "id": "molbfwlr8pxhpgy2ykj",
