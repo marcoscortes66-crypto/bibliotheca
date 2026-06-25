@@ -1782,8 +1782,9 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Estantería 4",
-    "status": "noleido",
-    "rating": 0
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782372898694
   },
   {
     "id": "molf93gqbuki8jw4vgj",
