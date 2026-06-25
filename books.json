@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqt8z55zbrxv2sxl6qg",
+    "dateAdded": 1782376546535,
+    "loan": null,
+    "title": "Con la vida por detrás",
+    "author": "Antoine Compagnon",
+    "publisher": "Acantilado",
+    "year": 2025,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788419958594",
+    "cover": "https://imagessl4.casadellibro.com/a/l/s7/94/9788419958594.webp",
+    "notes": "",
+    "room": "t",
+    "shelf": "",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqt7twr38nuuqvxvif9",
     "dateAdded": 1782374622735,
     "loan": null,
