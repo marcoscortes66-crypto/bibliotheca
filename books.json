@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqt6nrzuvm92j91vwna",
+    "dateAdded": 1782372657018,
+    "loan": null,
+    "title": "Así hicimos la Reina de África",
+    "author": "Katharine Hepburn",
+    "publisher": "Hatari books",
+    "year": 2026,
+    "pages": "",
+    "language": "Español",
+    "genre": "Biografías",
+    "isbn": "9791399094305",
+    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1782372655/xjczfzxguwtybixbphyh.jpg",
+    "notes": "",
+    "room": "T",
+    "shelf": "",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782372657018
+  },
+  {
     "id": "mqsezmwp6nwvsie0yn7",
     "dateAdded": 1782326181049,
     "loan": null,
