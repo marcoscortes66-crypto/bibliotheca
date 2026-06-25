@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqt7twr38nuuqvxvif9",
+    "dateAdded": 1782374622735,
+    "loan": null,
+    "title": "Personaje secundario",
+    "author": "Enrique Murillo",
+    "publisher": "Trama Editorial",
+    "year": 2025,
+    "pages": 544,
+    "language": "Español",
+    "genre": "Memorias",
+    "isbn": "9791399050332",
+    "cover": "https://res.cloudinary.com/dhttevz75/image/upload/v1782374621/irael2y35acbpqx8oy5n.jpg",
+    "notes": "",
+    "room": "T",
+    "shelf": "",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqt6nrzuvm92j91vwna",
     "dateAdded": 1782372657018,
     "loan": null,
