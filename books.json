@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvaw1bez8fakkpqsl",
+    "dateAdded": 1782500693162,
+    "loan": null,
+    "title": "La Europa de Hitler",
+    "author": "Arnold J Toynbee",
+    "publisher": "Sarpe",
+    "year": 1985,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "847291738x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIiuZ7boQPSrPDyZCXlYHhRdSQDUPhOsbubVwAGWUjVQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvau0uskviu6be8gl",
     "dateAdded": 1782500599252,
     "loan": null,
