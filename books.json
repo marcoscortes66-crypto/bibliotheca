@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqv9ednuitc4wms0wp9",
+    "dateAdded": 1782498189738,
+    "loan": null,
+    "title": "Interpretación en Arqueología",
+    "author": "Ian Hodder",
+    "publisher": "Crítica",
+    "year": 1988,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8474233399",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROfsyzkzpKjT0OQQCijRxUvINZ6LOPmE8yQ6SvDDPQog&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782498189738
+  },
+  {
     "id": "mqv9brqhsgb4asr6rpm",
     "dateAdded": 1782498068009,
     "loan": null,
