@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqvb4dvpeb7e1d4w1ud",
+    "dateAdded": 1782501082693,
+    "loan": null,
+    "title": "Mi lucha : la historia del libro que marcó el siglo XX",
+    "author": "Sven Felix Kellerhoff",
+    "publisher": "Planeta",
+    "year": 2016,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "9788498929058",
+    "cover": "https://covers.openlibrary.org/b/id/7408328-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782501082693
+  },
+  {
     "id": "mqvb3oremarv3ufs41f",
     "dateAdded": 1782501050138,
     "loan": null,
