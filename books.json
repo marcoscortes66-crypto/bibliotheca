@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvbampbpjid4kw3nb",
+    "dateAdded": 1782501374063,
+    "loan": null,
+    "title": "NSDAP Hauptarchiv",
+    "author": "",
+    "publisher": "Stanford University",
+    "year": 1961,
+    "pages": "",
+    "language": "Inglés",
+    "genre": "",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzW8Xn2uvUvbBV8w1CztgTXyvZt705j_JiGCcHZSp-g&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvb6793vf613a2oz1a",
     "dateAdded": 1782501167415,
     "loan": null,
