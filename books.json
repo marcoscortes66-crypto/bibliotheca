@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvaer8bq8upsbd0wp",
+    "dateAdded": 1782499886939,
+    "loan": null,
+    "title": "De las revoluciones burguesas a 1914",
+    "author": "",
+    "publisher": "Alhambra",
+    "year": 1988,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8420508675",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1SJ-PJa73VaV32Bw8A4amR45ic7YhLv7Kh6XUB1KGA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqva8xp16z71lg92ksj",
     "dateAdded": 1782499615381,
     "loan": null,
