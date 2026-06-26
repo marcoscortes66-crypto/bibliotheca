@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv9brqhsgb4asr6rpm",
+    "dateAdded": 1782498068009,
+    "loan": null,
+    "title": "Formaciones económicas precapitalista",
+    "author": "Karl Marx, Eric Hobsbawn",
+    "publisher": "Crítica",
+    "year": 1979,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8474230993",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFt2TwNiciZb5MonPHhuojt4twUFfVTapTZUoeKfCRHg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv99fjmmb1240yahld",
     "dateAdded": 1782497958899,
     "loan": null,
