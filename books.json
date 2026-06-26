@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv99fjmmb1240yahld",
+    "dateAdded": 1782497958899,
+    "loan": null,
+    "title": "La democracia asesinada",
+    "author": "Jean-Francois Berdah",
+    "publisher": "Crítica",
+    "year": 2002,
+    "pages": 513,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "9788484323112",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSx88PWae6JQ_QYK0lKsozKPHr1HkeFZCUvP7GTQ-GJA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv96f3cdnr18ajx1k9",
     "dateAdded": 1782497818344,
     "loan": null,
