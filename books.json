@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv8zxu3045pxdk17xx",
+    "dateAdded": 1782497516043,
+    "loan": null,
+    "title": "La España del siglo primero de nuestra era",
+    "author": "Antonio García y Bellido",
+    "publisher": "Espasa-Calpe",
+    "year": 1993,
+    "pages": 334,
+    "language": "Español",
+    "genre": "",
+    "isbn": "8423907449",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEtfDRcbrGltfGoBcbmxLMgI36NgAXqebGXfYG15blA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv8x5raeh9u33e8xli",
     "dateAdded": 1782497386342,
     "loan": null,
