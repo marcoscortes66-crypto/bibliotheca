@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv96f3cdnr18ajx1k9",
+    "dateAdded": 1782497818344,
+    "loan": null,
+    "title": "Roma y su imperio",
+    "author": "Maurice Crouzet",
+    "publisher": "Destinolibro",
+    "year": 1980,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8423310418",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwaPMoTVx9NZoWSQ34PNEffOXpEEYWCkfMItdMp-4cyg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv91zm09ggqxih8dy4",
     "dateAdded": 1782497611656,
     "loan": null,
