@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv9gofishkpwwztl28",
+    "dateAdded": 1782498297006,
+    "loan": null,
+    "title": "La batalla del Ebro",
+    "author": "Jorge M Reverte",
+    "publisher": "Planeta",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8467414723",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaAfM4TQvFCTWLiCIPifG5RRIlt8bpulrzKPxV7izSKA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv9ewy09vliagn3ulf",
     "dateAdded": 1782498214729,
     "loan": null,
