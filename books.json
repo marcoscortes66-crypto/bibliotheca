@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvajkh9zk3g9ziw3",
+    "dateAdded": 1782500111469,
+    "loan": null,
+    "title": "El crimen de la carretera de Málaga-Almería",
+    "author": "Norman Bethune",
+    "publisher": "Caligrama",
+    "year": 2004,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "849578324x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkQaZckZywpBAsPyhMyBbUuyrTtIP94AZhybT5693WQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvagwtj3937fs85qaa",
     "dateAdded": 1782499987495,
     "loan": null,
