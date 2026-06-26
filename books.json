@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqva2aumk00c72d96t",
+    "dateAdded": 1782499305838,
+    "loan": null,
+    "title": "Constituciones y periodos constituyentes en España (1808-1936)",
+    "author": "Jordi Solé-Tura",
+    "publisher": "Siglo XXI de España Editores",
+    "year": 1977,
+    "pages": 175,
+    "language": "Español",
+    "genre": "Constitutional history",
+    "isbn": "8432302848",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxUXaOjrRm1E68cqTBrhsy9-rasGCSIDIssnrbdZQQg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782499305838
+  },
+  {
     "id": "mqva0vmbv6kddom61mr",
     "dateAdded": 1782499239443,
     "loan": null,
