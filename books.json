@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqvb1gscgv2ylkoeyj6",
+    "dateAdded": 1782500946492,
+    "loan": null,
+    "title": "Relatos inéditos de los submarinos republicanosen la GCE C5 y C2",
+    "author": "Ramón Cayuelas Robles",
+    "publisher": "ECU",
+    "year": 1999,
+    "pages": "",
+    "language": "Español",
+    "genre": "Biografías",
+    "isbn": "9788495015815",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7PK33N7L1mlFm41Gic5WY_sPhy9d-ygt5-LmbV6EGQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782500946492
+  },
+  {
     "id": "mqvaywayi3wojdd20w",
     "dateAdded": 1782500826634,
     "loan": null,
