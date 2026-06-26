@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv8gd42ypot5t58fpo",
+    "dateAdded": 1782496602722,
+    "loan": null,
+    "title": "La historia del poder",
+    "author": "Abel Cádiz Ruiz",
+    "publisher": "Fundación Emprendedores",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788409169733",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReFtrFZ3qsbn2P-iuIupzCDspYF9xqyoYthwPb0KyznQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqt8z55zbrxv2sxl6qg",
     "dateAdded": 1782376546535,
     "loan": null,
