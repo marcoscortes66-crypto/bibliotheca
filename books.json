@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvau0uskviu6be8gl",
+    "dateAdded": 1782500599252,
+    "loan": null,
+    "title": "La América pre-hispanica",
+    "author": "Per Bosch Gimpera",
+    "publisher": "Ariel",
+    "year": 1975,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8434465027",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTihc5gRmAevffG3BSxeD_nfbb-79HLAcBVlQAA2XiIg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvarxzu9okob33s4h",
     "dateAdded": 1782500502234,
     "loan": null,
