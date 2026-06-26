@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqva8xp16z71lg92ksj",
+    "dateAdded": 1782499615381,
+    "loan": null,
+    "title": "Bismarck",
+    "author": "Bruce Waller",
+    "publisher": "Ariel",
+    "year": 1999,
+    "pages": "",
+    "language": "Español",
+    "genre": "Biografías",
+    "isbn": "9788434466340",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU-g2OHAO_KKdPtOLwYKkZ96tpL4eMwgRjKZodXvSgAQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqva78zat077on4wt3r",
     "dateAdded": 1782499536694,
     "loan": null,
