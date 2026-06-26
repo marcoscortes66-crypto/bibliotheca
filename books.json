@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqv8ims02tohrnnl39u",
+    "dateAdded": 1782496708560,
+    "loan": null,
+    "title": "Diccionario de términos de arte y elementos de Arqueología, Heráldica y Numismática",
+    "author": "Guillermo Fatás Cabeza, Guillermo Fatas, Gonzalo M. Borras, Guillermo Fatás",
+    "publisher": "Alianza",
+    "year": 1988,
+    "pages": 400,
+    "language": "Español",
+    "genre": "Dictionaries",
+    "isbn": "9788420636573",
+    "cover": "https://covers.openlibrary.org/b/id/5258627-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782496708560
+  },
+  {
     "id": "mqv8gd42ypot5t58fpo",
     "dateAdded": 1782496602722,
     "loan": null,
