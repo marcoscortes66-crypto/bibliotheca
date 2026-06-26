@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv9ewy09vliagn3ulf",
+    "dateAdded": 1782498214729,
+    "loan": null,
+    "title": "Una historia de la Guerra Civil que no va a gustar a nadie",
+    "author": "Juan Eslava Galán",
+    "publisher": "Planeta",
+    "year": 2005,
+    "pages": 376,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "9788408058830",
+    "cover": "https://covers.openlibrary.org/b/id/12866587-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv9ednuitc4wms0wp9",
     "dateAdded": 1782498189738,
     "loan": null,
