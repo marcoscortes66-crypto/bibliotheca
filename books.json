@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvapzg6yh36mft68cs",
+    "dateAdded": 1782500410806,
+    "loan": null,
+    "title": "Tratado de iconografía",
+    "author": "Juan Francisco Esteban Lorente, Juan F. Esteban Lorente",
+    "publisher": "Istmo",
+    "year": 1990,
+    "pages": 472,
+    "language": "Español",
+    "genre": "Diccionario",
+    "isbn": "9788470902246",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjiyijrGJJOWfYAj0jBJTyjL9slt3SdhMhwIFkAooNIg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvap4nfvkbxx6vu3ka",
     "dateAdded": 1782500370891,
     "loan": null,
