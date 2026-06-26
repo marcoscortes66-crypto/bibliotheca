@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvagwtj3937fs85qaa",
+    "dateAdded": 1782499987495,
+    "loan": null,
+    "title": "De la reforma a la revolución 2",
+    "author": "",
+    "publisher": "Espasa-Calpe",
+    "year": 1988,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "978842394449",
+    "cover": "https://covers.openlibrary.org/b/id/5385559-L.jpghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkG_dYX7WfainFwGWjLhkZsvZdCRrOIeFD-Xtqn6xjfw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvaer8bq8upsbd0wp",
     "dateAdded": 1782499886939,
     "loan": null,
