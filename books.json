@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv8vrqjng95sjo35g",
+    "dateAdded": 1782497321515,
+    "loan": null,
+    "title": "Atlas histórico mundial II",
+    "author": "Hermann Kinder, Werner Hilgemann",
+    "publisher": "Istmo",
+    "year": 1999,
+    "pages": "",
+    "language": "Español",
+    "genre": "Diccionario",
+    "isbn": "9788470900099",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx9JAlok8-JnKIfh5Kri6MAeYY8_kkRpmwvalWZEqIGQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv8j94cv3074qwb7ce",
     "dateAdded": 1782496737516,
     "loan": null,
