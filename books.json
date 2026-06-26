@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqv91zm09ggqxih8dy4",
+    "dateAdded": 1782497611656,
+    "loan": null,
+    "title": "Historia de la guerra del Peloponero",
+    "author": "Tucídides",
+    "publisher": "Akal",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8476003560",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF2lppXngsBfMEAclSdqAlwtwMfxL7RkMSOXv4xRwC6Q&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv8zxu3045pxdk17xx",
     "dateAdded": 1782497516043,
     "loan": null,
