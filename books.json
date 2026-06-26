@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqva67elnn9vjeaup38",
+    "dateAdded": 1782499487997,
+    "loan": null,
+    "title": "Carros y Vehículos blindados modernos",
+    "author": "Ray Bonds",
+    "publisher": "San Martín",
+    "year": 1982,
+    "pages": "",
+    "language": "Español",
+    "genre": "Guia",
+    "isbn": "8471401975",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmXxbZaeebedh5pIlfHc407KeGisehgKbfGKobXuLPcQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqva2aumk00c72d96t",
     "dateAdded": 1782499305838,
     "loan": null,
