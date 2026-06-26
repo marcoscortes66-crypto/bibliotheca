@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvaywayi3wojdd20w",
+    "dateAdded": 1782500826634,
+    "loan": null,
+    "title": "La República Romana",
+    "author": "Michael Crawford",
+    "publisher": "Taurus",
+    "year": 1981,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8430655042",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNGABl-_xC5uxOeuhmiRiP8EyYv51589berMZHu_V0Q&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvaw1bez8fakkpqsl",
     "dateAdded": 1782500693162,
     "loan": null,
