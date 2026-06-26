@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvap4nfvkbxx6vu3ka",
+    "dateAdded": 1782500370891,
+    "loan": null,
+    "title": "Historia Universal - Los Estados Unidos de America - Vc\"lumen 30",
+    "author": "Willi P. Adams",
+    "publisher": "Siglo XXI",
+    "year": 1993,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8432303488",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmXJcGVriBXp3q-rTHiv7NfWOEkImYw6vPiZPk5Jqfw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvan264q28txrgam9",
     "dateAdded": 1782500274364,
     "loan": null,
