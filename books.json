@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqva0vmbv6kddom61mr",
+    "dateAdded": 1782499239443,
+    "loan": null,
+    "title": "Mitología universal Tomo II",
+    "author": "Juan B Bergua",
+    "publisher": "Clásicos Bergua",
+    "year": 1979,
+    "pages": "",
+    "language": "Español",
+    "genre": "Diccionario",
+    "isbn": "8470830892",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaGceHLlWLNhqP_FKp26JQTl2m_tkCqYMV5QlPXR2MrA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqv9ixhw4jg5l7zkwf2",
     "dateAdded": 1782498402068,
     "loan": null,
