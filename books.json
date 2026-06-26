@@ -1,5 +1,25 @@
 [
   {
+    "id": "mqvarxzu9okob33s4h",
+    "dateAdded": 1782500502234,
+    "loan": null,
+    "title": "Crisis e inflación entre la antigüedad y la edad media",
+    "author": "Georges Depeyrot",
+    "publisher": "Crítica",
+    "year": 1996,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "9788474236712",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7kyxHBeLXiRaqVBFMv2w63G5IMvOfvKLcGDYHifXtQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1782500502234
+  },
+  {
     "id": "mqvapzg6yh36mft68cs",
     "dateAdded": 1782500410806,
     "loan": null,
