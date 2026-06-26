@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvalof7ag6ye84caft",
+    "dateAdded": 1782500209891,
+    "loan": null,
+    "title": "Los orígenes de Roma",
+    "author": "Tito Livio",
+    "publisher": "Akal",
+    "year": 1989,
+    "pages": 561,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8476003633",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn6LMc5jwQtjh1fWy0h4V83XZaHjV_TCQBhfzPFA2UNQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvajkh9zk3g9ziw3",
     "dateAdded": 1782500111469,
     "loan": null,
