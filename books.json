@@ -1,5 +1,24 @@
 [
   {
+    "id": "mqvb3oremarv3ufs41f",
+    "dateAdded": 1782501050138,
+    "loan": null,
+    "title": "La guerra secreta de Himmler",
+    "author": "Martin Allen",
+    "publisher": "Tempus",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "9788493618162",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCOeJ8FPbEohe51gGu6d7e5JOmgEJnCeSYX15aOEmXpQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 2 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mqvb1gscgv2ylkoeyj6",
     "dateAdded": 1782500946492,
     "loan": null,
