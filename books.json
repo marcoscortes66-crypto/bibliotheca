@@ -717,7 +717,11 @@
   {
     "id": "mqt6nrzuvm92j91vwna",
     "dateAdded": 1782372657018,
-    "loan": null,
+    "loan": {
+      "name": "Mama",
+      "date": 1782667429799,
+      "returned": false
+    },
     "title": "Así hicimos la Reina de África",
     "author": "Katharine Hepburn",
     "publisher": "Hatari books",
