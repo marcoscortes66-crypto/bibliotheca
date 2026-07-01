@@ -720,7 +720,7 @@
     "loan": {
       "name": "Mama",
       "date": 1782667429799,
-      "returned": false
+      "returned": true
     },
     "title": "Así hicimos la Reina de África",
     "author": "Katharine Hepburn",
@@ -9148,7 +9148,7 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 2",
-    "status": "noleido",
+    "status": "leyendo",
     "rating": 0
   },
   {
