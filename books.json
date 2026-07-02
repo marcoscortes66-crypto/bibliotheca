@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr3a3v2twx0xtquawwi",
+    "dateAdded": 1782983108117,
+    "loan": null,
+    "title": "Metafísica",
+    "author": "Aristóteles",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 567,
+    "language": "Español",
+    "genre": "Filosofía",
+    "isbn": "8424924967",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRywbROdqnCTmvZYCbcKpcEFlW4HclKHRUPl6fa3MY9Cg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr3a1t33xv6nqu4jfap",
     "dateAdded": 1782983012223,
     "loan": null,
