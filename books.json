@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38amtoq7ey96pvej9",
+    "dateAdded": 1782980064780,
+    "loan": null,
+    "title": "Fábulas",
+    "author": "Esopo",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 227,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "842492469x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmFQiFi8_-A7hS-_y5hFWOJxq6ilLeuaY-n4oB9-usw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr388134th9qmn3v4s",
     "dateAdded": 1782979943296,
     "loan": null,
