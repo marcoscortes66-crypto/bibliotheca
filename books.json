@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr3aabj8t6odijqk3fe",
+    "dateAdded": 1782983409380,
+    "loan": null,
+    "title": "COMEDIAS EL MISANTROPO EL ARBITRAJE LA SAMIA MENANDRO",
+    "author": "Menandro",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 191,
+    "language": "Español",
+    "genre": "Teatro",
+    "isbn": "8424924991",
+    "cover": "https://covers.openlibrary.org/b/id/10454653-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr3a88ll64qyyey5pi6",
     "dateAdded": 1782983312265,
     "loan": null,
