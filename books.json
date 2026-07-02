@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr39c7d7dw1n5cn66m",
+    "dateAdded": 1782981817675,
+    "loan": null,
+    "title": "Anábasis",
+    "author": "Jenofonte",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 293,
+    "language": "Español",
+    "genre": "hi",
+    "isbn": "8424924843",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzKmA5PuidDFFMHP48EZ5lNqMKiBI4levzFU3fiwgSA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr399d23n58ky6klhfj",
     "dateAdded": 1782981685083,
     "loan": null,
