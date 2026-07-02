@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38mfgmdjh0pkrub7m",
+    "dateAdded": 1782980615110,
+    "loan": null,
+    "title": "Historia V-VI",
+    "author": "Herodoto",
+    "publisher": "GREDOS",
+    "year": 2000,
+    "pages": 411,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924703",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ3SA1QyeVWjN9qZEyMq260_oaYdgBjjHsBAaK_Q9oeg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38ke95jpvx8lpjca",
     "dateAdded": 1782980520233,
     "loan": null,
