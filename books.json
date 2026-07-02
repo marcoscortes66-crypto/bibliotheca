@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38i8pv9802brktksg",
+    "dateAdded": 1782980419747,
+    "loan": null,
+    "title": "HISTORIA LIBROS I -II",
+    "author": "Herodoto",
+    "publisher": "GREDOS",
+    "year": 2000,
+    "pages": 403,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924711",
+    "cover": "https://cdn.wallapop.com/images/10420/ko/2x/__/c10420p1249770940/i6417290683.jpg?pictureSize=W640",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38amtoq7ey96pvej9",
     "dateAdded": 1782980064780,
     "loan": null,
