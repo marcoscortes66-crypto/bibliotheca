@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38po4mmqnhjsmifd",
+    "dateAdded": 1782980766310,
+    "loan": null,
+    "title": "HISTORIA LIBROS VIII - IX",
+    "author": "Herodoto",
+    "publisher": "GREDOS",
+    "year": 2000,
+    "pages": 445,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924754",
+    "cover": "https://covers.openlibrary.org/b/id/10451322-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38o53shutbqkv230a",
     "dateAdded": 1782980695000,
     "loan": null,
