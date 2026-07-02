@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr3ahflu5fg25buq38w",
+    "dateAdded": 1782983741250,
+    "loan": null,
+    "title": "Elementos I-IV",
+    "author": "Euclides",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 189,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "8424925025",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJAA66q3jgIF-ftpdeIVEb_1PAE38FBRRy3X1GeiE_A&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr3aemaqptp3lr05cya",
     "dateAdded": 1782983609954,
     "loan": null,
