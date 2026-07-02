@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr3acyn6txxuzr0jmzj",
+    "dateAdded": 1782983532642,
+    "loan": null,
+    "title": "Caracteres",
+    "author": "Teofrasto",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 317,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925009",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnv7N-8ewmRBe11oVmM4ooc7ox7Khgs7L7l5X2s9naNg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr3aabj8t6odijqk3fe",
     "dateAdded": 1782983409380,
     "loan": null,
