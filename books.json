@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr3a1t33xv6nqu4jfap",
+    "dateAdded": 1782983012223,
+    "loan": null,
+    "title": "Ética nicomaquea",
+    "author": "Aristóteles",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 299,
+    "language": "Español",
+    "genre": "Filosofía",
+    "isbn": "8424924959",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUwNafk3rXcHi2A-55ULOcPnYLU-u2xqzrMHMK4jp34w&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr39zlodq3jkw1o0ozf",
     "dateAdded": 1782982909309,
     "loan": null,
