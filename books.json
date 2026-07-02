@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38zxvloe0ynm2i7o",
+    "dateAdded": 1782981245505,
+    "loan": null,
+    "title": "Historia de la guerra del Peloponeso VII-VIII",
+    "author": "Tucídides",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 451,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924819",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttb_Nk2Fn7QgJzuYhK1EgYAdSJglJjCu_4gluFqnDA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38x0is2ioc5w71ys4",
     "dateAdded": 1782981108964,
     "loan": null,
