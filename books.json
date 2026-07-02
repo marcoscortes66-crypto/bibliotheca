@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr392m3hpsf4g7cbv6",
+    "dateAdded": 1782981370205,
+    "loan": null,
+    "title": "Tratados hipocráticos",
+    "author": "Hipócrates",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 279,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924819",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-AohSQ0lfabN6VrMRlL0l6u7DIvH8INSAVdt7RyVMA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38zxvloe0ynm2i7o",
     "dateAdded": 1782981245505,
     "loan": null,
