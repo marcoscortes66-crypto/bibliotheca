@@ -1,5 +1,25 @@
 [
   {
+    "id": "mr37bb7ycwvx4ick7lb",
+    "dateAdded": 1782978416782,
+    "loan": null,
+    "title": "Odisea",
+    "author": "",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8424924614",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMXP6iBfl7EsDXc-ZEvlYOv_HO14jHglmNP1X2ENv6Nw&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1782978416782
+  },
+  {
     "id": "mr379l9e1sdk0omwf13",
     "dateAdded": 1782978336482,
     "loan": null,
