@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr39okg9k7bl5f7vwi",
+    "dateAdded": 1782982394505,
+    "loan": null,
+    "title": "Diálogos IV",
+    "author": "Platón",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 449,
+    "language": "Español",
+    "genre": "Filosofía",
+    "isbn": "8424924908",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2nYrt8-nLLWdQobs3BOZOXfNtzcWE7o8tBGFjMDEdBw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr39mu7b8bahuk0o15e",
     "dateAdded": 1782982313831,
     "loan": null,
