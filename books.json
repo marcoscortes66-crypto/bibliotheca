@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr388134th9qmn3v4s",
+    "dateAdded": 1782979943296,
+    "loan": null,
+    "title": "Tragedias III",
+    "author": "Eurípides",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 321,
+    "language": "Español",
+    "genre": "Teatro",
+    "isbn": "8424924681",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqNDkiNFmMydtLus54zO-vqVIj4l6oCR8ISkD2cJdig&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr385mdm9ktjtpu2l4v",
     "dateAdded": 1782979830922,
     "loan": null,
