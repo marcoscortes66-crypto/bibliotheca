@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr37n7f77wniq3tz5uw",
+    "dateAdded": 1782978971731,
+    "loan": null,
+    "title": "Eurípides",
+    "author": "Tragedias",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 343,
+    "language": "Español",
+    "genre": "Teatro",
+    "isbn": "8424924665",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqNDkiNFmMydtLus54zO-vqVIj4l6oCR8ISkD2cJdig&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr37l7gw26oy3fv33vk",
     "dateAdded": 1782978878480,
     "loan": null,
