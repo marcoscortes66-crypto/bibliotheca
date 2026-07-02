@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr3a88ll64qyyey5pi6",
+    "dateAdded": 1782983312265,
+    "loan": null,
+    "title": "DISCURSOS POLITICOS Y PRIVADOS CONTRA FILIPO SOBRE LA CORONA",
+    "author": "Demóstenes",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 323,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "8424924983",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXTO0udG8bRtN0kv523hfxAHWEQPHtNCb6mBMNCZHuQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr3a5zx2ola72viyi1",
     "dateAdded": 1782983207702,
     "loan": null,
