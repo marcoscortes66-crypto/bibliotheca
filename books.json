@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38o53shutbqkv230a",
+    "dateAdded": 1782980695000,
+    "loan": null,
+    "title": "Historia libro VII",
+    "author": "Herodoto",
+    "publisher": "RBA - GREDOS",
+    "year": 2013,
+    "pages": 329,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924746",
+    "cover": "https://covers.openlibrary.org/b/id/10451321-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38mfgmdjh0pkrub7m",
     "dateAdded": 1782980615110,
     "loan": null,
