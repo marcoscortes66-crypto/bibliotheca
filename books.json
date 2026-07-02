@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr39zlodq3jkw1o0ozf",
+    "dateAdded": 1782982909309,
+    "loan": null,
+    "title": "Retórica",
+    "author": "Aristóteles",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 461,
+    "language": "Español",
+    "genre": "Política",
+    "isbn": "8424924940",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIwGGYzPUXTXDH3R3FI7LYaKZTRpQoKZNrorsQ9pIlCA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr39xhxa56afmxsvlxy",
     "dateAdded": 1782982811134,
     "loan": null,
