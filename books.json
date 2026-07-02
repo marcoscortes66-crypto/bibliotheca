@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr37dvhi2s1gzgc49wt",
+    "dateAdded": 1782978536358,
+    "loan": null,
+    "title": "Obras y fragmentos",
+    "author": "Hesíodo",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 323,
+    "language": "Español",
+    "genre": "",
+    "isbn": "8424924622",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhTvRoz9r73PnoY8W0C5moJmaDmQ5XMyF1oD9EQEf1A&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr37bb7ycwvx4ick7lb",
     "dateAdded": 1782978416782,
     "loan": null,
