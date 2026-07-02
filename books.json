@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38ke95jpvx8lpjca",
+    "dateAdded": 1782980520233,
+    "loan": null,
+    "title": "HISTORIA LIBROS III-IV",
+    "author": "Herodoto",
+    "publisher": "GREDOS",
+    "year": 2000,
+    "pages": 403,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "842492472x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjoMjuOia9mk8clU2xYv_PT-4X0RSf9SNUk0PLajHbEw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38i8pv9802brktksg",
     "dateAdded": 1782980419747,
     "loan": null,
