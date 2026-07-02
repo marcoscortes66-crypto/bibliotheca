@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr39xhxa56afmxsvlxy",
+    "dateAdded": 1782982811134,
+    "loan": null,
+    "title": "Política",
+    "author": "Aristóteles",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 431,
+    "language": "Español",
+    "genre": "Política",
+    "isbn": "8424924932",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw-N811JjrMWOK3csjef03qbC0c_EhQs-WyFGwkLB7Sg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr39tz3ylcxfmjmfb7s",
     "dateAdded": 1782982646782,
     "loan": null,
