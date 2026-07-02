@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr39inqg8yrse9t1779",
+    "dateAdded": 1782982118824,
+    "loan": null,
+    "title": "Diálogos I",
+    "author": "Platón",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 449,
+    "language": "Español",
+    "genre": "Filosofía",
+    "isbn": "8424924878",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2nYrt8-nLLWdQobs3BOZOXfNtzcWE7o8tBGFjMDEdBw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr39e6jbuk2usdi0vrd",
     "dateAdded": 1782981909911,
     "loan": null,
