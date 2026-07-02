@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr38uwcua30jl7hj0ad",
+    "dateAdded": 1782981010254,
+    "loan": null,
+    "title": "Historia de la guerra del Peloponeso II-III",
+    "author": "Tucídides",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 451,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924789",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttb_Nk2Fn7QgJzuYhK1EgYAdSJglJjCu_4gluFqnDA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr38spko43e6usmqa2d",
     "dateAdded": 1782980908152,
     "loan": null,
