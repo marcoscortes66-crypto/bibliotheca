@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr399d23n58ky6klhfj",
+    "dateAdded": 1782981685083,
+    "loan": null,
+    "title": "Helénicas",
+    "author": "Jenofonte",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 293,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924835",
+    "cover": "https://covers.openlibrary.org/b/id/10453556-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr397rpdktcw9fwycrm",
     "dateAdded": 1782981610753,
     "loan": null,
