@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr3aemaqptp3lr05cya",
+    "dateAdded": 1782983609954,
+    "loan": null,
+    "title": "ARGONAUTICAS",
+    "author": "Apolonio de Rodas",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 247,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925017",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjXWrsOB9AUMjSCMe06dadUK-ZF4CpHsSEP8n3PZW5A&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr3acyn6txxuzr0jmzj",
     "dateAdded": 1782983532642,
     "loan": null,
