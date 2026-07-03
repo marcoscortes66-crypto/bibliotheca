@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4v1zahdvuompyijbm",
+    "dateAdded": 1783078758377,
+    "loan": null,
+    "title": "Discursos III",
+    "author": "Cicero",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 377,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925149",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETRbdQ4ejmi_EuPFU4jBf1oSdG_5KJSgUJkauggkAbQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4uz4mj0yid9iz8mgi",
     "dateAdded": 1783078625323,
     "loan": null,
