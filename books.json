@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4ursz66ksc96xww0d",
+    "dateAdded": 1783078283634,
+    "loan": null,
+    "title": "HISTORIAS V - XV",
+    "author": "Polibio",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 593,
+    "language": "Español",
+    "genre": "",
+    "isbn": "8424925084",
+    "cover": "https://covers.openlibrary.org/b/id/12337692-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4uq5ydmwh1webjp8l",
     "dateAdded": 1783078207141,
     "loan": null,
