@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4vxlgfdmy6jtd71g4",
+    "dateAdded": 1783080233439,
+    "loan": null,
+    "title": "Geografía II-III",
+    "author": "Estrabón",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 251,
+    "language": "Español",
+    "genre": "Geografía",
+    "isbn": "842492522X",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRFHPfcJpr0kY00BZS3EBPOoZBaBdA7MBbiQaeWNEMUA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4vsxijxjseqrss0g",
     "dateAdded": 1783080015787,
     "loan": null,
