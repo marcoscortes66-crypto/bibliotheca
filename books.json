@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4vsxijxjseqrss0g",
+    "dateAdded": 1783080015787,
+    "loan": null,
+    "title": "Eneida",
+    "author": "Virgilio",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 397,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925211",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohJxcOcxkCrN17HUSCJ-O8rPNWusKf4SlKWeJ8ayYtA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4vr4uf4q0tkf8jajr",
     "dateAdded": 1783079931975,
     "loan": null,
