@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4utmc91qx9gtf7uh6",
+    "dateAdded": 1783078368345,
+    "loan": null,
+    "title": "Historias XVI-XXXIX",
+    "author": "Polibio",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 489,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925092",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8visMWbvIUhdMx36R3M2UWapXK45zAGJOU3XEgeBrA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4ursz66ksc96xww0d",
     "dateAdded": 1783078283634,
     "loan": null,
