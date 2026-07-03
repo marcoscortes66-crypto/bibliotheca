@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4w02rxfpjo2u1cyju",
+    "dateAdded": 1783080349197,
+    "loan": null,
+    "title": "Historia de Roma I-III",
+    "author": "Tito Livio",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 327,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424924630",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSYCETj29_XlJtlBf8lQruKR3rEg3EeGOLCXV3CzzNw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4vxlgfdmy6jtd71g4",
     "dateAdded": 1783080233439,
     "loan": null,
