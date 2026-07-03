@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4w2zent9iytkjd7fq",
+    "dateAdded": 1783080484799,
+    "loan": null,
+    "title": "Historia de Roma IV-VII",
+    "author": "Tito Livio",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 343,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925254",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR75avdMqhVanw6R_89xZR6DrhEAqJN3pwL7ok4tdpfng&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4w02rxfpjo2u1cyju",
     "dateAdded": 1783080349197,
     "loan": null,
