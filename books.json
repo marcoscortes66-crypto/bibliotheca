@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4w81q73ml82dj8o9b",
+    "dateAdded": 1783080721087,
+    "loan": null,
+    "title": "Historia de Roma VIII-X",
+    "author": "Tito Livio",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 277,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925262",
+    "cover": "8424925254",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4w2zent9iytkjd7fq",
     "dateAdded": 1783080484799,
     "loan": null,
