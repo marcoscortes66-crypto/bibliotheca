@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4uvxph6ymswsofwq3",
+    "dateAdded": 1783078476389,
+    "loan": null,
+    "title": "Sobre la república",
+    "author": "Cicerón",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 181,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925106",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS23FKkDP2elKW2w8tZoy6yYah7gW4-01cULKzsn3kITg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4utmc91qx9gtf7uh6",
     "dateAdded": 1783078368345,
     "loan": null,
