@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4uq5ydmwh1webjp8l",
+    "dateAdded": 1783078207141,
+    "loan": null,
+    "title": "HISTORIAS I-IV",
+    "author": "Polibio",
+    "publisher": "Gredos",
+    "year": 2000,
+    "pages": 467,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925076",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7udDJ2TKB29UiKhbwTmDRUbyqMeO0NxsfefwEEOgI0Q&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4unic59zxg9x6vjp",
     "dateAdded": 1783078083221,
     "loan": null,
