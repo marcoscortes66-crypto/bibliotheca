@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4vr4uf4q0tkf8jajr",
+    "dateAdded": 1783079931975,
+    "loan": null,
+    "title": "Bucólicas-Geórgicas",
+    "author": "Virgilio",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 189,
+    "language": "Español",
+    "genre": "Teatro",
+    "isbn": "8424925203",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2FG3r3OZra3rESQl3cP4a6lTWiJWQeulH_Lf5IKYqg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4vmk57j23xpnzhb0b",
     "dateAdded": 1783079718523,
     "loan": null,
