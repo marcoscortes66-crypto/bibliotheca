@@ -1,5 +1,25 @@
 [
   {
+    "id": "mr4vb1wxhoiq3s0uee",
+    "dateAdded": 1783079181681,
+    "loan": null,
+    "title": "Guerra de las Galias",
+    "author": "César",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 231,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925165",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRls7v4GNB4gyK_UpDW4P5DOraIBulPTj1HINWZgtTX7A&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1783079181681
+  },
+  {
     "id": "mr4v4fr97709e5ayrp5",
     "dateAdded": 1783078873029,
     "loan": null,
