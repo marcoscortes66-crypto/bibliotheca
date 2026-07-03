@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4vfsb9pdwle0idwkc",
+    "dateAdded": 1783079402517,
+    "loan": null,
+    "title": "César",
+    "author": "Guerra civil",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 175,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925173",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX-Gd0sySu4JVbIWzNi0E6RmwyKFSoConmk0wdMvmHog&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4vb1wxhoiq3s0uee",
     "dateAdded": 1783079181681,
     "loan": null,
