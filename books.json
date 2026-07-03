@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4vmk57j23xpnzhb0b",
+    "dateAdded": 1783079718523,
+    "loan": null,
+    "title": "Poemas - Elegías",
+    "author": "Catulo-Tibulo",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 259,
+    "language": "Español",
+    "genre": "Poesia",
+    "isbn": "842492519x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ99n6maFRS844J9_g7fu15ByfV8z4HIkT7kPkM0rr4w&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4vkmov2lzqta249ym",
     "dateAdded": 1783079628511,
     "loan": null,
