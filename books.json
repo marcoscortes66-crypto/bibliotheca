@@ -1,5 +1,24 @@
 [
   {
+    "id": "mr4uz4mj0yid9iz8mgi",
+    "dateAdded": 1783078625323,
+    "loan": null,
+    "title": "Discursos II",
+    "author": "Cicerón",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 277,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925114",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHyV9qXQYbsiyuANhslu-MQWKZI9FDx_cbW7d9E9RdBg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4uxj72ruc0d4kci1j",
     "dateAdded": 1783078550894,
     "loan": null,
