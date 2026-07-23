@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8zbtt34add8tq85c",
+    "dateAdded": 1784795202209,
+    "loan": null,
+    "title": "Historia natural. Libros II-IV",
+    "author": "Plinio El Viejo",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925432",
+    "cover": "https://covers.openlibrary.org/b/id/10457795-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8y128mloedwin0nj",
     "dateAdded": 1784795141600,
     "loan": null,
