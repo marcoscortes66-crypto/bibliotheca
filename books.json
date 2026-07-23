@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx9l5bz2kqu5d2bq88",
+    "dateAdded": 1784796220223,
+    "loan": null,
+    "title": "El Asno de Oro",
+    "author": "Apuleyo",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": "",
+    "language": "Español",
+    "genre": "Fiction",
+    "isbn": "8424925750",
+    "cover": "https://covers.openlibrary.org/b/id/10465130-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx9jygmxqgn9nit0j8",
     "dateAdded": 1784796164662,
     "loan": null,
