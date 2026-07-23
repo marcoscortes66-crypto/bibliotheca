@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx9cd2uptbidx3jymq",
+    "dateAdded": 1784795810358,
+    "loan": null,
+    "title": "Sátiras",
+    "author": "Juvenal-Persio",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925661",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKdtj51x7orWjklqhmHqs2ADIwVigRQ21ul40e_uIoqg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx9b4gr6wwrs72w4wk",
     "dateAdded": 1784795752539,
     "loan": null,
