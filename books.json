@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrxc3y06bajhtm7mwv7",
+    "dateAdded": 1784800456422,
+    "loan": null,
+    "title": "Himnos Homericos La Batracomiomaquia",
+    "author": "",
+    "publisher": "BIBLIOTECA BASICA GREDOS",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8424925777",
+    "cover": "https://covers.openlibrary.org/b/id/10473952-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrxc37zfnha2qb2k73p",
     "dateAdded": 1784800422699,
     "loan": null,
