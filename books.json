@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8h9ilq387kuxy9k",
+    "dateAdded": 1784794359405,
+    "loan": null,
+    "title": "Tristes-Pónticas",
+    "author": "Ovidio",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Poesia",
+    "isbn": "8424925343",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWZwnFwFMhBnCVMd0XD14kS0Y5ZqLfdH7dwpDX1TIVvw&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8eyj80rmgal0hwwnk",
     "dateAdded": 1784794251860,
     "loan": null,
