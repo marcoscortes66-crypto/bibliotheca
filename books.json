@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8i7lh9015x9hdwa9",
+    "dateAdded": 1784794403573,
+    "loan": null,
+    "title": "FASTOS",
+    "author": "Ovidio",
+    "publisher": "BIBLIOTECA BASICA GREDOS",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8424925513",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqw2ixGIB1whvdExTQQqbbpp2cHAUpjwgnRDodRTUYmQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8h9ilq387kuxy9k",
     "dateAdded": 1784794359405,
     "loan": null,
