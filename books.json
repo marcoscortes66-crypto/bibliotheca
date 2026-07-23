@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8c2fcutu9rr3f64",
+    "dateAdded": 1784794116936,
+    "loan": null,
+    "title": "HISTORIA DE ROMA DESDE SU FUNDACION LIBROS XL-XLV",
+    "author": "Tito Livio",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "842492319",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMgUrh2kzCUZlPkSAvFkde0KXWhCzKMaHu43j8gQrtKQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8aortcwakrvwd536",
     "dateAdded": 1784794052585,
     "loan": null,
