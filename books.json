@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx9h89n0j67djsfgagw",
+    "dateAdded": 1784796037403,
+    "loan": null,
+    "title": "Anábasis de Alejandro Magno",
+    "author": "Arriano",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925718",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNSHnXAuqw8JrbY-6DU_VnpydYfEEClDPXlmQSl13pIQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx9els5j12yoal6i5j",
     "dateAdded": 1784795914949,
     "loan": null,
