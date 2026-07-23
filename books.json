@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8s3or2zvvicp581c",
+    "dateAdded": 1784794865067,
+    "loan": null,
+    "title": "Tragedias II",
+    "author": "Séneca",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Teatro",
+    "isbn": "8424925408",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_pq0Wdk-TfxH0u5qnZLFxVSta208J4xzidCARB5Lh9w&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8qy30sh5332mhp9j",
     "dateAdded": 1784794811148,
     "loan": null,
