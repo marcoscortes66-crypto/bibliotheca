@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx840sbxz6p43293gc",
+    "dateAdded": 1784793741563,
+    "loan": null,
+    "title": "Cartas de las heroÝnas; Ibis",
+    "author": "Ovidio",
+    "publisher": "Gredos",
+    "year": 2001,
+    "pages": 503,
+    "language": "Español",
+    "genre": "Poesía",
+    "isbn": "8424925521",
+    "cover": "https://covers.openlibrary.org/b/id/10457373-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mr4w81q73ml82dj8o9b",
     "dateAdded": 1783080721087,
     "loan": null,
