@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrxc7awztqu18ysxqbh",
+    "dateAdded": 1784800613123,
+    "loan": null,
+    "title": "FILOSOFOS PRESOCRATICOS, LOS II",
+    "author": "",
+    "publisher": "BIBLIOTECA BASICA GREDOS",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Filosofía",
+    "isbn": "8424925793",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCO9-WUppAugM505ah9PHglQeJFcA_bRd_qFsdFlDdWg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrxc6h0xzdilzs5k6bh",
     "dateAdded": 1784800574385,
     "loan": null,
