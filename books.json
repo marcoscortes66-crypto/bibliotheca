@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx98xqnkt7nx7qwkwp",
+    "dateAdded": 1784795650511,
+    "loan": null,
+    "title": "Anales XI-XVI",
+    "author": "Tácito",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925645",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1bHtV_l22VF3xBS0ExlDbe90phrPen32TNixmBFSmA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx92fu58vr2rfpqro6",
     "dateAdded": 1784795347373,
     "loan": null,
