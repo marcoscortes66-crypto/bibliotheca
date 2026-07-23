@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8eyj80rmgal0hwwnk",
+    "dateAdded": 1784794251860,
+    "loan": null,
+    "title": "Amores Arte de Amar",
+    "author": "",
+    "publisher": "",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8424925335",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnV8qPj98aL-41TR8_x6a9UnGKUS8O_TPHjbx5_G5f8Q&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8dnz8zcbsa4b57ip",
     "dateAdded": 1784794191524,
     "loan": null,
