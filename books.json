@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx9jygmxqgn9nit0j8",
+    "dateAdded": 1784796164662,
+    "loan": null,
+    "title": "Manual - Disertaciones por Arriano",
+    "author": "Epicteto",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2001,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925734",
+    "cover": "https://covers.openlibrary.org/b/id/10465129-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx9ixnw83s58f24zj9",
     "dateAdded": 1784796116972,
     "loan": null,
