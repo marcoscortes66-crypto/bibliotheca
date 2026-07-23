@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8qy30sh5332mhp9j",
+    "dateAdded": 1784794811148,
+    "loan": null,
+    "title": "Tragedias I",
+    "author": "Séneca",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Teatro",
+    "isbn": "8424925394",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xLjRELS4cz8dQ3XI3_w1FvWfAsYdlXf9r7uZz6VXVw&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8oeth9al2xlt4ve8",
     "dateAdded": 1784794692869,
     "loan": null,
