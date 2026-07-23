@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx92fu58vr2rfpqro6",
+    "dateAdded": 1784795347373,
+    "loan": null,
+    "title": "La guerra de los judios IV-VII",
+    "author": "Flavio Josefo",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925467",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5tpQSoWqkhSbDZ7j-alatNjIJupbnuPm8z17SM9gpw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx90v3li35fxv9f91p",
     "dateAdded": 1784795273841,
     "loan": null,
