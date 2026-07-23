@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrxc37zfnha2qb2k73p",
+    "dateAdded": 1784800422699,
+    "loan": null,
+    "title": "Apología- Florida",
+    "author": "Apuleyo",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2001,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "8424925769",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7NeRj1dXurlEF8AozQLXUL5DKA83AqHF2iCOX5P9_IA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-4",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx9l5bz2kqu5d2bq88",
     "dateAdded": 1784796220223,
     "loan": null,
