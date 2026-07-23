@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx90v3li35fxv9f91p",
+    "dateAdded": 1784795273841,
+    "loan": null,
+    "title": "La guerra de los judíos I-III",
+    "author": "Flavio Josefo",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925440",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8ye7WhYj8hbSA5ytimQ9J6rU4gKy3CwVwelUcg6l6g&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8zbtt34add8tq85c",
     "dateAdded": 1784795202209,
     "loan": null,
