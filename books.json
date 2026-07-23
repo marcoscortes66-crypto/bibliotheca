@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8dnz8zcbsa4b57ip",
+    "dateAdded": 1784794191524,
+    "loan": null,
+    "title": "Elegías",
+    "author": "Propecio",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925327",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo35ljiAgZFRM6OisQc0V6APZOhSB_5cCN_QC0KsBnRA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8c2fcutu9rr3f64",
     "dateAdded": 1784794116936,
     "loan": null,
