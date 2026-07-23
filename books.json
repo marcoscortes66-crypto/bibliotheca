@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx9b4gr6wwrs72w4wk",
+    "dateAdded": 1784795752539,
+    "loan": null,
+    "title": "Agrícola-Germania-Diálogo sobre los oradores",
+    "author": "Tácito",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925653",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVJa57GU09aZ48Achp9HkwZW4DKnRxXdV7L7YkjaIOw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx98xqnkt7nx7qwkwp",
     "dateAdded": 1784795650511,
     "loan": null,
