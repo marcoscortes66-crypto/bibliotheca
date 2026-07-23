@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8n13m3ytj16lbr2",
+    "dateAdded": 1784794628434,
+    "loan": null,
+    "title": "Epístolas morales a Lucilio",
+    "author": "Séneca",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "842492536x",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxtIqVwDllN2kInWY5EKtKJvlYK9wu1-ET1JeyUOxlqQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8i7lh9015x9hdwa9",
     "dateAdded": 1784794403573,
     "loan": null,
