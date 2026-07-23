@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx8y128mloedwin0nj",
+    "dateAdded": 1784795141600,
+    "loan": null,
+    "title": "El satiricón",
+    "author": "Petronio",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Poesia",
+    "isbn": "8424925424",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4hqZunJKkLUQ2i80ZWHKyhZ-kP3HN4bEIFWKb9QYng&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx8vu1bs0bmnc2wy4m",
     "dateAdded": 1784795039183,
     "loan": null,
