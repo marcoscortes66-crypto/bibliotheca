@@ -1,5 +1,24 @@
 [
   {
+    "id": "mrx9dqx7d65spyufw5r",
+    "dateAdded": 1784795874955,
+    "loan": null,
+    "title": "Vida de los doce césares I-III",
+    "author": "Suetorio",
+    "publisher": "BIBLIOTECA BASICA GR",
+    "year": 2000,
+    "pages": "",
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8424925688",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6cWE-VgoFfZIiXnwQ62LQyn6fYk8ttTW-m9k3LIBiqg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 4-3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mrx9cd2uptbidx3jymq",
     "dateAdded": 1784795810358,
     "loan": null,
