@@ -10939,8 +10939,9 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 2",
-    "status": "leyendo",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1784878766391
   },
   {
     "id": "mnhr4vi2i7koajajnbg",
