@@ -2502,8 +2502,9 @@
     "notes": "",
     "room": "T",
     "shelf": "",
-    "status": "leyendo",
-    "rating": 0
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1784967104832
   },
   {
     "id": "mqt6nrzuvm92j91vwna",
