@@ -10810,7 +10810,11 @@
   {
     "id": "mnhrb30usetenj97exj",
     "dateAdded": 1775151395598,
-    "loan": null,
+    "loan": {
+      "name": "Livia",
+      "date": 1786218115665,
+      "returned": false
+    },
     "title": "Ampliación del campo de batalla",
     "author": "Michel Houellebecq",
     "publisher": "Anagrama",
