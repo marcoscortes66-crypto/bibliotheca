@@ -10830,7 +10830,11 @@
   {
     "id": "mnhranf6208iyymasmd",
     "dateAdded": 1775151375378,
-    "loan": null,
+    "loan": {
+      "name": "Raquel",
+      "date": 1786218087888,
+      "returned": false
+    },
     "title": "Un verdor terrible",
     "author": "Benjamín Labatut",
     "publisher": "Editorial Anagrama",
