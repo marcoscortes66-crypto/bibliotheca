@@ -1,5 +1,25 @@
 [
   {
+    "id": "mu5zo31u3c7etqeohw",
+    "dateAdded": 1789677321330,
+    "loan": null,
+    "title": "Pequeña filosofía del océano",
+    "author": "Claude Obadia",
+    "publisher": "Siruela",
+    "year": 2025,
+    "pages": 160,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788410415713",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHyOKd9x5ELWwQ74DnN0Ii0LyDDUi5yzY60Md5Etn6g&s=10",
+    "notes": "",
+    "room": "T",
+    "shelf": "",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1789677321330
+  },
+  {
     "id": "mu5y3oj5h6k7cdlrtz4",
     "dateAdded": 1789674689777,
     "loan": {
@@ -10877,7 +10897,7 @@
     "loan": {
       "name": "Livia",
       "date": 1786218115665,
-      "returned": false
+      "returned": true
     },
     "title": "Ampliación del campo de batalla",
     "author": "Michel Houellebecq",
