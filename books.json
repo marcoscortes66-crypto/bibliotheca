@@ -1,5 +1,25 @@
 [
   {
+    "id": "mu5y3oj5h6k7cdlrtz4",
+    "dateAdded": 1789674689777,
+    "loan": null,
+    "title": "Obra maestra",
+    "author": "Juan Tallón",
+    "publisher": "Anagrama",
+    "year": 2022,
+    "pages": 328,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788433999412",
+    "cover": "https://syndetics.com/index.aspx?isbn=9788433999412/LC.JPG",
+    "notes": "",
+    "room": "T",
+    "shelf": "",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1789674689777
+  },
+  {
     "id": "mu5awng30n9iraqo3nm",
     "dateAdded": 1789635730611,
     "loan": null,
