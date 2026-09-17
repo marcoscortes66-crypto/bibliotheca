@@ -10877,7 +10877,7 @@
     "loan": {
       "name": "Raquel",
       "date": 1786218087888,
-      "returned": false
+      "returned": true
     },
     "title": "Un verdor terrible",
     "author": "Benjamín Labatut",
