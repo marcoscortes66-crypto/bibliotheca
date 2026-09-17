@@ -1,5 +1,25 @@
 [
   {
+    "id": "mu5awng30n9iraqo3nm",
+    "dateAdded": 1789635730611,
+    "loan": null,
+    "title": "La carretera",
+    "author": "Cormac McCarthy",
+    "publisher": "Debolsillo",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Novela",
+    "isbn": "9788483468685",
+    "cover": "https://covers.openlibrary.org/b/isbn/9788483468685-L.jpg",
+    "notes": "",
+    "room": "T",
+    "shelf": "",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1789635730611
+  },
+  {
     "id": "msks7xn2r19kq0v8mo",
     "dateAdded": 1786218238478,
     "loan": null,
