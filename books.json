@@ -2,7 +2,11 @@
   {
     "id": "mu5y3oj5h6k7cdlrtz4",
     "dateAdded": 1789674689777,
-    "loan": null,
+    "loan": {
+      "name": "Raquel",
+      "date": 1789674699217,
+      "returned": false
+    },
     "title": "Obra maestra",
     "author": "Juan Tallón",
     "publisher": "Anagrama",
