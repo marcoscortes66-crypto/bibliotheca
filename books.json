@@ -10834,7 +10834,11 @@
   {
     "id": "mnhrd3i92uyglf1v4nk",
     "dateAdded": 1775151489537,
-    "loan": null,
+    "loan": {
+      "name": "Livia",
+      "date": 1789924222167,
+      "returned": false
+    },
     "title": "Las partículas elementales",
     "author": "Michel Houellebecq",
     "publisher": "Anagrama",
