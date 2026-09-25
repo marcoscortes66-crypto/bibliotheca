@@ -9085,8 +9085,9 @@
     "notes": "",
     "room": "Salón",
     "shelf": "Televisión 3",
-    "status": "noleido",
-    "rating": 0
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1790323875560
   },
   {
     "id": "mo09ak3680oo9ch5w9l",
