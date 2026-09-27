@@ -1,5 +1,25 @@
 [
   {
+    "id": "muk7ggfgxlntv4zx0mq",
+    "dateAdded": 1790536928812,
+    "loan": null,
+    "title": "De la Guerra",
+    "author": "Carl von Clausewitz",
+    "publisher": "Ejercito",
+    "year": 1980,
+    "pages": 766,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788450029987",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxQ7W-iNRM2g20ROt0RVm_obToJUyktUReV-DYNDZdA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1790536928813
+  },
+  {
     "id": "muk3clyzcv1fozbzi64",
     "dateAdded": 1790530030907,
     "loan": null,
