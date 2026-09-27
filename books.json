@@ -1,5 +1,24 @@
 [
   {
+    "id": "muk36d22dlv38144ic5",
+    "dateAdded": 1790529739418,
+    "loan": null,
+    "title": "Charles de Gaulle",
+    "author": "Memorias de esperanza",
+    "publisher": "Taurus",
+    "year": 1970,
+    "pages": 339,
+    "language": "Español",
+    "genre": "Memorias",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQblkMURV-3C6xqqSuPf4kd8zjU4a4v1GD1cJEpJaWRdQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muk2yiprjk3ee0p6q9",
     "dateAdded": 1790529373503,
     "loan": null,
