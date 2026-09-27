@@ -1,5 +1,24 @@
 [
   {
+    "id": "muk2jhnonq2zh6992ol",
+    "dateAdded": 1790528672292,
+    "loan": null,
+    "title": "Las siete hijas de Eva",
+    "author": "Bryan Sykes",
+    "publisher": "Debate",
+    "year": 2001,
+    "pages": 305,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788483064764",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNCSwbaypeDGoqMjtnLSOYAz8psC54cpdsdSAIPLM3lA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muk2fn6r5qx5q69rvji",
     "dateAdded": 1790528492835,
     "loan": null,
