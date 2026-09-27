@@ -1,5 +1,25 @@
 [
   {
+    "id": "muk3981mvd19pb2i8jf",
+    "dateAdded": 1790529872890,
+    "loan": null,
+    "title": "El día D",
+    "author": "Antony Beevor",
+    "publisher": "Crítica",
+    "year": 2009,
+    "pages": 730,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788498921342",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyCzmjp2fUnEdAbA3A5G3-ss0Q4-eGcesevtWfhRYXSA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3-1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1790529872890
+  },
+  {
     "id": "muk36d22dlv38144ic5",
     "dateAdded": 1790529739418,
     "loan": null,
