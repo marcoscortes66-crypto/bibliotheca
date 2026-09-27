@@ -480,7 +480,7 @@ select option { background: #ffffff; color: #1a1814; }
       </div>
       <div class="form-grid">
         <div class="form-group full"><label>Título *</label><input type="text" id="f-title" placeholder="Título del libro"></div>
-        <div class="form-group full"><label>Autor *</label><input type="text" id="f-author" placeholder="Apellido, Nombre"></div>
+        <div class="form-group full"><label>Autor *</label><input type="text" id="f-author" placeholder="Nombre Apellido"></div>
         <div class="form-group"><label>Editorial</label><input type="text" id="f-publisher"></div>
         <div class="form-group"><label>Año</label><input type="number" id="f-year" inputmode="numeric" min="1000" max="2030"></div>
         <div class="form-group"><label>Páginas</label><input type="number" id="f-pages" inputmode="numeric" min="1"></div>
@@ -502,7 +502,8 @@ select option { background: #ffffff; color: #1a1814; }
           <label>URL portada</label>
           <div style="display:flex;gap:6px">
             <input type="text" id="f-cover" oninput="previewCover(this.value)" placeholder="https://…" style="flex:1">
-            <button type="button" class="btn btn-outline" style="padding:8px 10px;font-size:13px;white-space:nowrap" onclick="searchCoverOnline()" title="Buscar portada en Google">🔎 Buscar</button>
+            <button type="button" class="btn btn-outline" style="padding:8px 10px;font-size:13px;white-space:nowrap" onclick="searchCoverOnline()" title="Buscar portada automáticamente">🔎 Buscar</button>
+            <button type="button" class="btn btn-outline" style="padding:8px 10px;font-size:13px;white-space:nowrap" onclick="openGoogleImageSearch(document.getElementById('f-title').value.trim(), document.getElementById('f-author').value.trim())" title="Buscar manualmente en Google Imágenes">🌐 Google</button>
           </div>
           <div style="font-size:11px;color:var(--text2);margin-top:3px">Busca automáticamente en Open Library, Syndetics y Google Books. Si no encuentra nada, pega aquí una URL de portada manualmente.</div>
         </div>
@@ -624,66 +625,133 @@ let currentStatus = 'noleido';
 let lastRoom = '';
 let lastShelf = '';
 let scannerActive = false;
+let serverMode = false;
 let dropboxMode = false;
 let syncInterval = null;
 let lastSyncTime = 0;
 
 const API = window.location.origin + '/api';
+// Google Books API key (restringida por dominio en Google Cloud). Pega aquí tu clave:
+const GOOGLE_BOOKS_KEY = 'AIzaSyAUC1xl2VtSTVvpazqc6by2COWRflofPVQ';
+const gKey = () => GOOGLE_BOOKS_KEY ? `&key=${GOOGLE_BOOKS_KEY}` : '';
+
+// ─── NETLIFY ───
+const NETLIFY_SITE_ID = 'c69f063c-35e6-4672-8587-3190055f2ca9';
+const NETLIFY_TOKEN   = 'nfp_rsd9PGFM8UWjzXCTFzn9wN4DsRVY8msN8b77';
+const NETLIFY_URL     = 'https://marcoscortes66-crypto.github.io/bibliotheca/books.json';
+
+async function netlifyLoad() {
+  const r = await fetch(NETLIFY_URL + '?t=' + Date.now());
+  if (!r.ok) return null;
+  return await r.json();
+}
+
+async function netlifySave(data) {
+  // Subir books.json a Netlify via API
+  const formData = new FormData();
+  const blob = new Blob([JSON.stringify(data)], { type: 'application/json' });
+  formData.append('file', blob, 'books.json');
+
+  const r = await fetch(`https://api.netlify.com/api/v1/sites/${NETLIFY_SITE_ID}/files/books.json`, {
+    method: 'PUT',
+    headers: {
+      'Authorization': 'Bearer ' + NETLIFY_TOKEN,
+      'Content-Type': 'application/octet-stream'
+    },
+    body: JSON.stringify(data)
+  });
+  if (!r.ok) throw new Error('Netlify save error ' + r.status);
+}
 
 // ─── ARRANQUE ───
-const GH_RAW = 'https://raw.githubusercontent.com/marcoscortes66-crypto/bibliotheca/main/books.json';
-
 async function detectServer() {
-  let localOk = false;
+  let localOk   = false;
+  let netlifyOk = false;
 
   try {
-    const r = await fetch(API + '/ping', { signal: AbortSignal.timeout(2000) });
+    const r = await fetch(API + '/ping', { signal: AbortSignal.timeout(1500) });
     const d = await r.json();
     if (d.ok) localOk = true;
   } catch(e) {}
 
-  dropboxMode = localOk;
-  updateSyncLabel();
+  try {
+    const r = await fetch('https://marcoscortes66-crypto.github.io/bibliotheca/books.json?t=' + Date.now());
+    if (r.ok) netlifyOk = true;
+  } catch(e) {}
 
-  if (localOk) {
+  serverMode  = localOk;
+  dropboxMode = netlifyOk;
+
+  if (localOk && netlifyOk) {
+    await loadBestSource();
+    updateSyncLabel();
+    syncInterval = setInterval(pollServer, 15000);
+  } else if (localOk) {
+    updateSyncLabel();
     await loadFromServer();
     syncInterval = setInterval(pollServer, 15000);
+  } else if (netlifyOk) {
+    updateSyncLabel();
+    await loadFromDropbox();
   } else {
-    await loadFromGitHubReadOnly();
+    updateSyncLabel();
+    loadFromLocalStorage();
   }
-}
-
-async function loadFromGitHubReadOnly() {
-  try {
-    const r = await fetch(GH_RAW + '?t=' + Date.now());
-    if (r.ok) {
-      const data = await r.json();
-      if (Array.isArray(data) && data.length > 0) {
-        books = normalizeBooks(data);
-        localStorage.setItem('bibliotheca_books', JSON.stringify(books));
-        renderBooks();
-        document.getElementById('sync-mode-label').textContent = '👁️ Solo lectura';
-        document.getElementById('sync-detail').textContent = 'Consultando desde GitHub';
-        setSyncStatus('ok');
-        return;
-      }
-    }
-  } catch(e) {}
-  loadFromLocalStorage();
 }
 
 function updateSyncLabel() {
   const label  = document.getElementById('sync-mode-label');
   const detail = document.getElementById('sync-detail');
-  if (dropboxMode) {
+  if (serverMode && dropboxMode) {
+    label.textContent  = '🔄 PC + GitHub';
+    detail.textContent = 'Réplica activa en ambos sitios';
+    setSyncStatus('ok');
+  } else if (serverMode) {
     label.textContent  = '🌐 Servidor local';
-    detail.textContent = 'Dropbox + GitHub sincronizados';
+    detail.textContent = 'Sin conexión a GitHub';
+    setSyncStatus('ok');
+  } else if (dropboxMode) {
+    label.textContent  = '☁️ Solo GitHub';
+    detail.textContent = 'PC apagado — usando la nube';
     setSyncStatus('ok');
   } else {
     label.textContent  = '💾 Modo local';
-    detail.textContent = 'Servidor no disponible';
+    detail.textContent = 'Sin servidor ni nube';
     setSyncStatus('err');
   }
+}
+
+async function loadBestSource() {
+  const [localRes, netlifyRes] = await Promise.allSettled([
+    fetch(API + '/books').then(r => r.json()),
+    netlifyLoad()
+  ]);
+
+  const localBooks   = localRes.status === 'fulfilled'   ? localRes.value   : null;
+  const netlifyBooks = netlifyRes.status === 'fulfilled' ? netlifyRes.value : null;
+
+  if (!localBooks && !netlifyBooks) { loadFromLocalStorage(); return; }
+  if (!netlifyBooks) { books = normalizeBooks(localBooks);   renderBooks(); return; }
+  if (!localBooks)   { books = normalizeBooks(netlifyBooks); renderBooks(); return; }
+
+  const tsOf = arr => Math.max(...arr.map(b => b.dateAdded || 0));
+  const localTs   = tsOf(localBooks);
+  const netlifyTs = tsOf(netlifyBooks);
+
+  if (netlifyTs > localTs) {
+    books = normalizeBooks(netlifyBooks);
+    renderBooks();
+    showNotif('☁️ Datos más recientes cargados desde Netlify');
+    try { await fetch(API + '/books', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(books) }); } catch(e) {}
+  } else {
+    books = normalizeBooks(localBooks);
+    renderBooks();
+    if (localTs > netlifyTs) {
+      showNotif('🔄 Netlify actualizado con datos locales');
+      try { await netlifySave(books); } catch(e) {}
+    }
+  }
+  lastSyncTime = Date.now();
 }
 
 async function loadFromServer() {
@@ -691,9 +759,11 @@ async function loadFromServer() {
     const r = await fetch(API + '/books');
     books = normalizeBooks(await r.json());
     lastSyncTime = Date.now();
+    // Guardar copia offline en localStorage
     localStorage.setItem('bibliotheca_books', JSON.stringify(books));
     renderBooks();
   } catch(e) {
+    // Sin servidor: usar última copia guardada
     const cached = localStorage.getItem('bibliotheca_books');
     if (cached) {
       try {
@@ -710,8 +780,24 @@ async function loadFromServer() {
   }
 }
 
+async function loadFromDropbox() {
+  try {
+    const data = await netlifyLoad();
+    if (data) {
+      books = normalizeBooks(data);
+      lastSyncTime = Date.now();
+      renderBooks();
+    } else {
+      loadFromLocalStorage();
+    }
+  } catch(e) {
+    showNotif('⚠️ Error cargando desde Netlify');
+    loadFromLocalStorage();
+  }
+}
+
 async function pollServer() {
-  if (!dropboxMode) return;
+  if (!serverMode) return;
   try {
     const r = await fetch(API + '/books');
     const fresh = await r.json();
@@ -730,20 +816,20 @@ async function save() {
   setSyncStatus('sync');
   localStorage.setItem('bibliotheca_books', JSON.stringify(books));
 
-  if (!dropboxMode) { setSyncStatus('ok'); return; }
+  const ops = [];
+  if (serverMode)  ops.push(fetch(API + '/books', { method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(books) }));
+  if (dropboxMode) ops.push(netlifySave(books));
 
-  try {
-    const r = await fetch(API + '/books', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(books)
-    });
-    if (!r.ok) throw new Error('HTTP ' + r.status);
+  if (ops.length === 0) { setSyncStatus('ok'); return; }
+
+  const results = await Promise.allSettled(ops);
+  const anyErr  = results.some(r => r.status === 'rejected');
+  if (anyErr) {
+    setSyncStatus('err');
+    showNotif('⚠️ Error al guardar en uno de los destinos');
+  } else {
     setSyncStatus('ok');
     lastSyncTime = Date.now();
-  } catch(e) {
-    setSyncStatus('err');
-    showNotif('⚠️ Error al guardar: ' + e.message);
   }
 }
 
@@ -893,7 +979,7 @@ async function searchCoverOnline() {
     // Último intento: Google Books por título
     try {
       const q = encodeURIComponent(title + (author ? ' inauthor:' + author : ''));
-      const r = await fetch(`https://www.googleapis.com/books/v1/volumes?q=${q}&maxResults=3`);
+      const r = await fetch(`https://www.googleapis.com/books/v1/volumes?q=${q}&maxResults=3${gKey()}`);
       const d = await r.json();
       for (const item of (d.items || [])) {
         const thumb = item.volumeInfo?.imageLinks?.thumbnail?.replace('http://','https://');
@@ -909,7 +995,13 @@ async function searchCoverOnline() {
     } catch(e) {}
   }
 
-  showNotif('😕 No se encontró portada automáticamente');
+  showNotif('😕 No se encontró automáticamente — probando Google Imágenes');
+  openGoogleImageSearch(title, author);
+}
+
+function openGoogleImageSearch(title, author) {
+  const q = encodeURIComponent('portada libro ' + title + (author ? ' ' + author : ''));
+  window.open(`https://www.google.com/search?q=${q}&tbm=isch`, '_blank');
 }
 
 function testImageUrl(url) {
@@ -970,7 +1062,7 @@ async function searchByTitle() {
   // Google Books
   try {
     const q = encodeURIComponent(title + (author ? ' inauthor:' + author : ''));
-    const r = await fetch(`https://www.googleapis.com/books/v1/volumes?q=${q}&maxResults=6`);
+    const r = await fetch(`https://www.googleapis.com/books/v1/volumes?q=${q}&maxResults=6${gKey()}`);
     const d = await r.json();
     if (d.items) d.items.forEach(item => {
       const vi = item.volumeInfo;
@@ -1283,54 +1375,99 @@ function stopQuagga() {
 }
 
 // ─── ISBN LOOKUP ───
+function isbn10to13(i) {
+  if (!i || i.length !== 10) return null;
+  const b = '978' + i.slice(0, 9); let s = 0;
+  for (let k = 0; k < 12; k++) s += (+b[k]) * (k % 2 ? 3 : 1);
+  return b + ((10 - s % 10) % 10);
+}
+function isbn13to10(i) {
+  if (!i || i.length !== 13 || !i.startsWith('978')) return null;
+  const b = i.slice(3, 12); let s = 0;
+  for (let k = 0; k < 9; k++) s += (+b[k]) * (10 - k);
+  const c = (11 - s % 11) % 11;
+  return b + (c === 10 ? 'X' : c);
+}
+const fetchJSON = (url, ms = 7000) =>
+  fetch(url, { signal: AbortSignal.timeout(ms) }).then(r => r.ok ? r.json() : null).catch(() => null);
+
 async function lookupISBN(isbn) {
   if (!isbn) return;
-  isbn = isbn.replace(/[^0-9X]/gi, '');
+  isbn = isbn.replace(/[^0-9X]/gi, '').toUpperCase();
   showNotif('🔍 Buscando ISBN…');
 
-  // Lanzar todas las fuentes en paralelo
-  const [olData, googleData, bneData] = await Promise.allSettled([
-    fetch(`https://openlibrary.org/api/books?bibkeys=ISBN:${isbn}&format=json&jscmd=data`).then(r=>r.json()).catch(()=>null),
-    fetch(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`).then(r=>r.json()).catch(()=>null),
-    fetch(`/api/bne-search?q=isbn:${isbn}&a=`).then(r=>r.ok?r.json():null).catch(()=>null)
+  // Probar ambas variantes (ISBN-10 y ISBN-13): muchas bases solo indexan una
+  const variants = [...new Set([isbn, isbn10to13(isbn), isbn13to10(isbn)].filter(Boolean))];
+  const keys = variants.map(v => 'ISBN:' + v).join(',');
+  const orIsbn = variants.join(' OR ');
+
+  const [olData, olSearch, gIsbn, gPlain, bneData] = await Promise.allSettled([
+    fetchJSON(`https://openlibrary.org/api/books?bibkeys=${keys}&format=json&jscmd=data`),
+    fetchJSON(`https://openlibrary.org/search.json?q=isbn:(${encodeURIComponent(orIsbn)})&limit=1&fields=title,author_name,publisher,first_publish_year,number_of_pages_median,cover_i,subject,language`),
+    fetchJSON(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}${gKey()}`),
+    fetchJSON(`https://www.googleapis.com/books/v1/volumes?q=${variants.join('+OR+')}${gKey()}`),
+    fetchJSON(`/api/bne-search?q=isbn:${isbn}&a=`, 4000)
   ]);
 
-  let bookData = null;
+  const candidates = [];
 
-  // 1. Open Library
-  if (!bookData) {
-    const d = olData.value?.[`ISBN:${isbn}`];
-    if (d?.title) {
-      bookData = { title: d.title||'', author: d.authors?d.authors.map(a=>a.name).join(', '):'', publisher: d.publishers?d.publishers[0]?.name||'':'', year: d.publish_date?parseInt(d.publish_date.match(/\d{4}/)?.[0]):'', pages: d.number_of_pages||'', cover: d.cover?(d.cover.large||d.cover.medium||''):'', isbn, genre: d.subjects?d.subjects[0]?.name:'' };
-      showNotif('✅ Encontrado en Open Library');
-    }
+  // Google Books (suele tener mejores datos para ediciones españolas)
+  for (const res of [gIsbn, gPlain]) {
+    const items = res.value?.items || [];
+    // Preferir el resultado cuyo ISBN coincide de verdad
+    const it = items.find(x => (x.volumeInfo?.industryIdentifiers || []).some(id => variants.includes(id.identifier))) || (res === gIsbn ? items[0] : null);
+    const vi = it?.volumeInfo;
+    if (vi?.title) candidates.push({ src: 'Google Books',
+      title: vi.subtitle ? `${vi.title}: ${vi.subtitle}` : vi.title,
+      author: vi.authors?.join(', ') || '', publisher: vi.publisher || '',
+      year: vi.publishedDate ? parseInt(vi.publishedDate) : '', pages: vi.pageCount || '',
+      cover: (vi.imageLinks?.thumbnail || vi.imageLinks?.smallThumbnail || '').replace('http://', 'https://'),
+      genre: vi.categories?.[0] || '', language: vi.language || '' });
   }
 
-  // 2. Google Books
-  if (!bookData) {
-    const vi = googleData.value?.items?.[0]?.volumeInfo;
-    if (vi?.title) {
-      bookData = { title: vi.title||'', author: vi.authors?vi.authors.join(', '):'', publisher: vi.publisher||'', year: vi.publishedDate?parseInt(vi.publishedDate):'', pages: vi.pageCount||'', cover: vi.imageLinks?.thumbnail?.replace('http://','https://')||'', isbn, genre: vi.categories?vi.categories[0]:'' };
-      showNotif('✅ Encontrado en Google Books');
-    }
+  // Open Library (ficha de edición)
+  const olObj = olData.value || {};
+  for (const v of variants) {
+    const d = olObj['ISBN:' + v];
+    if (d?.title) candidates.push({ src: 'Open Library',
+      title: d.subtitle ? `${d.title}: ${d.subtitle}` : d.title,
+      author: d.authors?.map(a => a.name).join(', ') || '', publisher: d.publishers?.[0]?.name || '',
+      year: d.publish_date ? parseInt(d.publish_date.match(/\d{4}/)?.[0]) || '' : '', pages: d.number_of_pages || '',
+      cover: d.cover ? (d.cover.large || d.cover.medium || '') : '', genre: d.subjects?.[0]?.name || '', language: '' });
   }
 
-  // 3. BNE
-  if (!bookData) {
-    const bne = bneData.value;
-    if (Array.isArray(bne) && bne[0]?.title) {
-      bookData = { ...bne[0], isbn };
-      showNotif('✅ Encontrado en BNE');
-    }
-  }
+  // Open Library (índice de búsqueda: suele tener el autor aunque la edición no lo tenga)
+  const doc = olSearch.value?.docs?.[0];
+  if (doc?.title) candidates.push({ src: 'Open Library',
+    title: doc.title, author: doc.author_name?.join(', ') || '', publisher: doc.publisher?.[0] || '',
+    year: doc.first_publish_year || '', pages: doc.number_of_pages_median || '',
+    cover: doc.cover_i ? `https://covers.openlibrary.org/b/id/${doc.cover_i}-L.jpg` : '',
+    genre: doc.subject?.[0] || '', language: doc.language?.[0] || '' });
 
-  if (bookData) {
-    const dup = findDuplicate(isbn, bookData.title, bookData.author, null);
-    if (dup) { duplicateWarning(dup, () => openAddBook(bookData)); } else { openAddBook(bookData); }
-  } else {
+  // BNE (solo si existe el proxy)
+  const bne = bneData.value;
+  if (Array.isArray(bne) && bne[0]?.title) candidates.push({ src: 'BNE', ...bne[0] });
+
+  if (!candidates.length) {
     openAddBook({ isbn });
     showNotif('ℹ️ No encontrado. Completa manualmente.');
+    return;
   }
+
+  // Fusionar campo a campo: si una fuente no tiene autor/editorial/páginas, se rellena con otra
+  const fields = ['title', 'author', 'publisher', 'year', 'pages', 'cover', 'genre', 'language'];
+  const bookData = { isbn: isbn.length === 13 ? isbn : (isbn10to13(isbn) || isbn) };
+  const used = new Set();
+  for (const f of fields) {
+    const c = candidates.find(x => x[f] !== undefined && x[f] !== null && x[f] !== '' && !Number.isNaN(x[f]));
+    if (c) { bookData[f] = c[f]; used.add(c.src); }
+  }
+
+  const missing = ['author', 'publisher', 'year', 'pages'].filter(f => !bookData[f]);
+  showNotif(`✅ Encontrado (${[...used].join(' + ')})` + (missing.length ? ` — falta: ${missing.join(', ')}` : ''));
+
+  const dup = findDuplicate(bookData.isbn, bookData.title, bookData.author, null);
+  if (dup) { duplicateWarning(dup, () => openAddBook(bookData)); } else { openAddBook(bookData); }
 }
 
 // ─── ADD/EDIT FORM ───
