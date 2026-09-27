@@ -1,5 +1,24 @@
 [
   {
+    "id": "muk2fn6r5qx5q69rvji",
+    "dateAdded": 1790528492835,
+    "loan": null,
+    "title": "Aventuras y desventuras de un oficial de la Armada (1902-1987)",
+    "author": "Manuel Espinosa Rodríguez",
+    "publisher": "Naval",
+    "year": 1992,
+    "pages": 592,
+    "language": "Español",
+    "genre": "Biografías",
+    "isbn": "8473410807",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGTMlVCk2yCq620iV3rnG6l1MAkioToxs8cerw-dcoDw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3-1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "mu5zo31u3c7etqeohw",
     "dateAdded": 1789677321330,
     "loan": null,
