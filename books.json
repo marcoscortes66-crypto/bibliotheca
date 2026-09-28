@@ -94,8 +94,9 @@
     "notes": "",
     "room": "Habitación",
     "shelf": "Estantería 3-1",
-    "status": "noleido",
-    "rating": 3
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1790613728648
   },
   {
     "id": "muk2jhnonq2zh6992ol",
