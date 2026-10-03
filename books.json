@@ -1,5 +1,24 @@
 [
   {
+    "id": "muslt9bvv9vzhv0wbm",
+    "dateAdded": 1791044770171,
+    "loan": null,
+    "title": "La guerra de Yugurta. La conjuración de Catilina",
+    "author": "Cayo Crespo Salustio",
+    "publisher": "Sarpe",
+    "year": 1985,
+    "pages": 211,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "8472919072",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpetatBW1T5-ymWJONg854ix1EjdzoY4Y0DbfJJbycjg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muslpngk36vsf60yp6f",
     "dateAdded": 1791044601860,
     "loan": null,
