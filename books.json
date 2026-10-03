@@ -1,5 +1,25 @@
 [
   {
+    "id": "musjdtofn5yo6yx095c",
+    "dateAdded": 1791040690815,
+    "loan": null,
+    "title": "Feudalismo Tardio y Capital Mercantil",
+    "author": "Peter Kriedte",
+    "publisher": "Critica (Grijalbo Mondadori)",
+    "year": 1998,
+    "pages": 246,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788474231717",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxV64qTcOjoQztH2KlNGcSFI_ekFHFtBMQYQ9DlHM9ew&s=10",
+    "notes": "Era de Raquel",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791040690815
+  },
+  {
     "id": "musjbggbgydnrs24185",
     "dateAdded": 1791040580363,
     "loan": null,
