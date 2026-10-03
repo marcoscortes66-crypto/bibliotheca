@@ -1,5 +1,24 @@
 [
   {
+    "id": "musncvqj1ivnyj6x3xh",
+    "dateAdded": 1791047365291,
+    "loan": null,
+    "title": "La Revolución rusa: de Lenin a Stalin, 1917-1929",
+    "author": "Edward Hallett Carr",
+    "publisher": "Alianza Editorial",
+    "year": 1984,
+    "pages": 240,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788420692043",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvfDjCU_yFiehmoQJ6CpqiajDYD_tXdbQ-jF0s2aSUQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musnbs2nn6i5i8w0dnb",
     "dateAdded": 1791047313887,
     "loan": null,
