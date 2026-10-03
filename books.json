@@ -1,5 +1,24 @@
 [
   {
+    "id": "musm4l5afpng07zdzoh",
+    "dateAdded": 1791045298702,
+    "loan": null,
+    "title": "Jeroglíficos egipcios",
+    "author": "W Budge",
+    "publisher": "Humanitas",
+    "year": 1988,
+    "pages": 251,
+    "language": "Español",
+    "genre": "Guia",
+    "isbn": "8477340471",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkro1Iuib4l9HC_JnypHuZdaMsYsHFDxPKMRwE4Neyvg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musm2njcfjdgb5s8b7n",
     "dateAdded": 1791045208488,
     "loan": null,
