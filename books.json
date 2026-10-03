@@ -1,5 +1,24 @@
 [
   {
+    "id": "musn5tq9b1a58ge7025",
+    "dateAdded": 1791047036097,
+    "loan": null,
+    "title": "Historia y teoría económica",
+    "author": "Edward J. Nell",
+    "publisher": "Crítica",
+    "year": 1984,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788474232356",
+    "cover": "https://covers.openlibrary.org/b/id/12337745-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musn46pbh3qdowui6g",
     "dateAdded": 1791046959599,
     "loan": null,
