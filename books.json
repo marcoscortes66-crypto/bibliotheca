@@ -1,5 +1,25 @@
 [
   {
+    "id": "musm184q69htcsli93",
+    "dateAdded": 1791045141866,
+    "loan": null,
+    "title": "La Guerra de los Treinta Años",
+    "author": "A. W. Carus, Geoffrey Parker, Simon Adams, Sheilagh C. Ogilvie",
+    "publisher": "Editorial Crítica",
+    "year": 1988,
+    "pages": 455,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788474233384",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ONbghbkjtLt0aFuSo3_8wnOOUK9nClpEd3auMs7wZw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791045141866
+  },
+  {
     "id": "muslyru9b55x4035y5g",
     "dateAdded": 1791045027441,
     "loan": null,
