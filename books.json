@@ -1,5 +1,24 @@
 [
   {
+    "id": "musjszd074p0jqaz5fn",
+    "dateAdded": 1791041398020,
+    "loan": null,
+    "title": "Comentarios de la guerra de las Galias",
+    "author": "Julio Cesar",
+    "publisher": "Espasa Calpe",
+    "year": 1983,
+    "pages": 247,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "8423901211",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS11Tjsuldrjv3_byIENoXt1hbuNEn2O-Jdh2sM3cubVw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musjqgubqreoma7uyt",
     "dateAdded": 1791041280707,
     "loan": null,
