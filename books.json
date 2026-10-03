@@ -1,5 +1,24 @@
 [
   {
+    "id": "musng9qgvlseklrsl4",
+    "dateAdded": 1791047523400,
+    "loan": null,
+    "title": "Falange",
+    "author": "Stanley G. Payne",
+    "publisher": "Sarpe",
+    "year": 1985,
+    "pages": 253,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "8472917649",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj-tYGpBx9MHYNDIsyYpjFkka2KT17an59_mNAdy3teA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musne4rfc8kjqk54os6",
     "dateAdded": 1791047423643,
     "loan": null,
