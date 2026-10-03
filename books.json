@@ -1,5 +1,24 @@
 [
   {
+    "id": "musnaffkavfwfni0de7",
+    "dateAdded": 1791047250848,
+    "loan": null,
+    "title": "Historia de la pintura europea",
+    "author": "Charles Wentinck",
+    "publisher": "Ilustrada",
+    "year": 1965,
+    "pages": "",
+    "language": "Español",
+    "genre": "Arte",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aIXViWl3P2iU1SIPd47KpxhA3NdMiu5xc9GMEQse7A&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musn8pn41ibaf1ul0j8",
     "dateAdded": 1791047170768,
     "loan": null,
