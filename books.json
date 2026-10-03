@@ -1,5 +1,24 @@
 [
   {
+    "id": "musn8pn41ibaf1ul0j8",
+    "dateAdded": 1791047170768,
+    "loan": null,
+    "title": "Las cruzadas vistas por los árabes",
+    "author": "Amin Maalouf",
+    "publisher": "Alianza Ediciones del Prado",
+    "year": 1994,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788478383818",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzl6o_gYpaVwaSIvKSEOvNB0SbSzrRYZhYEe6O8zwUCA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musn5tq9b1a58ge7025",
     "dateAdded": 1791047036097,
     "loan": null,
