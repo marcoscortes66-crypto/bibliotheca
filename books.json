@@ -1,5 +1,24 @@
 [
   {
+    "id": "muslnwgu9mg7enf1ov",
+    "dateAdded": 1791044520222,
+    "loan": null,
+    "title": "Las monedas desde Alfonso X vista por un ensayador de Felipe V",
+    "author": "Antonio R de Catalina Adsuara",
+    "publisher": "",
+    "year": 1980,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "8430019928",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7ZFnXdnq5AIt9AT85AqrvWwIkw_UKoOKwKq93iR0yA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musllqpfq5lw17jxws",
     "dateAdded": 1791044419443,
     "loan": null,
