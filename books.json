@@ -1,5 +1,25 @@
 [
   {
+    "id": "musmzos30oif1hpm0th",
+    "dateAdded": 1791046749747,
+    "loan": null,
+    "title": "La Sociedad Feudal (Universitaria)",
+    "author": "Marc Bloch",
+    "publisher": "Akal Ediciones",
+    "year": 2006,
+    "pages": 528,
+    "language": "Francés",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788476002629",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51Qw6kr1W28aodEP66DhHONtA70vhZlJ8Lu3YT2yzPg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791046749747
+  },
+  {
     "id": "musmxcrmakuvwcsxeua",
     "dateAdded": 1791046640866,
     "loan": null,
