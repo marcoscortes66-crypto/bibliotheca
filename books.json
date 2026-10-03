@@ -1,5 +1,24 @@
 [
   {
+    "id": "musm2njcfjdgb5s8b7n",
+    "dateAdded": 1791045208488,
+    "loan": null,
+    "title": "Los ejércitos españoles: las fuerzas armadas en la defensa nacional",
+    "author": "César Ruiz-Ocaña Remiro",
+    "publisher": "Editorial San Martín",
+    "year": 1980,
+    "pages": 447,
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788471401830",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRukqmsTGPSXMOkPdfWk_Dj_315IR-wJetoTTj_I0GnkQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musm184q69htcsli93",
     "dateAdded": 1791045141866,
     "loan": null,
