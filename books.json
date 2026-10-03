@@ -1,5 +1,24 @@
 [
   {
+    "id": "musl5k6r59jmigiwi0h",
+    "dateAdded": 1791043664499,
+    "loan": null,
+    "title": "Vocabulario básico del marxismo",
+    "author": "Gérard Bekerman",
+    "publisher": "Crítica",
+    "year": 1988,
+    "pages": 247,
+    "language": "Español",
+    "genre": "Economía",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bVYtkNr2OM7MbsunYoc_4ZL9n6e8BwcztP6OZo1g4Q&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musl3ip59jvw2kbmysq",
     "dateAdded": 1791043569257,
     "loan": null,
