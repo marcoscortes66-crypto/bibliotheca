@@ -1,5 +1,24 @@
 [
   {
+    "id": "musmv9ronmiew1d4lno",
+    "dateAdded": 1791046543668,
+    "loan": null,
+    "title": "León Trotski y España (1930-1939)",
+    "author": "Ignacio Iglesias",
+    "publisher": "Júcar",
+    "year": 1979,
+    "pages": 147,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788433455178",
+    "cover": "https://covers.openlibrary.org/b/id/4405565-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musmul8ojlzr7iodey8",
     "dateAdded": 1791046511880,
     "loan": null,
