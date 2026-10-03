@@ -1,5 +1,25 @@
 [
   {
+    "id": "musmpxyd3ga12wa0xmd",
+    "dateAdded": 1791046295077,
+    "loan": null,
+    "title": "Dashiell Hammett: five complete novels.",
+    "author": "Dashiell Hammett",
+    "publisher": "Avenel Books",
+    "year": 1980,
+    "pages": 726,
+    "language": "Inglés",
+    "genre": "Novela",
+    "isbn": "9780517338414",
+    "cover": "https://covers.openlibrary.org/b/id/9759430-L.jpg",
+    "notes": "",
+    "room": "T",
+    "shelf": "",
+    "status": "leido",
+    "rating": 5,
+    "dateRead": 1791046295077
+  },
+  {
     "id": "musmon1rsqxamnl4h6",
     "dateAdded": 1791046234287,
     "loan": null,
