@@ -1,5 +1,24 @@
 [
   {
+    "id": "musllqpfq5lw17jxws",
+    "dateAdded": 1791044419443,
+    "loan": null,
+    "title": "Historia de la filosofía griega II",
+    "author": "LUCIANO DE CRESCENZO",
+    "publisher": "Seix Barral",
+    "year": 1997,
+    "pages": "",
+    "language": "Español",
+    "genre": "",
+    "isbn": "9788432245923",
+    "cover": "https://covers.openlibrary.org/b/id/14107969-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muslkx9po2y1ojenf",
     "dateAdded": 1791044381293,
     "loan": null,
