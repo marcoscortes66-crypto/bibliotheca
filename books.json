@@ -1,5 +1,24 @@
 [
   {
+    "id": "musj9khamo5389vrwu",
+    "dateAdded": 1791040492270,
+    "loan": null,
+    "title": "Lecciones de economía política",
+    "author": "Antonio Presenti",
+    "publisher": "UCV",
+    "year": 1965,
+    "pages": 413,
+    "language": "Español",
+    "genre": "Economía",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0O8Qlm70anViQWa7DYJooVB7Ssso-deJ4e33gTMWXGQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musj6z0h7bzim7jacjf",
     "dateAdded": 1791040371137,
     "loan": null,
