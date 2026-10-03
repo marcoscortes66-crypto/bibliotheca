@@ -1,5 +1,24 @@
 [
   {
+    "id": "musnlgdgd0b828cn0gl",
+    "dateAdded": 1791047765284,
+    "loan": null,
+    "title": "Historia de la revolución rusa",
+    "author": "Leon Trotski",
+    "publisher": "Sarpe",
+    "year": 1985,
+    "pages": 457,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "8472917657",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAPKZVKn3pQiqeQi28uC2suzJUC0FF_CbmNPmVn49CEg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musnjci1dgg8wa59q9j",
     "dateAdded": 1791047666953,
     "loan": null,
