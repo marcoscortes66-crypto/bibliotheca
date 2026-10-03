@@ -1,5 +1,24 @@
 [
   {
+    "id": "musnpn749sktbexakb5",
+    "dateAdded": 1791047960752,
+    "loan": null,
+    "title": "Los héroes",
+    "author": "Thomas Carlyle",
+    "publisher": "Sarpe",
+    "year": 1985,
+    "pages": 251,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "8472917673",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hgknyU8yO68adG1JQZdwu9jcph5mBnAPfQcB9U-MPg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musnnzeppxi6q2l04mg",
     "dateAdded": 1791047883265,
     "loan": null,
