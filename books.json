@@ -1,5 +1,24 @@
 [
   {
+    "id": "muslbkz3lm68skpu79l",
+    "dateAdded": 1791043945455,
+    "loan": null,
+    "title": "La Invencible y la empresa de Inglaterra",
+    "author": "Carlos Gómez-Centurión Jiménez",
+    "publisher": "Editorial NEREA",
+    "year": 1988,
+    "pages": 192,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788486763015",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVjknHxCYfd9U8JZwe2_cUDRYspE1cWt-Si0Jv9BsvVQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muslalhj5p5dhajd4y8",
     "dateAdded": 1791043899463,
     "loan": null,
