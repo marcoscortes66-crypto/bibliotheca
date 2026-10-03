@@ -1,5 +1,25 @@
 [
   {
+    "id": "muskofiye5bgx342iwv",
+    "dateAdded": 1791042865306,
+    "loan": null,
+    "title": "Palabras en el mapa",
+    "author": "Isaac Asimov",
+    "publisher": "Alianza Ediciones del Prado",
+    "year": 1994,
+    "pages": 310,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "9788478383818",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROZTPkQATnYG5DgpH1ik7zxe9Ko30MQlC4_8XPevm1nA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791042865306
+  },
+  {
     "id": "muskkvgdteewwk81gnn",
     "dateAdded": 1791042699325,
     "loan": null,
