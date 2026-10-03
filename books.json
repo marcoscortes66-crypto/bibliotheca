@@ -1,5 +1,24 @@
 [
   {
+    "id": "musj1z5kvnkdeec0aw",
+    "dateAdded": 1791040138040,
+    "loan": null,
+    "title": "Batallas decisivas del mundo occidental (3 vol)",
+    "author": "General J F C Fuller",
+    "publisher": "Ejercito",
+    "year": 1979,
+    "pages": 766,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "8450032474",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxQ7W-iNRM2g20ROt0RVm_obToJUyktUReV-DYNDZdA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musivyfu0561o66neoxg",
     "dateAdded": 1791039857178,
     "loan": null,
