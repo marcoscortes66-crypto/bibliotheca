@@ -1,5 +1,25 @@
 [
   {
+    "id": "musld7ox6djjjdzj5mw",
+    "dateAdded": 1791044021553,
+    "loan": null,
+    "title": "Guía arqueológica de españa",
+    "author": "James Maxwell Anderson",
+    "publisher": "Alianza Editorial",
+    "year": 1997,
+    "pages": 660,
+    "language": "Español",
+    "genre": "Guia",
+    "isbn": "9788420636290",
+    "cover": "https://covers.openlibrary.org/b/id/5258388-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791044021553
+  },
+  {
     "id": "muslcj5obp4wms2z1w",
     "dateAdded": 1791043989756,
     "loan": null,
