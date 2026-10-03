@@ -1391,6 +1391,39 @@ function isbn13to10(i) {
 const fetchJSON = (url, ms = 7000) =>
   fetch(url, { signal: AbortSignal.timeout(ms) }).then(r => r.ok ? r.json() : null).catch(() => null);
 
+// Google Books: prueba cada consulta (ISBN-13 y ISBN-10 por separado: los libros antiguos
+// suelen estar indexados solo con el de 10). Si la clave falla (dominio no autorizado,
+// cuota…), reintenta sin clave. Devuelve todos los items juntos.
+async function gBooks(queries) {
+  const run = async (withKey) => {
+    const res = await Promise.all(queries.map(q =>
+      fetchJSON(`https://www.googleapis.com/books/v1/volumes?q=${q}${withKey ? gKey() : ''}`)));
+    return res;
+  };
+  let res = await run(true);
+  if (GOOGLE_BOOKS_KEY && res.every(r => r === null)) res = await run(false);
+  return { items: res.flatMap(r => r?.items || []) };
+}
+
+// Enlaces para buscar a mano cuando ninguna API lo tiene
+function showManualLinks(isbn) {
+  document.getElementById('isbn-manual-links')?.remove();
+  if (!isbn) return;
+  const isbn10 = isbn13to10(isbn) || isbn;
+  const links = [
+    ['Todos tus libros', `https://www.todostuslibros.com/busquedas?keyword=${isbn}`],
+    ['IberLibro', `https://www.iberlibro.com/servlet/SearchResults?isbn=${isbn}`],
+    ['Agencia ISBN', `https://www.cultura.gob.es/webISBN/tituloSimpleFilter.do?cache=init&prev_layout=busquedaisbn&layout=busquedaisbn&language=es`],
+    ['Google', `https://www.google.com/search?q=${isbn}+OR+${isbn10}`]
+  ];
+  const box = document.createElement('div');
+  box.id = 'isbn-manual-links';
+  box.style.cssText = 'grid-column:1/-1;font-size:13px;color:var(--text2);display:flex;flex-wrap:wrap;gap:6px;align-items:center';
+  box.innerHTML = '<span>No está en las bases abiertas. Búscalo en:</span>' + links.map(([n,u]) =>
+    `<a href="${u}" target="_blank" rel="noopener" class="source-tag" style="text-decoration:none">${n} ↗</a>`).join('');
+  document.getElementById('f-isbn').closest('.form-group').after(box);
+}
+
 async function lookupISBN(isbn) {
   if (!isbn) return;
   isbn = isbn.replace(/[^0-9X]/gi, '').toUpperCase();
@@ -1404,8 +1437,8 @@ async function lookupISBN(isbn) {
   const [olData, olSearch, gIsbn, gPlain, bneData] = await Promise.allSettled([
     fetchJSON(`https://openlibrary.org/api/books?bibkeys=${keys}&format=json&jscmd=data`),
     fetchJSON(`https://openlibrary.org/search.json?q=isbn:(${encodeURIComponent(orIsbn)})&limit=1&fields=title,author_name,publisher,first_publish_year,number_of_pages_median,cover_i,subject,language`),
-    fetchJSON(`https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}${gKey()}`),
-    fetchJSON(`https://www.googleapis.com/books/v1/volumes?q=${variants.join('+OR+')}${gKey()}`),
+    gBooks(variants.map(v => 'isbn:' + v)),
+    gBooks([variants.join('+OR+')]),
     fetchJSON(`/api/bne-search?q=isbn:${isbn}&a=`, 4000)
   ]);
 
@@ -1415,7 +1448,7 @@ async function lookupISBN(isbn) {
   for (const res of [gIsbn, gPlain]) {
     const items = res.value?.items || [];
     // Preferir el resultado cuyo ISBN coincide de verdad
-    const it = items.find(x => (x.volumeInfo?.industryIdentifiers || []).some(id => variants.includes(id.identifier))) || (res === gIsbn ? items[0] : null);
+    const it = items.find(x => (x.volumeInfo?.industryIdentifiers || []).some(id => variants.includes(id.identifier.replace(/-/g,'')))) || (res === gIsbn ? items[0] : null);
     const vi = it?.volumeInfo;
     if (vi?.title) candidates.push({ src: 'Google Books',
       title: vi.subtitle ? `${vi.title}: ${vi.subtitle}` : vi.title,
@@ -1450,6 +1483,7 @@ async function lookupISBN(isbn) {
 
   if (!candidates.length) {
     openAddBook({ isbn });
+    showManualLinks(isbn);
     showNotif('ℹ️ No encontrado. Completa manualmente.');
     return;
   }
@@ -1477,6 +1511,7 @@ function openAddBook(prefill) {
   document.getElementById('delete-btn').style.display = 'none';
   currentRating = 0; currentStatus = 'noleido';
   clearForm();
+  document.getElementById('isbn-manual-links')?.remove();
   if (prefill) fillForm(prefill);
   // Recordar última habitación y estantería usadas
   if (!prefill || !prefill.room)  { const el = document.getElementById('f-room');  if (el && lastRoom)  el.value = lastRoom; }
