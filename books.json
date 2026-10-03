@@ -1,5 +1,24 @@
 [
   {
+    "id": "muslalhj5p5dhajd4y8",
+    "dateAdded": 1791043899463,
+    "loan": null,
+    "title": "Los nueve libros de la historia",
+    "author": "Ἡρόδοτος",
+    "publisher": "Editorial Porrúa",
+    "year": 1971,
+    "pages": 441,
+    "language": "Español",
+    "genre": "Historia",
+    "isbn": "9789684326088",
+    "cover": "https://covers.openlibrary.org/b/id/2271540-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musl9d3ni831ni2pzmi",
     "dateAdded": 1791043841939,
     "loan": null,
