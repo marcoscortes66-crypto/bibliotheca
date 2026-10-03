@@ -1,5 +1,24 @@
 [
   {
+    "id": "musl9d3ni831ni2pzmi",
+    "dateAdded": 1791043841939,
+    "loan": null,
+    "title": "El Tercer Reich",
+    "author": "H S Hegner",
+    "publisher": "Plaza & Janés",
+    "year": 1976,
+    "pages": 410,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788401330889",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6adprFZCwCRNsBxWqA80L3hWXNet3goL9kaqocy6dyg&s=10",
+    "notes": "Me lo regaló \"la Gala\" la carbonera. Está firmado por mi en 1980.",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musl68pqwcgd05ptmli",
     "dateAdded": 1791043696286,
     "loan": null,
