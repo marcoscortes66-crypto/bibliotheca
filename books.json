@@ -1,5 +1,24 @@
 [
   {
+    "id": "musnibkf2mzhha6m7rk",
+    "dateAdded": 1791047619087,
+    "loan": null,
+    "title": "Los exilados románticos",
+    "author": "Edward Hallett Carr",
+    "publisher": "Sarpe",
+    "year": 1985,
+    "pages": 253,
+    "language": "Español",
+    "genre": "",
+    "isbn": "8472917967",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRos1e2LL-Llt77sT9Y-EmvY-DPiBnPYJ6b9BN8Yo0JCw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musng9qgvlseklrsl4",
     "dateAdded": 1791047523400,
     "loan": null,
