@@ -1,5 +1,25 @@
 [
   {
+    "id": "musjhlgrjq0n1zlplog",
+    "dateAdded": 1791040866795,
+    "loan": null,
+    "title": "Historia de Iberoamerica - Tomo I",
+    "author": "Manuel Lucena Salmoral",
+    "publisher": "Ediciones Catedra S.A.",
+    "year": 2005,
+    "pages": 776,
+    "language": "Español",
+    "genre": "History",
+    "isbn": "9788437606668",
+    "cover": "https://covers.openlibrary.org/b/id/5265713-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791040866795
+  },
+  {
     "id": "musjh5ef40bsbwtlayd",
     "dateAdded": 1791040845975,
     "loan": null,
