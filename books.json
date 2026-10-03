@@ -1,5 +1,25 @@
 [
   {
+    "id": "musjbggbgydnrs24185",
+    "dateAdded": 1791040580363,
+    "loan": null,
+    "title": "Lecciones de historia medieval",
+    "author": "Manuel Riu",
+    "publisher": "Teide",
+    "year": 1975,
+    "pages": 686,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788430773053",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9-SEqD5hXBY1NpRaLJTNUphFbY24QVBpFIufKpLihA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791040580363
+  },
+  {
     "id": "musj9khamo5389vrwu",
     "dateAdded": 1791040492270,
     "loan": null,
