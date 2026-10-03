@@ -1,5 +1,24 @@
 [
   {
+    "id": "musl3ip59jvw2kbmysq",
+    "dateAdded": 1791043569257,
+    "loan": null,
+    "title": "Los diez libros de Arquitectura",
+    "author": "Vitrubio",
+    "publisher": "Iberia",
+    "year": 1991,
+    "pages": 295,
+    "language": "Español",
+    "genre": "Arquitectura",
+    "isbn": "8470820451",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsJTKGqx368re_9550BRlzrg1iNMuLSvW7E-QSxrcFQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musl0yjo1jgsp5bfvtsj",
     "dateAdded": 1791043449828,
     "loan": null,
