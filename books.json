@@ -1,5 +1,24 @@
 [
   {
+    "id": "musjqgubqreoma7uyt",
+    "dateAdded": 1791041280707,
+    "loan": null,
+    "title": "Los orígenes de la democracia griega",
+    "author": "WG Forrest",
+    "publisher": "Akal",
+    "year": 1988,
+    "pages": 220,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "8476003307",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5P3fOd99mqgwvegWvBfZ2Lwq-qm-49kaGam-_ig02dw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musjo5hkl7yihwgoswo",
     "dateAdded": 1791041172680,
     "loan": null,
