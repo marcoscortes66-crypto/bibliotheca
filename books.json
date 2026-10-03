@@ -1,5 +1,24 @@
 [
   {
+    "id": "muskzbp95i8815ylir7",
+    "dateAdded": 1791043373565,
+    "loan": null,
+    "title": "Veinticinco estampas de la España antigua",
+    "author": "Antonio García Bellido",
+    "publisher": "Espasa Calpe",
+    "year": 1998,
+    "pages": 261,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "8423919819",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM4vOAUFUd0jW907rntsO6rXMxspzK3Bz5gneVwukFoA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muskwa84opcafp5ku5f",
     "dateAdded": 1791043231684,
     "loan": null,
