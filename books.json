@@ -1,5 +1,25 @@
 [
   {
+    "id": "musne4rfc8kjqk54os6",
+    "dateAdded": 1791047423643,
+    "loan": null,
+    "title": "Arte ibérico en España",
+    "author": "Antonio García y Bellido, Antonio Blanco Freijeiro",
+    "publisher": "Madrid : Espasa-Calpe",
+    "year": 1980,
+    "pages": 128,
+    "language": "Español",
+    "genre": "Art, Iberian",
+    "isbn": "9788423952632",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWVK47g-4SPL6lG3rfaPYZT80tXyEno0mHwg_KWX0e-Q&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791047423643
+  },
+  {
     "id": "musncvqj1ivnyj6x3xh",
     "dateAdded": 1791047365291,
     "loan": null,
