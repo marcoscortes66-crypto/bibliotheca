@@ -1,5 +1,25 @@
 [
   {
+    "id": "musjlocxauo3y8mxbv",
+    "dateAdded": 1791041057169,
+    "loan": null,
+    "title": "Soldados del Tercer Reich",
+    "author": "Sönke Neitzel, Harald Welzer",
+    "publisher": "Crítica",
+    "year": 2012,
+    "pages": 440,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788498923384",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZIgHHO4eXZyK0gtonK-_-wH3vGbaKLwn05Q-iNLLxg&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791041057169
+  },
+  {
     "id": "musjijs9mauzs7lpmni",
     "dateAdded": 1791040911273,
     "loan": null,
