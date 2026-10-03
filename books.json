@@ -1,5 +1,25 @@
 [
   {
+    "id": "musmjrtp8yx5ia7g2x4",
+    "dateAdded": 1791046007197,
+    "loan": null,
+    "title": "Jazz blanco",
+    "author": "James Ellroy",
+    "publisher": "Literatura Random House",
+    "year": 2018,
+    "pages": 475,
+    "language": "Alemán",
+    "genre": "Novela",
+    "isbn": "9788439733065",
+    "cover": "https://covers.openlibrary.org/b/id/11177413-L.jpg",
+    "notes": "",
+    "room": "T",
+    "shelf": "",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791046007197
+  },
+  {
     "id": "musmin9x4vo0jtvzb1k",
     "dateAdded": 1791045954645,
     "loan": null,
