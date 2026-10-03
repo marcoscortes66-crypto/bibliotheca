@@ -1,5 +1,24 @@
 [
   {
+    "id": "musli66uffttfoipr47",
+    "dateAdded": 1791044252886,
+    "loan": null,
+    "title": "Julio Cesar",
+    "author": "Gérard Walter",
+    "publisher": "Planeta Agostini",
+    "year": 1994,
+    "pages": 475,
+    "language": "Español",
+    "genre": "Biografías",
+    "isbn": "8439538197",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_c93Khx3XV4vYNkvPfdboLZLmTlf2_d7rDxGVtfyjbQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muslfwsj0a7q34in89pe",
     "dateAdded": 1791044147395,
     "loan": null,
