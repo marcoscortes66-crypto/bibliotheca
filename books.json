@@ -1,5 +1,24 @@
 [
   {
+    "id": "musn2cfqo26p1i3p93",
+    "dateAdded": 1791046873718,
+    "loan": null,
+    "title": "Del Helenismo a la edad media",
+    "author": "R Bianchi Bardinelli",
+    "publisher": "Ediciones Akal",
+    "year": 1981,
+    "pages": 185,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788473392525",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-6_jRTz13w7SjFiTmc9sMPmpgIptEQ8Bi0_2zgM9JQ&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musmzos30oif1hpm0th",
     "dateAdded": 1791046749747,
     "loan": null,
