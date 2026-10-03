@@ -1,5 +1,24 @@
 [
   {
+    "id": "musmdatk5v5ych9zqhv",
+    "dateAdded": 1791045705224,
+    "loan": null,
+    "title": "La segunda guerra mundial I y II",
+    "author": "Claude Bertin",
+    "publisher": "Ferni",
+    "year": 1979,
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlHIi1WRrd5_toNjCmPMCczgwxgvk3x5WBOq5LFNm2WA&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musm90mue0rtd0h3kxg",
     "dateAdded": 1791045505398,
     "loan": null,
