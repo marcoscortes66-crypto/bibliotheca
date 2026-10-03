@@ -1,5 +1,25 @@
 [
   {
+    "id": "muskvby6ko42np3met",
+    "dateAdded": 1791043187262,
+    "loan": null,
+    "title": "Legionario: El manual del soldado romano",
+    "author": "Philip Matyszak, David Govantes",
+    "publisher": "Ediciones Akal",
+    "year": 2010,
+    "pages": 208,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788446032168",
+    "cover": "https://covers.openlibrary.org/b/id/12339822-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791043187262
+  },
+  {
     "id": "muskujaevkdm2tn3prn",
     "dateAdded": 1791043150118,
     "loan": null,
