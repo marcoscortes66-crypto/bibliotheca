@@ -1,5 +1,24 @@
 [
   {
+    "id": "muskkvgdteewwk81gnn",
+    "dateAdded": 1791042699325,
+    "loan": null,
+    "title": "La sociedad de suma cero",
+    "author": "Lester C Thurow",
+    "publisher": "Orbis",
+    "year": 1988,
+    "pages": 240,
+    "language": "Español",
+    "genre": "Economía",
+    "isbn": "8475307248",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1fb-imW_IZVWBDLrREXA6j-XdtfVwBevbH9wmY5u9lg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muskfk5ywaesfp7by9i",
     "dateAdded": 1791042451414,
     "loan": null,
