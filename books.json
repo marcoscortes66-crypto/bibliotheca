@@ -1,5 +1,24 @@
 [
   {
+    "id": "muskujaevkdm2tn3prn",
+    "dateAdded": 1791043150118,
+    "loan": null,
+    "title": "Historia económica de Europa S XVI y XVII",
+    "author": "Carlo Maria Cipolla",
+    "publisher": "Akal",
+    "year": 1987,
+    "pages": 490,
+    "language": "Español",
+    "genre": "Economía",
+    "isbn": "843446523X",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06yZWlDScDpqWw8wRbmhqFZS_u_drOPsZXVc_QnWqkw&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muskqvsxc8ch69dotyp",
     "dateAdded": 1791042979713,
     "loan": null,
