@@ -1,5 +1,24 @@
 [
   {
+    "id": "muslcj5obp4wms2z1w",
+    "dateAdded": 1791043989756,
+    "loan": null,
+    "title": "La guerra civil española",
+    "author": "Paul Preston",
+    "publisher": "Debolsillo",
+    "year": 2011,
+    "pages": 251,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788497590631",
+    "cover": "https://covers.openlibrary.org/b/id/5277378-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muslbkz3lm68skpu79l",
     "dateAdded": 1791043945455,
     "loan": null,
