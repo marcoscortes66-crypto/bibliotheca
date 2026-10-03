@@ -1,5 +1,24 @@
 [
   {
+    "id": "musjh5ef40bsbwtlayd",
+    "dateAdded": 1791040845975,
+    "loan": null,
+    "title": "Itinerario de Hernán Cortés",
+    "author": "",
+    "publisher": "Arte Canal",
+    "year": 2015,
+    "pages": 100,
+    "language": "Español",
+    "genre": "Catálogo",
+    "isbn": "9788480035996",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxnvUKk2-l9Yg6zI2kXwvHOc-pecPQkKjQg4ikGrgEA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musjdtofn5yo6yx095c",
     "dateAdded": 1791040690815,
     "loan": null,
