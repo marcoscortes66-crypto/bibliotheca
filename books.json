@@ -1,5 +1,25 @@
 [
   {
+    "id": "musmin9x4vo0jtvzb1k",
+    "dateAdded": 1791045954645,
+    "loan": null,
+    "title": "Las Aventuras de Un Guionista En Holliwood",
+    "author": "William Goldman",
+    "publisher": "Plot Ediciones, S.L.",
+    "year": 1998,
+    "pages": "",
+    "language": "Español",
+    "genre": "Cine",
+    "isbn": "9788486702175",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2NroX3U_zo98O9EVNr3jT2SaY72q5LT5JhS2G3uieyw&s=10",
+    "notes": "",
+    "room": "Salón",
+    "shelf": "Estantería 1 -1",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791045954645
+  },
+  {
     "id": "musmdatk5v5ych9zqhv",
     "dateAdded": 1791045705224,
     "loan": null,
