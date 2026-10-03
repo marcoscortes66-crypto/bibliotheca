@@ -1,5 +1,24 @@
 [
   {
+    "id": "musnnzeppxi6q2l04mg",
+    "dateAdded": 1791047883265,
+    "loan": null,
+    "title": "El 18 brumario de Luis Bonaparte",
+    "author": "Karl Marx",
+    "publisher": "Sarpe",
+    "year": 1985,
+    "pages": 180,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788472918764",
+    "cover": "https://covers.openlibrary.org/b/id/8088568-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musnlgdgd0b828cn0gl",
     "dateAdded": 1791047765284,
     "loan": null,
