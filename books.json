@@ -1,5 +1,24 @@
 [
   {
+    "id": "musj6z0h7bzim7jacjf",
+    "dateAdded": 1791040371137,
+    "loan": null,
+    "title": "Reglas y consejos sobre la investigación científica",
+    "author": "Santiago Ramón y Cajal",
+    "publisher": "CSIC",
+    "year": 1999,
+    "pages": 203,
+    "language": "Español",
+    "genre": "Ensayo",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZwuHcNdqssQNAsBCK1qBL_c_NrUsJv3N9e8Je1a94Q&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musj1z5kvnkdeec0aw",
     "dateAdded": 1791040138040,
     "loan": null,
