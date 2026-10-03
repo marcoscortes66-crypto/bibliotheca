@@ -1,5 +1,25 @@
 [
   {
+    "id": "musl68pqwcgd05ptmli",
+    "dateAdded": 1791043696286,
+    "loan": null,
+    "title": "Felipe II",
+    "author": "Geoffrey Parker",
+    "publisher": "Alianza Editorial",
+    "year": 1992,
+    "pages": 266,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788420600246",
+    "cover": "https://covers.openlibrary.org/b/id/13864863-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791043696286
+  },
+  {
     "id": "musl5k6r59jmigiwi0h",
     "dateAdded": 1791043664499,
     "loan": null,
