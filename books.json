@@ -1,5 +1,25 @@
 [
   {
+    "id": "musljlcuz281u1sjdd8",
+    "dateAdded": 1791044319198,
+    "loan": null,
+    "title": "Estado Absolutista, El",
+    "author": "Perry Anderson",
+    "publisher": "Siglo XXI",
+    "year": 1997,
+    "pages": 573,
+    "language": "Portugués",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788432303623",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZ2NyqgYvsgW0cftBGlZY3gmHHMlwkAGuuEO3HOKLPA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791044319198
+  },
+  {
     "id": "muslitigtot2etibozb",
     "dateAdded": 1791044283112,
     "loan": null,
