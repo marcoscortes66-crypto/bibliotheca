@@ -1,5 +1,25 @@
 [
   {
+    "id": "muske4yp9obelssp9fn",
+    "dateAdded": 1791042385057,
+    "loan": null,
+    "title": "La sociedad rural en la España medieval",
+    "author": "José Angel García de Cortázar",
+    "publisher": "Siglo Veintiuno",
+    "year": 1988,
+    "pages": 317,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788432306396",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOghL-C_hHU9Jp9MGubBIGtWMUV08_6MKyfBHaR4mXuA&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791042385057
+  },
+  {
     "id": "muskc5v5d4qi75lcra",
     "dateAdded": 1791042292913,
     "loan": null,
