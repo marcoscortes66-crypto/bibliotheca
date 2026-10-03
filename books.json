@@ -1,5 +1,24 @@
 [
   {
+    "id": "musjo5hkl7yihwgoswo",
+    "dateAdded": 1791041172680,
+    "loan": null,
+    "title": "Oro y Moneda en la historia 1450-1920",
+    "author": "Pierre Vilar",
+    "publisher": "Ariel",
+    "year": 1972,
+    "pages": 505,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eDY7ADIlrSBJo4W29zhO9VXUY0OaxnBSFZTwvB9Jhg&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -1",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "musjlocxauo3y8mxbv",
     "dateAdded": 1791041057169,
     "loan": null,
