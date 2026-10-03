@@ -1,5 +1,25 @@
 [
   {
+    "id": "muslkx9po2y1ojenf",
+    "dateAdded": 1791044381293,
+    "loan": null,
+    "title": "En torno a los orígenes de la revolución industrial",
+    "author": "Eric J. Hobsbawm",
+    "publisher": "Siglo XXI de España Editores",
+    "year": 1988,
+    "pages": 124,
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788432303258",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkCIF5fSN2qE6s2oWujxlo6esAj5u3v4K36BimHRPGXw&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -2",
+    "status": "leido",
+    "rating": 3,
+    "dateRead": 1791044381293
+  },
+  {
     "id": "musljlcuz281u1sjdd8",
     "dateAdded": 1791044319198,
     "loan": null,
