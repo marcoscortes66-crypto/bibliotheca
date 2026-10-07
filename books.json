@@ -1,5 +1,24 @@
 [
   {
+    "id": "muy838gyzvmhlc38oss",
+    "dateAdded": 1791384518050,
+    "loan": null,
+    "title": "Mitología universal",
+    "author": "Juan B. Bergua",
+    "publisher": "Clásicos Bergua",
+    "year": 1979,
+    "pages": 1191,
+    "language": "Español",
+    "genre": "Education",
+    "isbn": "9788470830877",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDGS1B1RITJXpBJFAmZtxE9qlZ0Du5UymFILm-dPasQ&s",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muy821o4gr8ogooi8rb",
     "dateAdded": 1791384462580,
     "loan": null,
