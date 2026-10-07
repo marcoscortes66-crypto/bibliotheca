@@ -1,5 +1,24 @@
 [
   {
+    "id": "muy89lo4jil0gga7kk",
+    "dateAdded": 1791384815092,
+    "loan": null,
+    "title": "Diccionario de Economia: Una exposición alfabética de conceptos económicos y su aplicación",
+    "author": "Arthur Seldon, F. G. Pennance",
+    "publisher": "Ediciones Orbis, S.A.",
+    "year": 1987,
+    "pages": 276,
+    "language": "Español",
+    "genre": "economía",
+    "isbn": "9788440201140",
+    "cover": "https://covers.openlibrary.org/b/id/7029402-L.jpg",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "noleido",
+    "rating": 0
+  },
+  {
     "id": "muy88ihlodrfffizhon",
     "dateAdded": 1791384764313,
     "loan": null,
