@@ -1,5 +1,25 @@
 [
   {
+    "id": "muy86odv14fkbta4ew3d",
+    "dateAdded": 1791384678643,
+    "loan": null,
+    "title": "Queso y Los Gusanos: El Cosmos, Según un Molinero Del Siglo XVI",
+    "author": "Carlo Ginzburg",
+    "publisher": "Muchnik",
+    "year": "",
+    "pages": "",
+    "language": "Español",
+    "genre": "Ensayo, Historia",
+    "isbn": "9788485501373",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNqZvUklHvid9XZpGX2jVsKG5z4u2y_ATXLy3ZgGuug&s=10",
+    "notes": "",
+    "room": "Habitación",
+    "shelf": "Estantería 3 -3",
+    "status": "leido",
+    "rating": 4,
+    "dateRead": 1791384678643
+  },
+  {
     "id": "muy83ygq3dhd85dpc1p",
     "dateAdded": 1791384551738,
     "loan": null,
